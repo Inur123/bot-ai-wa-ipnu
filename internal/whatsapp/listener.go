@@ -9,9 +9,12 @@ import (
 	"strings"
 	"time"
 
+	"bot-ai-wa-ipnu/internal/ai"
 	"bot-ai-wa-ipnu/internal/database"
-	"bot-ai-wa-ipnu/internal/gemini"
 	"bot-ai-wa-ipnu/internal/models"
+	"bot-ai-wa-ipnu/internal/timeutil"
+
+	"go.mau.fi/whatsmeow/types"
 )
 
 // kata-kata yang menandakan pesan adalah koreksi/update entry sebelumnya
@@ -79,7 +82,6 @@ func ListenAndProcess(ctx context.Context, msgChan <-chan *IncomingMessage) {
 			// Grup: hanya proses jika ada prefix @PITI
 			hasPrefix := strings.HasPrefix(msg.Message, triggerPrefix)
 			if msg.IsGroup && !hasPrefix && !msg.Mentioned {
-				log.Printf("[PITI-WA] Abaikan pesan grup (no mention/prefix): %s", msg.Message)
 				continue
 			}
 
@@ -159,7 +161,7 @@ func processMentionedMessage(ctx context.Context, from, chatID, message string) 
 	if sendScheduleResponse(ctx, chatID, message) {
 		return
 	}
-	reply, err := gemini.ChatReply(ctx, message, from)
+	reply, err := ai.ChatReply(ctx, message, from)
 	if err != nil {
 		log.Printf("[PITI-WA] Error parsing mention: %v", err)
 		_ = Send(ctx, chatID, "⚠️ PITI: Maaf, saya belum paham. Bisa dijelaskan lagi?")
@@ -220,7 +222,42 @@ func isAllowedUser(jid string) bool {
 	if allowed == "" {
 		return false
 	}
-	return stripDevicePart(jid) == normalizePhoneToJID(allowed)
+
+	incomingJID := stripDevicePart(jid)
+	allowedJID := normalizePhoneToJID(allowed)
+
+	// 1. Perbandingan langsung jika formatnya sama (misal sama-sama phone JID atau sama-sama LID)
+	if incomingJID == allowedJID {
+		return true
+	}
+
+	// 2. Jika incomingJID adalah LID, coba dapatkan phone JID-nya dari database whatsmeow
+	if strings.HasSuffix(incomingJID, "@lid") && WAClient != nil && WAClient.Store != nil && WAClient.Store.LIDs != nil {
+		parsedIncoming, err := types.ParseJID(incomingJID)
+		if err == nil {
+			pnJID, err := WAClient.Store.LIDs.GetPNForLID(context.Background(), parsedIncoming)
+			if err == nil && !pnJID.IsEmpty() {
+				if stripDevicePart(pnJID.String()) == allowedJID {
+					return true
+				}
+			}
+		}
+	}
+
+	// 3. Sebaliknya, jika incomingJID adalah LID tapi tidak ter-resolve, coba dapatkan LID untuk allowedJID
+	if strings.HasSuffix(incomingJID, "@lid") && WAClient != nil && WAClient.Store != nil && WAClient.Store.LIDs != nil {
+		parsedAllowed, err := types.ParseJID(allowedJID)
+		if err == nil {
+			lidJID, err := WAClient.Store.LIDs.GetLIDForPN(context.Background(), parsedAllowed)
+			if err == nil && !lidJID.IsEmpty() {
+				if incomingJID == stripDevicePart(lidJID.String()) {
+					return true
+				}
+			}
+		}
+	}
+
+	return false
 }
 
 func normalizePhoneToJID(phone string) string {
@@ -252,7 +289,7 @@ func sendScheduleResponse(ctx context.Context, chatID, message string) bool {
 		return false
 	}
 
-	loc := wibLoc()
+	loc := timeutil.Location()
 	now := time.Now().In(loc)
 	var start, end time.Time
 	var title string
@@ -311,21 +348,65 @@ func sendScheduleResponse(ctx context.Context, chatID, message string) bool {
 
 func scheduleQueryType(message string) (string, bool) {
 	lower := strings.ToLower(strings.TrimSpace(message))
-	keywords := []string{
-		"jadwal", "agenda", "schedule", "kegiatan", "acara",
-		"terjadwal", "yang sudah dibuat", "yang sudah anda buat",
-		"sudah dibuat", "sudah dibuatkan", "sudah dijadwalkan",
+
+	// 1. Jika mengandung kata perintah pembuatan/modifikasi/pencarian aksi spesifik, jangan anggap sebagai query daftar jadwal
+	actionKeywords := []string{
+		"buat", "tambah", "bikin", "jadwalkan", "kirim", "create", "add", "new", "koreksi", "ganti", "ubah", "edit", "update", "cancel", "batalkan", "hapus", "cari", "carikan", "minta",
 	}
-	match := false
-	for _, kw := range keywords {
-		if strings.Contains(lower, kw) {
-			match = true
+	for _, cw := range actionKeywords {
+		if strings.Contains(lower, cw) {
+			return "", false
+		}
+	}
+
+	// 2. Tentukan trigger melihat jadwal berdasarkan frasa atau pola tertentu
+	viewVerbs := []string{"lihat", "tampilkan", "daftar", "cek", "list", "show", "apa", "ada", "mana"}
+	nouns := []string{"jadwal", "agenda", "schedule", "kegiatan", "acara"}
+
+	hasViewVerb := false
+	for _, verb := range viewVerbs {
+		if strings.Contains(lower, verb) {
+			hasViewVerb = true
 			break
 		}
 	}
-	if !match {
+
+	hasNoun := false
+	for _, noun := range nouns {
+		if strings.Contains(lower, noun) {
+			hasNoun = true
+			break
+		}
+	}
+
+	hasRelativeTime := false
+	timeWords := []string{"hari ini", "hariini", "today", "besok", "tomorrow", "minggu ini", "nanti"}
+	for _, tw := range timeWords {
+		if strings.Contains(lower, tw) {
+			hasRelativeTime = true
+			break
+		}
+	}
+
+	// Cocok jika:
+	// - (Ada kata kerja lihat/cek/apa/ada DAN ada kata benda jadwal/agenda/kegiatan/acara)
+	// - ATAU (Ada kata benda jadwal/agenda/kegiatan/acara DAN ada waktu relatif seperti hari ini/besok)
+	isQuery := (hasViewVerb && hasNoun) || (hasNoun && hasRelativeTime)
+
+	// Jika hanya menyebut kata "jadwal", "agenda", atau "schedule" secara langsung
+	if !isQuery {
+		for _, explicit := range []string{"jadwal", "agenda", "schedule"} {
+			if lower == explicit {
+				isQuery = true
+				break
+			}
+		}
+	}
+
+	if !isQuery {
 		return "", false
 	}
+
 	if strings.Contains(lower, "hari ini") || strings.Contains(lower, "hariini") || strings.Contains(lower, "today") {
 		return "today", true
 	}
@@ -419,7 +500,7 @@ func autocorrectKeywords(message string) string {
 
 // applyConversationalFeedback menerapkan koreksi natural ke entry yang ada
 func applyConversationalFeedback(ctx context.Context, from, chatID, feedback string, existing *models.Entry) {
-	updated, err := gemini.ParseFeedbackAuto(ctx, feedback, existing)
+	updated, err := ai.ParseFeedbackAuto(ctx, feedback, existing)
 	if err != nil {
 		log.Printf("[PITI-WA] Error parsing feedback: %v", err)
 		_ = Send(ctx, chatID, "⚠️ PITI: Maaf, gagal memahami koreksimu. Coba lebih spesifik ya!")
@@ -449,7 +530,7 @@ func applyConversationalFeedback(ctx context.Context, from, chatID, feedback str
 
 // processNewEntry membuat entry baru dari pesan
 func processNewEntry(ctx context.Context, from, chatID, message string) {
-	parsed, err := gemini.Parse(ctx, message, from)
+	parsed, err := ai.Parse(ctx, message, from)
 	if err != nil {
 		log.Printf("[PITI-WA] Error parsing: %v", err)
 		_ = Send(ctx, chatID, "⚠️ PITI: Maaf, gagal memproses pesanmu. Coba lagi ya!")
@@ -494,7 +575,7 @@ func processFeedbackByID(ctx context.Context, from, chatID, message string) {
 
 // buildUpdateConfirmation membangun pesan konfirmasi setelah update
 func buildUpdateConfirmation(id int, entry *models.Entry) string {
-	wib := wibLoc()
+	wib := timeutil.Location()
 	msg := "✅ *PITI* - Berhasil diperbarui!\n\n"
 	msg += "📌 *ID:* #" + itoa(id) + "\n"
 	if entry != nil {
@@ -511,7 +592,7 @@ func buildUpdateConfirmation(id int, entry *models.Entry) string {
 
 // buildConfirmationMessage membangun pesan konfirmasi entry baru
 func buildConfirmationMessage(id int, parsed *models.ParsedEntry) string {
-	wib := wibLoc()
+	wib := timeutil.Location()
 	typeEmoji := map[models.EntryType]string{
 		models.EntryTypeReminder:        "⏰",
 		models.EntryTypeAnnouncement:    "📢",
@@ -544,15 +625,6 @@ func buildConfirmationMessage(id int, parsed *models.ParsedEntry) string {
 
 	msg += "\n_Untuk koreksi: cukup ketik \"ubah jamnya jadi..\" atau \"ingatkan jam..\"_"
 	return msg
-}
-
-// wibLoc mengembalikan timezone WIB
-func wibLoc() *time.Location {
-	loc, err := time.LoadLocation("Asia/Jakarta")
-	if err != nil {
-		return time.FixedZone("WIB", 7*60*60)
-	}
-	return loc
 }
 
 // parseIDAndFeedback mem-parse format "#12 feedback text"

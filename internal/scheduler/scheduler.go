@@ -11,6 +11,7 @@ import (
 
 	"bot-ai-wa-ipnu/internal/database"
 	"bot-ai-wa-ipnu/internal/models"
+	"bot-ai-wa-ipnu/internal/timeutil"
 	"bot-ai-wa-ipnu/internal/whatsapp"
 )
 
@@ -167,8 +168,8 @@ func buildOutgoingMessage(entry *models.Entry, targetName, targetType string) st
 
 	// Tambah tanggal & waktu jika ada event_at
 	if entry.Metadata.EventAt != nil {
-		msg += "📅 *Tanggal  :* " + entry.Metadata.EventAt.In(wibLoc()).Format("Monday, 02 January 2006") + "\n"
-		msg += "⏰ *Waktu    :* " + entry.Metadata.EventAt.In(wibLoc()).Format("15:04") + " WIB\n"
+		msg += "📅 *Tanggal  :* " + entry.Metadata.EventAt.In(timeutil.Location()).Format("Monday, 02 January 2006") + "\n"
+		msg += "⏰ *Waktu    :* " + entry.Metadata.EventAt.In(timeutil.Location()).Format("15:04") + " WIB\n"
 	}
 
 	// Tambah catatan jika ada
@@ -358,13 +359,4 @@ func stripDevicePart(jid string) string {
 		user = user[:colon]
 	}
 	return user + "@" + parts[1]
-}
-
-func wibLoc() *time.Location {
-	wib, err := time.LoadLocation("Asia/Jakarta")
-	if err != nil {
-		// fallback manual jika timezone tidak tersedia
-		return time.FixedZone("WIB", 7*60*60)
-	}
-	return wib
 }

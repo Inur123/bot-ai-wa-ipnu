@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"bot-ai-wa-ipnu/internal/database"
-	"bot-ai-wa-ipnu/internal/gemini"
+	"bot-ai-wa-ipnu/internal/ai"
 	"bot-ai-wa-ipnu/internal/handler"
 	"bot-ai-wa-ipnu/internal/scheduler"
 	"bot-ai-wa-ipnu/internal/whatsapp"
@@ -36,11 +36,11 @@ func main() {
 		log.Fatalf("[Main] Gagal migrasi database: %v", err)
 	}
 
-	// Inisialisasi AI (Gemini / Groq / dst)
-	if err := gemini.Init(ctx); err != nil {
+	// Inisialisasi AI (OpenRouter / OpenAI / dst)
+	if err := ai.Init(ctx); err != nil {
 		log.Fatalf("[PITI] Gagal inisialisasi AI: %v", err)
 	}
-	defer gemini.Close()
+	defer ai.Close()
 
 	// Jalankan Scheduler di background
 	go scheduler.Run(ctx)

@@ -65,6 +65,9 @@ APP_PORT=8080
 SCHEDULER_INTERVAL_SECONDS=30
 ```
 
+Knowledge dibaca dari folder lokal `knowledge/`.
+Pastikan file `.pdf`, `.docx`, `.txt`, atau `.md` tersedia di folder tersebut.
+
 ### 2. Buat database PostgreSQL
 
 ```sql

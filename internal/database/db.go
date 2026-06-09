@@ -20,7 +20,7 @@ func Connect() error {
 		getEnv("DB_PORT", "5432"),
 		getEnv("DB_USER", "postgres"),
 		getEnv("DB_PASSWORD", ""),
-		getEnv("DB_NAME", "hermes_agent"),
+		getEnv("DB_NAME", "piti_agent"),
 	)
 
 	var err error

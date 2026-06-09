@@ -1,9 +1,13 @@
 .env
 .env.example
+*.db
+*.sqlite
+*.sqlite3
 *.exe
 hermes
 /bin/
 /dist/
+.gocache/
 *.log
 *.test
 coverage.out

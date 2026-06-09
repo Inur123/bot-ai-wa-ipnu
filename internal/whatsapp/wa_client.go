@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	_ "github.com/mattn/go-sqlite3"
+	_ "github.com/lib/pq"
 	qrterminal "github.com/mdp/qrterminal/v3"
 	"go.mau.fi/whatsmeow"
 	waProto "go.mau.fi/whatsmeow/binary/proto"
@@ -75,14 +75,18 @@ var WAClient *whatsmeow.Client
 // InitWhatsApp menginisialisasi koneksi WhatsApp via whatsmeow
 // Mengembalikan channel yang akan menerima pesan masuk
 func InitWhatsApp(ctx context.Context) (<-chan *IncomingMessage, error) {
-	dbPath := os.Getenv("WA_DB_PATH")
-	if dbPath == "" {
-		dbPath = "./piti_wa.db"
+	storeDriver := strings.TrimSpace(os.Getenv("WA_STORE_DRIVER"))
+	if storeDriver == "" {
+		storeDriver = "postgres"
+	}
+	storeDSN := strings.TrimSpace(os.Getenv("WA_STORE_DSN"))
+	if storeDSN == "" {
+		storeDSN = buildWADSN()
 	}
 
-	// Setup SQLite store untuk menyimpan sesi WA
+	// Setup store untuk menyimpan sesi WA
 	dbLog := waLog.Stdout("WA-DB", "WARN", true)
-	container, err := sqlstore.New(ctx, "sqlite3", fmt.Sprintf("file:%s?_foreign_keys=on", dbPath), dbLog)
+	container, err := sqlstore.New(ctx, storeDriver, storeDSN, dbLog)
 	if err != nil {
 		return nil, fmt.Errorf("gagal membuat WA store: %w", err)
 	}
@@ -114,13 +118,19 @@ func InitWhatsApp(ctx context.Context) (<-chan *IncomingMessage, error) {
 
 			mentioned := false
 			if v.Message.GetExtendedTextMessage() != nil && v.Message.GetExtendedTextMessage().GetContextInfo() != nil {
-				mentioned = isSelfMentioned(v.Message.GetExtendedTextMessage().GetContextInfo().GetMentionedJID())
+				ctxInfo := v.Message.GetExtendedTextMessage().GetContextInfo()
+				mentioned = isSelfMentioned(ctxInfo.GetMentionedJID()) || isQuotedSelf(ctxInfo)
 			}
 			if !mentioned {
 				lower := strings.ToLower(text)
-				if strings.Contains(lower, "@piti") || (strings.Contains(lower, "@") && strings.Contains(lower, "piti")) {
+				prefixLower := strings.ToLower(os.Getenv("WA_TRIGGER_PREFIX"))
+				if prefixLower == "" {
+					prefixLower = "@rimita"
+				}
+				// Cek jika mengandung prefix trigger (seperti @rimita) atau jika nomor bot di-tag secara numerik
+				if strings.Contains(lower, prefixLower) {
 					mentioned = true
-				} else if hasNumericTag(text) {
+				} else if isSelfNumericTag(text) {
 					mentioned = true
 				}
 			}
@@ -170,6 +180,24 @@ func InitWhatsApp(ctx context.Context) (<-chan *IncomingMessage, error) {
 	return msgChan, nil
 }
 
+func buildWADSN() string {
+	host := getEnv("WA_DB_HOST", getEnv("DB_HOST", "localhost"))
+	port := getEnv("WA_DB_PORT", getEnv("DB_PORT", "5432"))
+	user := getEnv("WA_DB_USER", getEnv("DB_USER", "postgres"))
+	password := getEnv("WA_DB_PASSWORD", getEnv("DB_PASSWORD", ""))
+	name := getEnv("WA_DB_NAME", getEnv("DB_NAME", "hermes_agent"))
+	sslmode := getEnv("WA_DB_SSLMODE", "disable")
+
+	return fmt.Sprintf("host=%s port=%s user=%s password=%s dbname=%s sslmode=%s", host, port, user, password, name, sslmode)
+}
+
+func getEnv(key, fallback string) string {
+	if v := os.Getenv(key); v != "" {
+		return v
+	}
+	return fallback
+}
+
 // Disconnect memutuskan koneksi WA dengan bersih
 func Disconnect() {
 	if WAClient != nil {
@@ -187,13 +215,34 @@ type IncomingMessage struct {
 	Mentioned bool   // Apakah bot di-mention di grup
 }
 
+func isQuotedSelf(ctxInfo *waProto.ContextInfo) bool {
+	if ctxInfo == nil || ctxInfo.Participant == nil {
+		return false
+	}
+	quotedSender := stripDevicePart(*ctxInfo.Participant)
+	if WAClient == nil || WAClient.Store == nil || WAClient.Store.ID == nil {
+		return false
+	}
+	selfPhone := stripDevicePart(WAClient.Store.ID.String())
+	var selfLID string
+	if WAClient.Store.LID.User != "" {
+		selfLID = stripDevicePart(WAClient.Store.LID.String())
+	}
+	return quotedSender == selfPhone || (selfLID != "" && quotedSender == selfLID)
+}
+
 func isSelfMentioned(mentioned []string) bool {
 	if WAClient == nil || WAClient.Store == nil || WAClient.Store.ID == nil {
 		return false
 	}
-	self := stripDevicePart(WAClient.Store.ID.String())
+	selfPhone := stripDevicePart(WAClient.Store.ID.String())
+	var selfLID string
+	if WAClient.Store.LID.User != "" {
+		selfLID = stripDevicePart(WAClient.Store.LID.String())
+	}
 	for _, jid := range mentioned {
-		if stripDevicePart(jid) == self {
+		stripped := stripDevicePart(jid)
+		if stripped == selfPhone || (selfLID != "" && stripped == selfLID) {
 			return true
 		}
 	}
@@ -212,17 +261,27 @@ func stripDevicePart(jid string) string {
 	return user + "@" + parts[1]
 }
 
-func hasNumericTag(text string) bool {
+func isSelfNumericTag(text string) bool {
+	if WAClient == nil || WAClient.Store == nil || WAClient.Store.ID == nil {
+		return false
+	}
+	selfPhone := WAClient.Store.ID.User
+	var selfLIDPhone string
+	if WAClient.Store.LID.User != "" {
+		selfLIDPhone = WAClient.Store.LID.User
+	}
 	for _, token := range strings.Fields(text) {
 		if strings.HasPrefix(token, "@") && len(token) > 2 {
-			allDigits := true
+			// Bersihkan karakter non-digit di belakang jika ada tanda baca
+			tagNum := ""
 			for _, ch := range token[1:] {
-				if ch < '0' || ch > '9' {
-					allDigits = false
+				if ch >= '0' && ch <= '9' {
+					tagNum += string(ch)
+				} else {
 					break
 				}
 			}
-			if allDigits {
+			if tagNum == selfPhone || (selfLIDPhone != "" && tagNum == selfLIDPhone) {
 				return true
 			}
 		}

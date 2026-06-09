@@ -9,7 +9,7 @@ import (
 	"strconv"
 
 	"bot-ai-wa-ipnu/internal/database"
-	"bot-ai-wa-ipnu/internal/gemini"
+	"bot-ai-wa-ipnu/internal/ai"
 	"bot-ai-wa-ipnu/internal/models"
 )
 
@@ -17,7 +17,7 @@ import (
 func getAIProvider() string {
 	p := os.Getenv("AI_PROVIDER")
 	if p == "" {
-		return "gemini"
+		return "openai"
 	}
 	return p
 }
@@ -64,7 +64,7 @@ func CreateEntry(w http.ResponseWriter, r *http.Request) {
 	}
 
 	ctx := r.Context()
-	parsed, err := gemini.Parse(ctx, req.RawMessage, req.UserID)
+	parsed, err := ai.Parse(ctx, req.RawMessage, req.UserID)
 	if err != nil {
 		log.Printf("[Handler] Error parsing: %v", err)
 		writeError(w, http.StatusInternalServerError, "gagal parsing pesan: "+err.Error())
@@ -193,7 +193,7 @@ func FeedbackEntry(w http.ResponseWriter, r *http.Request) {
 	}
 
 	ctx := r.Context()
-	updated, err := gemini.ParseFeedbackAuto(ctx, req.Feedback, existing)
+	updated, err := ai.ParseFeedbackAuto(ctx, req.Feedback, existing)
 	if err != nil {
 		writeError(w, http.StatusInternalServerError, "gagal parsing feedback: "+err.Error())
 		return
@@ -286,7 +286,7 @@ func SimulateWAMessage(w http.ResponseWriter, r *http.Request) {
 	log.Printf("[Simulate] Pesan dari %s: %s", req.From, req.Message)
 
 	ctx := context.Background()
-	parsed, err := gemini.Parse(ctx, req.Message, req.From)
+	parsed, err := ai.Parse(ctx, req.Message, req.From)
 	if err != nil {
 		writeError(w, http.StatusInternalServerError, "gagal parsing: "+err.Error())
 		return
