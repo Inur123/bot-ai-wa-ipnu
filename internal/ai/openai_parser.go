@@ -13,7 +13,9 @@ import (
 	"strings"
 	"time"
 
+	"bot-ai-wa-ipnu/internal/database"
 	"bot-ai-wa-ipnu/internal/models"
+	"bot-ai-wa-ipnu/internal/search"
 	"bot-ai-wa-ipnu/internal/timeutil"
 )
 
@@ -141,8 +143,35 @@ func ChatOpenAI(ctx context.Context, message, userID string) (string, error) {
 	modelName := getOpenAIModel()
 	apiKey := os.Getenv("OPENAI_API_KEY")
 
+	var searchContext string
+	if detectSearchIntent(ctx, message) {
+		searchQuery := formulateSearchQuery(ctx, message)
+		log.Printf("[Search] Mendeteksi perlunya pencarian internet. Query hasil formulasi: %s", searchQuery)
+		results, err := search.YahooSearch(searchQuery)
+		if err == nil && len(results) > 0 {
+			var sb strings.Builder
+			sb.WriteString("\n\nBerikut adalah hasil pencarian internet terkini yang valid untuk membantu Anda menjawab pertanyaan user (gunakan info ini jika relevan):\n")
+			for i, r := range results {
+				if i >= 4 {
+					break
+				}
+				sb.WriteString(fmt.Sprintf("- Judul: %s\n  Link/URL: %s\n  Info: %s\n", r.Title, r.URL, r.Snippet))
+			}
+			searchContext = sb.String()
+			log.Printf("[Search] Berhasil menyisipkan %d hasil pencarian ke konteks AI.", len(results))
+		} else {
+			log.Printf("[Search] Pencarian tidak menghasilkan data atau gagal: %v", err)
+		}
+	}
+
 	limit := configuredOpenAIKnowledgeLimit()
 	systemPrompt := buildChatSystemPromptWithLimit(message, limit)
+	if dbContext := getRecentAgendasContext(); dbContext != "" {
+		systemPrompt += dbContext
+	}
+	if searchContext != "" {
+		systemPrompt += searchContext
+	}
 
 	reqBody := map[string]interface{}{
 		"model":       modelName,
@@ -160,6 +189,100 @@ func ChatOpenAI(ctx context.Context, message, userID string) (string, error) {
 	}
 
 	return strings.TrimSpace(respText), nil
+}
+
+func detectSearchIntent(ctx context.Context, message string) bool {
+	baseURL := getOpenAIBaseURL()
+	modelName := getOpenAIModel()
+	apiKey := os.Getenv("OPENAI_API_KEY")
+
+	systemPrompt := `Kamu adalah asisten pintar. Tugasmu adalah mendeteksi apakah pesan dari user membutuhkan informasi terbaru dari internet (misal berita hari ini, lirik lagu viral, cuaca terbaru, fakta aktual yang dinamis, atau informasi luar yang tidak bersifat lokal organisasi).
+Jawab HANYA dengan satu kata: "YA" jika butuh mencari ke internet, atau "TIDAK" jika itu pertanyaan umum, obrolan santai, sapaan, atau urusan internal administrasi/jadwal organisasi IPNU-IPPNU.
+JANGAN memberikan alasan atau teks tambahan apa pun.`
+
+	reqBody := map[string]interface{}{
+		"model":       modelName,
+		"temperature": 0.0,
+		"messages": []map[string]string{
+			{"role": "system", "content": systemPrompt},
+			{"role": "user", "content": message},
+		},
+		"stream": false,
+	}
+
+	resp, err := callOpenAI(ctx, baseURL, apiKey, reqBody)
+	if err != nil {
+		log.Printf("[Search-Intent] Gagal mendeteksi intent search: %v", err)
+		return false
+	}
+
+	ans := strings.ToUpper(strings.TrimSpace(resp))
+	log.Printf("[Search-Intent] Deteksi untuk '%s': %s", message, ans)
+	return strings.Contains(ans, "YA")
+}
+
+func formulateSearchQuery(ctx context.Context, message string) string {
+	baseURL := getOpenAIBaseURL()
+	modelName := getOpenAIModel()
+	apiKey := os.Getenv("OPENAI_API_KEY")
+
+	systemPrompt := `Kamu adalah asisten formulasi pencarian. Tugasmu adalah membuat satu query pencarian mesin pencari (search query) yang singkat, padat, dan sangat spesifik berdasarkan pesan user dan konteks percakapan yang diberikan.
+Jawab HANYA dengan query pencarian tersebut (misal: "lirik lagu mbg viral" atau "presiden indonesia 2026"). JANGAN berikan tanda kutip, penjelasan, atau teks tambahan apa pun.`
+
+	reqBody := map[string]interface{}{
+		"model":       modelName,
+		"temperature": 0.0,
+		"messages": []map[string]string{
+			{"role": "system", "content": systemPrompt},
+			{"role": "user", "content": message},
+		},
+		"stream": false,
+	}
+
+	resp, err := callOpenAI(ctx, baseURL, apiKey, reqBody)
+	if err != nil {
+		log.Printf("[Search-Query] Gagal memformulasi query: %v", err)
+		return cleanQueryForSearch(message)
+	}
+
+	query := strings.TrimSpace(resp)
+	query = strings.Trim(query, `"'`)
+	log.Printf("[Search-Query] Formulasi query untuk '%s' -> '%s'", message, query)
+	return query
+}
+
+func cleanQueryForSearch(message string) string {
+	if strings.HasPrefix(message, "[Konteks:") {
+		idx := strings.Index(message, "]\n")
+		if idx != -1 {
+			return strings.TrimSpace(message[idx+2:])
+		}
+		idx2 := strings.Index(message, "]")
+		if idx2 != -1 {
+			return strings.TrimSpace(message[idx2+1:])
+		}
+	}
+	return message
+}
+
+func getRecentAgendasContext() string {
+	entries, err := database.GetAllEntries(15, 0)
+	if err != nil || len(entries) == 0 {
+		return ""
+	}
+
+	var sb strings.Builder
+	sb.WriteString("\n\nDAFTAR AGENDA/REMINDER TERBARU DI DATABASE (Gunakan info ini untuk menjawab pertanyaan terkait agenda/reminder):\n")
+	for _, e := range entries {
+		triggersStr := ""
+		for _, t := range e.Metadata.Triggers {
+			triggersStr += fmt.Sprintf("%s (%s), ", t.SendAt.Format("02 Jan 2006 15:04 WIB"), t.Status)
+		}
+		triggersStr = strings.TrimSuffix(triggersStr, ", ")
+		sb.WriteString(fmt.Sprintf("- ID: #%d | Tipe: %s | Status: %s | Konten: %s | Jadwal Kirim: %s\n",
+			e.ID, e.Type, e.Status, e.Content, triggersStr))
+	}
+	return sb.String()
 }
 
 func getOpenAIBaseURL() string {

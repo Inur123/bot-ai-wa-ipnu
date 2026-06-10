@@ -12,6 +12,7 @@ import (
 
 	"bot-ai-wa-ipnu/internal/knowledge"
 	"bot-ai-wa-ipnu/internal/models"
+	"bot-ai-wa-ipnu/internal/search"
 	"bot-ai-wa-ipnu/internal/timeutil"
 
 	"github.com/google/generative-ai-go/genai"
@@ -186,8 +187,35 @@ func ChatGemini(ctx context.Context, message, userID string) (string, error) {
 		modelName = "gemini-1.5-flash"
 	}
 
+	var searchContext string
+	if detectSearchIntentGemini(ctx, message) {
+		searchQuery := formulateSearchQueryGemini(ctx, message)
+		log.Printf("[Search-Gemini] Mendeteksi perlunya pencarian internet. Query hasil formulasi: %s", searchQuery)
+		results, err := search.YahooSearch(searchQuery)
+		if err == nil && len(results) > 0 {
+			var sb strings.Builder
+			sb.WriteString("\n\nBerikut adalah hasil pencarian internet terkini yang valid untuk membantu Anda menjawab pertanyaan user (gunakan info ini jika relevan):\n")
+			for i, r := range results {
+				if i >= 4 {
+					break
+				}
+				sb.WriteString(fmt.Sprintf("- Judul: %s\n  Link/URL: %s\n  Info: %s\n", r.Title, r.URL, r.Snippet))
+			}
+			searchContext = sb.String()
+			log.Printf("[Search-Gemini] Berhasil menyisipkan %d hasil pencarian ke konteks AI.", len(results))
+		} else {
+			log.Printf("[Search-Gemini] Pencarian tidak menghasilkan data atau gagal: %v", err)
+		}
+	}
+
 	limit := configuredGeminiKnowledgeLimit()
 	systemPrompt := buildChatSystemPromptWithLimit(message, limit)
+	if dbContext := getRecentAgendasContext(); dbContext != "" {
+		systemPrompt += dbContext
+	}
+	if searchContext != "" {
+		systemPrompt += searchContext
+	}
 
 	model := genaiClient.GenerativeModel(modelName)
 	model.SetTemperature(0.4)
@@ -451,7 +479,10 @@ TUGAS UTAMA:
 	   - Draft surat: buat struktur rapi, formal, dan siap diedit. Gunakan placeholder seperti [Nomor Surat], [Tanggal], [Tempat] jika data belum diberikan.
 	   - Undangan/pengumuman: prioritaskan Acara, Hari/Tanggal, Waktu, Tempat, Peserta, Catatan, dan Narahubung jika disebut.
 	   - Notulen/rangkuman: pisahkan Poin Pembahasan, Keputusan, Tindak Lanjut, PIC, dan Deadline jika datanya ada.
-	7. FORMAT: Jawab langsung dalam format teks biasa (plain text), singkat, padat, jelas, dan interaktif. Jangan gunakan format JSON atau markdown codeblock.`
+	7. FORMAT: Jawab langsung dalam format teks biasa (plain text), singkat, padat, jelas, dan interaktif. Jangan gunakan format JSON atau markdown codeblock.
+	8. ANTI-TECHNICAL LANGUAGE (BAHASA MANUSIA):
+	   - JANGAN PERNAH menyebut istilah teknis seperti "database", "sistem", "database saya", "sistem saya", "memori bot", "basis data", atau "server" ketika menjelaskan informasi yang tidak/belum Anda ketahui.
+	   - Gunakan bahasa yang halus, ramah, dan manusiawi layaknya teman dekat. Sebagai ganti, gunakan kata seperti: "catatan PITI", "ingatan PITI", "buku agenda PITI", "belum masuk ke catatan PITI", atau "PITI belum diinfokan oleh pengurus/admin".`
 
 	return prompt
 }
@@ -520,4 +551,86 @@ func parseRetryDuration(errStr string) time.Duration {
 		}
 	}
 	return 0
+}
+
+func detectSearchIntentGemini(ctx context.Context, message string) bool {
+	if genaiClient == nil {
+		return false
+	}
+	modelName := os.Getenv("GEMINI_MODEL")
+	if modelName == "" {
+		modelName = "gemini-1.5-flash"
+	}
+
+	systemPrompt := `Kamu adalah asisten pintar. Tugasmu adalah mendeteksi apakah pesan dari user membutuhkan informasi terbaru dari internet (misal berita hari ini, lirik lagu viral, cuaca terbaru, fakta aktual yang dinamis, atau informasi luar yang tidak bersifat lokal organisasi).
+Jawab HANYA dengan satu kata: "YA" jika butuh mencari ke internet, atau "TIDAK" jika itu pertanyaan umum, obrolan santai, sapaan, atau urusan internal administrasi/jadwal organisasi IPNU-IPPNU.
+JANGAN memberikan alasan atau teks tambahan apa pun.`
+
+	model := genaiClient.GenerativeModel(modelName)
+	model.SetTemperature(0.0)
+	model.SystemInstruction = &genai.Content{
+		Parts: []genai.Part{genai.Text(systemPrompt)},
+	}
+
+	resp, err := generateContentWithRetry(ctx, model, genai.Text(message))
+	if err != nil {
+		log.Printf("[Search-Intent] Gagal mendeteksi intent search lewat Gemini: %v", err)
+		return false
+	}
+
+	if len(resp.Candidates) == 0 || len(resp.Candidates[0].Content.Parts) == 0 {
+		return false
+	}
+
+	var sb strings.Builder
+	for _, part := range resp.Candidates[0].Content.Parts {
+		if textPart, ok := part.(genai.Text); ok {
+			sb.WriteString(string(textPart))
+		}
+	}
+
+	ans := strings.ToUpper(strings.TrimSpace(sb.String()))
+	log.Printf("[Search-Intent-Gemini] Deteksi untuk '%s': %s", message, ans)
+	return strings.Contains(ans, "YA")
+}
+
+func formulateSearchQueryGemini(ctx context.Context, message string) string {
+	if genaiClient == nil {
+		return cleanQueryForSearch(message)
+	}
+	modelName := os.Getenv("GEMINI_MODEL")
+	if modelName == "" {
+		modelName = "gemini-1.5-flash"
+	}
+
+	systemPrompt := `Kamu adalah asisten formulasi pencarian. Tugasmu adalah membuat satu query pencarian mesin pencari (search query) yang singkat, padat, dan sangat spesifik berdasarkan pesan user dan konteks percakapan yang diberikan.
+Jawab HANYA dengan query pencarian tersebut (misal: "lirik lagu mbg viral" atau "presiden indonesia 2026"). JANGAN berikan tanda kutip, penjelasan, atau teks tambahan apa pun.`
+
+	model := genaiClient.GenerativeModel(modelName)
+	model.SetTemperature(0.0)
+	model.SystemInstruction = &genai.Content{
+		Parts: []genai.Part{genai.Text(systemPrompt)},
+	}
+
+	resp, err := generateContentWithRetry(ctx, model, genai.Text(message))
+	if err != nil {
+		log.Printf("[Search-Query-Gemini] Gagal memformulasi query: %v", err)
+		return cleanQueryForSearch(message)
+	}
+
+	if len(resp.Candidates) == 0 || len(resp.Candidates[0].Content.Parts) == 0 {
+		return cleanQueryForSearch(message)
+	}
+
+	var sb strings.Builder
+	for _, part := range resp.Candidates[0].Content.Parts {
+		if textPart, ok := part.(genai.Text); ok {
+			sb.WriteString(string(textPart))
+		}
+	}
+
+	query := strings.TrimSpace(sb.String())
+	query = strings.Trim(query, `"'`)
+	log.Printf("[Search-Query-Gemini] Formulasi query untuk '%s' -> '%s'", message, query)
+	return query
 }

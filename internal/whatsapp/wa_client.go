@@ -117,9 +117,16 @@ func InitWhatsApp(ctx context.Context) (<-chan *IncomingMessage, error) {
 			}
 
 			mentioned := false
+			quotedText := ""
 			if v.Message.GetExtendedTextMessage() != nil && v.Message.GetExtendedTextMessage().GetContextInfo() != nil {
 				ctxInfo := v.Message.GetExtendedTextMessage().GetContextInfo()
 				mentioned = isSelfMentioned(ctxInfo.GetMentionedJID()) || isQuotedSelf(ctxInfo)
+				if ctxInfo.QuotedMessage != nil {
+					quotedText = ctxInfo.QuotedMessage.GetConversation()
+					if quotedText == "" && ctxInfo.QuotedMessage.ExtendedTextMessage != nil {
+						quotedText = ctxInfo.QuotedMessage.ExtendedTextMessage.GetText()
+					}
+				}
 			}
 			if !mentioned {
 				lower := strings.ToLower(text)
@@ -136,11 +143,12 @@ func InitWhatsApp(ctx context.Context) (<-chan *IncomingMessage, error) {
 			}
 
 			msgChan <- &IncomingMessage{
-				From:      v.Info.Sender.String(),
-				ChatID:    v.Info.Chat.String(),
-				Message:   text,
-				IsGroup:   v.Info.IsGroup,
-				Mentioned: mentioned,
+				From:          v.Info.Sender.String(),
+				ChatID:        v.Info.Chat.String(),
+				Message:       text,
+				IsGroup:       v.Info.IsGroup,
+				Mentioned:     mentioned,
+				QuotedMessage: quotedText,
 			}
 		}
 	})
@@ -208,11 +216,12 @@ func Disconnect() {
 
 // IncomingMessage adalah pesan masuk dari WA
 type IncomingMessage struct {
-	From      string // JID pengirim
-	ChatID    string // JID chat (grup atau personal)
-	Message   string // Isi pesan
-	IsGroup   bool   // Apakah dari grup
-	Mentioned bool   // Apakah bot di-mention di grup
+	From          string // JID pengirim
+	ChatID        string // JID chat (grup atau personal)
+	Message       string // Isi pesan
+	IsGroup       bool   // Apakah dari grup
+	Mentioned     bool   // Apakah bot di-mention di grup
+	QuotedMessage string // Isi pesan yang dibalas/dikutip (jika ada)
 }
 
 func isQuotedSelf(ctxInfo *waProto.ContextInfo) bool {

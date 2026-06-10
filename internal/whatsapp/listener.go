@@ -103,7 +103,7 @@ func ListenAndProcess(ctx context.Context, msgChan <-chan *IncomingMessage) {
 						log.Printf("[PITI-WA] ⚠️ Panic recovered: %v", r)
 					}
 				}()
-				processConversational(ctx, m.From, m.ChatID, text, mentioned, m.IsGroup)
+				processConversational(ctx, m.From, m.ChatID, text, mentioned, m.IsGroup, m.QuotedMessage)
 			}(msg, cleanMsg, msg.IsGroup && (hasPrefix || msg.Mentioned))
 		}
 	}
@@ -113,7 +113,7 @@ func ListenAndProcess(ctx context.Context, msgChan <-chan *IncomingMessage) {
 // - Format #ID → koreksi entry spesifik
 // - Kata koreksi terdeteksi → update entry terakhir user otomatis
 // - Perintah baru → buat entry baru
-func processConversational(ctx context.Context, from, chatID, message string, isMention, isGroup bool) {
+func processConversational(ctx context.Context, from, chatID, message string, isMention, isGroup bool, quotedMessage string) {
 	message = autocorrectKeywords(message)
 
 	if !isAllowedUser(from) {
@@ -131,7 +131,7 @@ func processConversational(ctx context.Context, from, chatID, message string, is
 	}
 
 	if isMention {
-		processMentionedMessage(ctx, from, chatID, message)
+		processMentionedMessage(ctx, from, chatID, message, quotedMessage)
 		return
 	}
 
@@ -157,9 +157,12 @@ func processConversational(ctx context.Context, from, chatID, message string, is
 }
 
 // processMentionedMessage membalas langsung tanpa template jika bot disebut di grup.
-func processMentionedMessage(ctx context.Context, from, chatID, message string) {
+func processMentionedMessage(ctx context.Context, from, chatID, message, quotedMessage string) {
 	if sendScheduleResponse(ctx, chatID, message) {
 		return
+	}
+	if quotedMessage != "" {
+		message = fmt.Sprintf("[Konteks: membalas pesan PITI sebelumnya: \"%s\"]\n%s", quotedMessage, message)
 	}
 	reply, err := ai.ChatReply(ctx, message, from)
 	if err != nil {
@@ -349,61 +352,34 @@ func sendScheduleResponse(ctx context.Context, chatID, message string) bool {
 func scheduleQueryType(message string) (string, bool) {
 	lower := strings.ToLower(strings.TrimSpace(message))
 
-	// 1. Jika mengandung kata perintah pembuatan/modifikasi/pencarian aksi spesifik, jangan anggap sebagai query daftar jadwal
-	actionKeywords := []string{
-		"buat", "tambah", "bikin", "jadwalkan", "kirim", "create", "add", "new", "koreksi", "ganti", "ubah", "edit", "update", "cancel", "batalkan", "hapus", "cari", "carikan", "minta",
-	}
-	for _, cw := range actionKeywords {
-		if strings.Contains(lower, cw) {
-			return "", false
-		}
-	}
-
-	// 2. Tentukan trigger melihat jadwal berdasarkan frasa atau pola tertentu
-	viewVerbs := []string{"lihat", "tampilkan", "daftar", "cek", "list", "show", "apa", "ada", "mana"}
-	nouns := []string{"jadwal", "agenda", "schedule", "kegiatan", "acara"}
-
-	hasViewVerb := false
-	for _, verb := range viewVerbs {
-		if strings.Contains(lower, verb) {
-			hasViewVerb = true
+	// Hanya layani perintah list/daftar secara ketat agar pertanyaan percakapan tidak terpotong
+	isStrictQuery := false
+	
+	// 1. Cek kecocokan persis
+	exactCommands := []string{"agenda", "jadwal", "schedule", "list agenda", "list jadwal", "daftar agenda", "daftar jadwal", "cek agenda", "cek jadwal"}
+	for _, cmd := range exactCommands {
+		if lower == cmd {
+			isStrictQuery = true
 			break
 		}
 	}
 
-	hasNoun := false
-	for _, noun := range nouns {
-		if strings.Contains(lower, noun) {
-			hasNoun = true
-			break
+	// 2. Cek kecocokan prefix atau substring spesifik
+	if !isStrictQuery {
+		prefixes := []string{
+			"daftar agenda", "daftar jadwal", "list agenda", "list jadwal",
+			"cek agenda", "cek jadwal", "lihat agenda", "lihat jadwal",
+			"agenda hari ini", "jadwal hari ini", "agenda besok", "jadwal besok",
 		}
-	}
-
-	hasRelativeTime := false
-	timeWords := []string{"hari ini", "hariini", "today", "besok", "tomorrow", "minggu ini", "nanti"}
-	for _, tw := range timeWords {
-		if strings.Contains(lower, tw) {
-			hasRelativeTime = true
-			break
-		}
-	}
-
-	// Cocok jika:
-	// - (Ada kata kerja lihat/cek/apa/ada DAN ada kata benda jadwal/agenda/kegiatan/acara)
-	// - ATAU (Ada kata benda jadwal/agenda/kegiatan/acara DAN ada waktu relatif seperti hari ini/besok)
-	isQuery := (hasViewVerb && hasNoun) || (hasNoun && hasRelativeTime)
-
-	// Jika hanya menyebut kata "jadwal", "agenda", atau "schedule" secara langsung
-	if !isQuery {
-		for _, explicit := range []string{"jadwal", "agenda", "schedule"} {
-			if lower == explicit {
-				isQuery = true
+		for _, prefix := range prefixes {
+			if lower == prefix || strings.HasPrefix(lower, prefix+" ") {
+				isStrictQuery = true
 				break
 			}
 		}
 	}
 
-	if !isQuery {
+	if !isStrictQuery {
 		return "", false
 	}
 
