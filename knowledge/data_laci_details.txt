@@ -1,0 +1,2866 @@
+=== DETAIL DATA LENGKAP LACI PELAJAR NU KABUPATEN MAGETAN ===
+
+--- DAFTAR PERIODE MASAS KHIDMAT ---
+- Periode/Masa Khidmat: Masa Khidmat 2025-2027 (Status: AKTIF, ID: cmpzjupq7000wwqa1a7ttn797)
+- Periode/Masa Khidmat: masa khidmat 2024-2026 (Status: AKTIF, ID: cmpwr3x9v00d3wqx1x4y6mg2b)
+- Periode/Masa Khidmat: 2026-2028 (Status: AKTIF, ID: cmpl8k0ew003mwq37edly228o)
+- Periode/Masa Khidmat: 2026-2028 (Status: AKTIF, ID: cmpja2u9r009gwqtfv51cr92a)
+- Periode/Masa Khidmat: 2026-2028 (Status: AKTIF, ID: cmpj9z5xz0098wqtf500t8b25)
+- Periode/Masa Khidmat: 2025-2026 (Status: AKTIF, ID: cmpj9x3p90090wqtff9encg96)
+- Periode/Masa Khidmat: 2025-2027 (Status: AKTIF, ID: cmpj9wphh008swqtfpx568lrs)
+- Periode/Masa Khidmat: 2025-2027 (Status: Non-aktif, ID: cmpj9wnbx008owqtfn73681k3)
+- Periode/Masa Khidmat: Periode IPNU-8/IPPNU-7 (Status: AKTIF, ID: cmpj9wa3o008kwqtfxj1buufr)
+- Periode/Masa Khidmat: 2026-2028 (Status: AKTIF, ID: cmpj9w90v008gwqtfd3up66we)
+- Periode/Masa Khidmat: 2025-2027 (Status: AKTIF, ID: cmpj9w8if008cwqtflxg1dthe)
+- Periode/Masa Khidmat: 2025-2027 (Status: AKTIF, ID: cmpj9w6rg0088wqtfjr00xnek)
+- Periode/Masa Khidmat: 2026-2027 (Status: AKTIF, ID: cmpj9w6mx0084wqtfn1ym1p5m)
+- Periode/Masa Khidmat: 2025-2027 (Status: AKTIF, ID: cmpj9w5m90080wqtf0u9pty8v)
+- Periode/Masa Khidmat: 2024-2026 (Status: AKTIF, ID: cmpj9vugs007swqtfboppghpd)
+- Periode/Masa Khidmat: 2024-2026 (Status: AKTIF, ID: cmpj9vszl007owqtfzi3h6nif)
+- Periode/Masa Khidmat: 2025-2027 (Status: AKTIF, ID: cmpj9vqsq007kwqtf8aovs378)
+- Periode/Masa Khidmat: 2025-2027 (Status: AKTIF, ID: cmpj9vm3f007gwqtftiwl7gud)
+- Periode/Masa Khidmat: 2025-2027 (Status: AKTIF, ID: cmpj9utlw007cwqtfbzj1ckzs)
+- Periode/Masa Khidmat: 2025-2027 (Status: AKTIF, ID: cmpj9uqie0078wqtfnzzmktd4)
+- Periode/Masa Khidmat: 2025-2027 (Status: AKTIF, ID: cmogli0wq0001wqirybr1z8ob)
+
+--- DAFTAR AKUN PENGURUS & PAC IPNU-IPPNU KABUPATEN MAGETAN ---
+- Nama: PAC KARTOHARJO (Email: pelajarnukartoharjo@gmail.com, Jabatan/Role: SEKRETARIS_PAC, Status: Aktif, Verifikasi: Terverifikasi)
+- Nama: PAC PLAOSAN (Email: pacipnuippnuplaosan24@gmail.com, Jabatan/Role: SEKRETARIS_PAC, Status: Aktif, Verifikasi: Terverifikasi)
+- Nama: PK Smk Roda (Email: tiara1922inda@gmail.com, Jabatan/Role: SEKRETARIS_PAC, Status: Aktif, Verifikasi: Terverifikasi)
+- Nama: pacipnuippnu lembeyan (Email: pacipnuippnulembeyan02@gmail.com, Jabatan/Role: SEKRETARIS_PAC, Status: Aktif, Verifikasi: Terverifikasi)
+- Nama: Pacipnuippnumagetan (Email: pacipnuippnumagetan22@gmail.com, Jabatan/Role: SEKRETARIS_PAC, Status: Aktif, Verifikasi: Terverifikasi)
+- Nama: PK Sumursongo (Email: fazhafauza711@gmail.com, Jabatan/Role: SEKRETARIS_PAC, Status: Aktif, Verifikasi: Terverifikasi)
+- Nama: PAC Sidorejo (Email: ipnuippnupacsidorejo@gmail.com, Jabatan/Role: SEKRETARIS_PAC, Status: Aktif, Verifikasi: Terverifikasi)
+- Nama: PAC IPNU IPPNU SUKOMORO (Email: pelajarnu.sukomoromagetan@gmail.com, Jabatan/Role: SEKRETARIS_PAC, Status: Aktif, Verifikasi: Terverifikasi)
+- Nama: PAC PONCOL (Email: ipnuippnupacponcol23@gmail.com, Jabatan/Role: SEKRETARIS_PAC, Status: Aktif, Verifikasi: Terverifikasi)
+- Nama: PAC KAWEDANAN (Email: pelajarnukawedanan@gmail.com, Jabatan/Role: SEKRETARIS_PAC, Status: Aktif, Verifikasi: Terverifikasi)
+- Nama: PAC Parang (Email: ipnuippnupacparang26@gmail.com, Jabatan/Role: SEKRETARIS_PAC, Status: Aktif, Verifikasi: Terverifikasi)
+- Nama: PAC BENDO (Email: bendopelajarnu@gmail.com, Jabatan/Role: SEKRETARIS_PAC, Status: Aktif, Verifikasi: Terverifikasi)
+- Nama: Pac Barat (Email: ipnuippnubarat@gmail.com, Jabatan/Role: SEKRETARIS_PAC, Status: Aktif, Verifikasi: Terverifikasi)
+- Nama: PAC MAOSPATI (Email: pelajarnumaospati@gmail.com, Jabatan/Role: SEKRETARIS_PAC, Status: Aktif, Verifikasi: Terverifikasi)
+- Nama: PK AL HIDAYAT (Email: sholikahzahra155@gmail.com, Jabatan/Role: SEKRETARIS_PAC, Status: Aktif, Verifikasi: Terverifikasi)
+- Nama: PAC Ngariboyo  (Email: ngariboyopac@gmail.com, Jabatan/Role: SEKRETARIS_PAC, Status: Aktif, Verifikasi: Terverifikasi)
+- Nama: PAC Karangrejo (Email: pelajarnukarangrejo32@gmail.com, Jabatan/Role: SEKRETARIS_PAC, Status: Aktif, Verifikasi: Terverifikasi)
+- Nama: PAC Karas (Email: pacipnuippnukaras21@gmail.com, Jabatan/Role: SEKRETARIS_PAC, Status: Aktif, Verifikasi: Terverifikasi)
+- Nama: PAC IPNU IPPNU PANEKAN (Email: pelajarnupanekan@gmail.com, Jabatan/Role: SEKRETARIS_PAC, Status: Aktif, Verifikasi: Terverifikasi)
+- Nama: Sekretaris Cabang (Email: lacipelajarnumagetan@gmail.com, Jabatan/Role: SEKRETARIS_CABANG, Status: Aktif, Verifikasi: Terverifikasi)
+
+--- DAFTAR KEGIATAN & AGENDA TERDAFTAR ---
+- Agenda: Diklatama
+  Waktu Mulai: 26 June 2026 jam 01:39 WIB
+  Lokasi: Ngariboyo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: ⁠ ⁠LAKUT IPPNU Korda Madiun 
+  Waktu Mulai: 13 June 2026 jam 01:38 WIB
+  Lokasi: Ngawi
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: ⁠makesta Pac Sidorejo 
+  Waktu Mulai: 06 June 2026 jam 01:37 WIB
+  Lokasi: Mtsn 10 Magetan 
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Rapimcab
+  Waktu Mulai: 24 May 2026 jam 01:40 WIB
+  Lokasi:  ⁠Aula Kantor Kemenag Magetan 
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Rutinan Sholawatan PAC Panekan
+  Waktu Mulai: 23 May 2026 jam 12:03 WIB
+  Lokasi: Panekan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Ranting Se-kecamatan Karangrejo 
+  Waktu Mulai: 20 May 2026 jam 08:02 WIB
+  Lokasi: ⁠ranting Se-kecamatan Karangrejo 
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Rtl Makesta Pk Al-hidayat Ginuk
+  Waktu Mulai: 14 May 2026 jam 08:02 WIB
+  Lokasi: -
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Pelantikan PAC Plaosan
+  Waktu Mulai: 09 May 2026 jam 03:20 WIB
+  Lokasi: Pendopo Lembah Serimpi Jl. Raya Sentul Pandean, Randugede, Plaosan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Rapimwil dan Rakorwil IPNU Jatim
+  Waktu Mulai: 09 May 2026 jam 03:20 WIB
+  Lokasi: Kota Batu
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Lakmud PAC Kawedanan
+  Waktu Mulai: 01 May 2026 jam 03:20 WIB
+  Lokasi: MI Plus Nurul Ulum Karangrejo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Turba Zona 1 Parang, Ngariboyo, Magetan
+  Waktu Mulai: 26 April 2026 jam 03:20 WIB
+  Lokasi: Depot Aruna Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Turba Zona 3 Karas, Kartoharjo, Karangrejo, Barat
+  Waktu Mulai: 25 April 2026 jam 03:19 WIB
+  Lokasi: Caffe Dewi Sri Barat
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Turba Pac Poncol
+  Waktu Mulai: 25 April 2026 jam 03:19 WIB
+  Lokasi: Indo Caffe Poncol
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Training of Trainer DKC CBP-KPP Magetan
+  Waktu Mulai: 25 April 2026 jam 03:18 WIB
+  Lokasi: Bumi Perkemahan Alas Tuwo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Turba Zona 4 Maospati, Bendo, Sukomoro
+  Waktu Mulai: 19 April 2026 jam 03:18 WIB
+  Lokasi: Pawon Bambu Maospati
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Turba PAC Panekan
+  Waktu Mulai: 19 April 2026 jam 03:18 WIB
+  Lokasi: Wedangan Nyawah
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Turba Zona 5 Kawedanan, Lembeyan
+  Waktu Mulai: 18 April 2026 jam 03:17 WIB
+  Lokasi: Emdi Cafe
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Turba PAC Plaosan
+  Waktu Mulai: 12 April 2026 jam 03:17 WIB
+  Lokasi: MWC NU Plaosan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Turba PAC Sidorejo
+  Waktu Mulai: 10 April 2026 jam 03:16 WIB
+  Lokasi: MWC NU Sidorejo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: HALAL BIHALAL SOWAN KYAI
+  Waktu Mulai: 29 March 2026 jam 03:16 WIB
+  Lokasi: -
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: LPJ Pelantikan
+  Waktu Mulai: 08 March 2026 jam 03:16 WIB
+  Lokasi: PCNU
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Rtl Pk Tarbiyatul Ulum (sumursongo)
+  Waktu Mulai: 08 February 2026 jam 03:14 WIB
+  Lokasi: Karas
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: RTL PAC Karangrejo
+  Waktu Mulai: 08 February 2026 jam 03:13 WIB
+  Lokasi: Karangrejo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Pelantikan PC IPNU IPPNU Magetan
+  Waktu Mulai: 07 February 2026 jam 03:15 WIB
+  Lokasi: Pendopo Suryagraha
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Makesta PK Al-Muttaqin Temboro
+  Waktu Mulai: 07 February 2026 jam 03:13 WIB
+  Lokasi: Karas
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Konferancab PAC Maospati
+  Waktu Mulai: 01 February 2026 jam 03:12 WIB
+  Lokasi: -
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Makesta PAC Karas
+  Waktu Mulai: 24 January 2026 jam 03:12 WIB
+  Lokasi: Pondok Pesantren Al Hidayah
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Training Of Fasilitator (TOF)
+  Waktu Mulai: 18 January 2026 jam 03:11 WIB
+  Lokasi: Gedung PUPR Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Konferancab PAC Plaosan
+  Waktu Mulai: 17 January 2026 jam 03:04 WIB
+  Lokasi: Graha Pusat Literasi Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Makesta PAC Bendo
+  Waktu Mulai: 16 January 2026 jam 03:03 WIB
+  Lokasi: MI Al Maftuh Dukuh
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Rtl 1 & 2 Makesta Pac Ngariboyo
+  Waktu Mulai: 03 January 2026 jam 02:55 WIB
+  Lokasi: Mwc Nu Yayasan Ma'arif Mojopurno
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+
+--- DAFTAR ARSIP SURAT (MASUK & KELUAR) ---
+- Nomor Surat: 046/PC/B/7354-7455/XIX-XVIII/VI/2026
+  Perihal: Permohonan Audiensi
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 08 June 2026
+  Pengirim/Penerima: Ketua DPRD Kabupaten Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 034/PC/SP/XVI/7354/IV/2025
+  Perihal: SURAT PENGESAHAN 
+  Jenis: MASUK (IPNU)
+  Tanggal Surat: 21 April 2025
+  Pengirim/Penerima: PC IPNU MAGETAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 018/MWC/A.1/L-18.02/04/2025
+  Perihal: SURAT REKOMENDASI 
+  Jenis: MASUK (IPNU)
+  Tanggal Surat: 14 April 2025
+  Pengirim/Penerima: MWC NU PANEKAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 032/PAN.PEL/A/II-II/7354-7354/XII/2025
+  Perihal: UNDANGAN MAKESTA PAC SUKOMORO
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 26 December 2025
+  Pengirim/Penerima: PAC IPNU IPPNU SUKOMORO
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 050/PAN.MAKESTA/XI-XI/7354-7455/XII/2025
+  Perihal: UNDANGAN MAKESTA PAC LEMBEYAN
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 26 December 2025
+  Pengirim/Penerima: PAC IPNU IPPNU LEMBEYAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 34/B/PCM.NU.10/XII/2025
+  Perihal: UNDANGAN MUSLIMATAN
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 25 December 2025
+  Pengirim/Penerima: PAC MUSLIMAT NU PANEKAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 006/PC/Sako Ma'arif NU/111/2025
+  Perihal: UNDANGAN PEMBUKAAN PRAMUKA LP MA'ARIF
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 14 November 2025
+  Pengirim/Penerima: LP MA'ARIF NU MAGETAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 32/A/PACM.NU.10/X/2025
+  Perihal: UNDANGAN MUSLIMATAN
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 16 October 2025
+  Pengirim/Penerima: PAC MUSLIMAT NU PANEKAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 171/PC/XVII-XVI/7354-7455/IX/2025
+  Perihal: UNDANGAN RAKOR KONFERCAB VIA GOGLE MEET
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 29 September 2025
+  Pengirim/Penerima: PC IPNU IPPNU MAGETAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 45/MWC/A-I/L-18.02/09/2025
+  Perihal: UNDANGAN NAHARUL IJTIMA'
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 18 September 2025
+  Pengirim/Penerima: MWC NU PANEKAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 32/A/PACM.NU.10/IX/2025
+  Perihal: UNDANGAN MUSLIMATAN
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 11 September 2025
+  Pengirim/Penerima: PAC MUSLIMAT NU PANEKAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 164/PC/XVII-XVI/7354-7455/IX/25
+  Perihal: UNDANGAN RAKOR KONFERCAB VIA GOGLE MEET
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 09 September 2025
+  Pengirim/Penerima: PC IPNU MAGETAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 163/PC/XVII-XVI/7354-7455/VIII/25
+  Perihal: UNDANGAN RAPIMCAB
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 23 August 2025
+  Pengirim/Penerima: PC IPNU MAGETAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 44/MWC/A-I/L-18/2025
+  Perihal: UNDANGAN NAHARUL IJTIMA'
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 14 August 2025
+  Pengirim/Penerima: MWC NU PANEKAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 31/A/PACM.NU.10/VIII/2025
+  Perihal: UNDANGAN MUSLIMATAN
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 07 August 2025
+  Pengirim/Penerima: PAC MUSLIMAT NU PANEKAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 160/PC/SI/XVII-XVI/7354-7455/VII/25
+  Perihal: SURAT INSTRUKSI
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 30 July 2025
+  Pengirim/Penerima: PC IPNU IPPNU MAGETAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 35/PRMNU-UND/1/2025
+  Perihal: UNDANGAN MUSLIMATAN
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 22 July 2025
+  Pengirim/Penerima: PAC MUSLIMAT NU PANEKAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 10/B/PACFNU/VII/2025
+  Perihal: UNDANGAN IDHUL YATAMA PAC FATAYAR PANEKAN
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 19 July 2025
+  Pengirim/Penerima: PAC FATAYAT PANEKAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 42/MWC/A.I/L-18.02/07/2025
+  Perihal: UNDANGAN NAHARUL IJTIMA'
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 10 July 2025
+  Pengirim/Penerima: MWC NU PANEKAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 035/PPU.PPST/XIII-XL.VII/VI/2025
+  Perihal: UNDANGAN MILAD PONPES ST KE 13 DAN HAUL KIYAI ABDUL MANAN KE 48
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 11 July 2025
+  Pengirim/Penerima: PONDOK PESATREN SABILU THOHIRIN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 30/A/PACM.NU.10/VI/2025
+  Perihal: UNDANGAN MUSLIMATAN
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 03 July 2025
+  Pengirim/Penerima: MWC NU PANEKAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 41/MWC/A-1/L-18.02/06/2025
+  Perihal: UNDANGAN ISTIGHOSAH
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 13 June 2025
+  Pengirim/Penerima: MWC NU PANEKAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 29/APACM.NU.10/V/2025
+  Perihal: UNDANGAN MUSLIMATAN
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 29 May 2025
+  Pengirim/Penerima: PAC MUSLIMAT NU PANEKAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 40/MWC/A-I/L-18.02/05/2025
+  Perihal: UNDANGAN RAPAT DAN KOORDINATOR PENGURUS MWC DAN SELURUH BANOM
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 25 May 2025
+  Pengirim/Penerima: MWC NU PANEKAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 28/A/PACMNU/10IV/2025
+  Perihal: UNDANGAN MUSLIMATAN
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 24 April 2025
+  Pengirim/Penerima: PAC MUSLIMAT NU PANEKAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 14/PC.01/A.I.01.03/1628/2025
+  Perihal: UNDANGAN PENGAJIAN UMUM DAN HALAL BI HALAL
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 26 April 2025
+  Pengirim/Penerima: PC NU MAGETAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 15/JATMAN-IG/2025
+  Perihal: UNDANGAN RUTINAN IDAROH GHUSNIYAH
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 12 April 2025
+  Pengirim/Penerima: JATMAN PANEKAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 17/A/PACFNU/III/2025
+  Perihal: UNDANGAN FATAYAT (KHOTMIL QUR'AN DA BUKA BERSAMA)
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 14 March 2025
+  Pengirim/Penerima: PAC FATAYAT PANEKAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 27/A/PACM.NU.10/11/2025
+  Perihal: UNDANGAN MUSLIMATAN
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 13 February 2025
+  Pengirim/Penerima: PAC MUSLIMAT NU PANEKAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 004/PAC/ST/VIII-VIII/7354-7455/X/25
+  Perihal: SURAT TUGAS PESRTA KONFERCAB
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 05 October 2025
+  Pengirim/Penerima: PC IPNU MAGETAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 003/PAC/A/VIII-VIII/7354-7455/VI/25
+  Perihal: Surat Rekomendasi Makesta
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 16 June 2025
+  Pengirim/Penerima: PAC IPNU KEBONSARI
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 002/PAC/SPR/VIII-VIII/7354-7455/III/25
+  Perihal: Permohonan Pengesahan
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 13 March 2025
+  Pengirim/Penerima: PC IPNU MAGETAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 001/PAC/C/VIII-VIII/7354-7455/III/25
+  Perihal: Permohonan Rekomendasi
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 13 May 2025
+  Pengirim/Penerima: MWC NU PANEKAN
+  Deskripsi: Surat ini di berikan kepada MWC NU Panekan Untuk mengajukan permohonan surat rekomendasi untuk memenuhi syarat mengajuan Surat pengesahan Kepada PC IPNU Panekan
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
+- Nomor Surat: 026/PC/ST/XIX/7354/VI/26
+  Perihal: Surat Rekom Lakmud Qowimudin
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 07 June 2026
+  Pengirim/Penerima: PC IPNU Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 045/PC/B/7354-7455/XIX-XVIII/VI/2026
+  Perihal: Permohonan Audiensi
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 01 June 2026
+  Pengirim/Penerima: Kepala Dinas Dikpora Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 012/PW/A/7455/XXIII/VI/2026
+  Perihal: Undangan Konsolidasi Rapimnas
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 31 May 2026
+  Pengirim/Penerima: PW IPPNU Jatim
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 162/PAC-XII-31-06/SR-02/V/2026
+  Perihal: Undangan 
+  Jenis: MASUK (IPNU)
+  Tanggal Surat: 21 May 2026
+  Pengirim/Penerima: PAC Ansor kawedanan 
+  Deskripsi: Undangan rakerancab Ansor 
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 058/B/PCFNU/V/2026
+  Perihal: Undangan 
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 28 May 2026
+  Pengirim/Penerima: PC Fatayat Magetan 
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 054/Pan.Pel-LAKUT/C/7354/V/26
+  Perihal: Undangan Lakut Korda
+  Jenis: MASUK (IPNU)
+  Tanggal Surat: 27 May 2026
+  Pengirim/Penerima: PW IPNU Jatim
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 142/PAC/C/7354-7455/III/26
+  Perihal: Surat Undangan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 04 March 2026
+  Pengirim/Penerima: PKPP Al-Hidayat Ginuk
+  Deskripsi: -
+  Uploader: PAC Karas (Periode: 2025-2027)
+- Nomor Surat: 140/PAC/B/7354-7455/III/26
+  Perihal: Surat Permohonan Izin Tempat
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 07 March 2026
+  Pengirim/Penerima: MWC NU Kecamatan Karas
+  Deskripsi: -
+  Uploader: PAC Karas (Periode: 2025-2027)
+- Nomor Surat: 143/PAC/C/7354-7455/III/26
+  Perihal: Surat Undangan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 04 March 2026
+  Pengirim/Penerima: PK Al-muttakin Temboro
+  Deskripsi: -
+  Uploader: PAC Karas (Periode: 2025-2027)
+- Nomor Surat: 001/PAC/A/II/7455/VI/24
+  Perihal: PERMOHONAN REKOMENDASI PENGESAHAN
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 25 May 2026
+  Pengirim/Penerima: MWC NU KECAMATAN SUKOMORO
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU SUKOMORO (Periode: 2024-2026)
+- Nomor Surat: 002/PAC/A/II/7455/V/24
+  Perihal: Permohonan Pengesahan
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 25 May 2026
+  Pengirim/Penerima: PC IPPNU MAGETAN
+  Deskripsi: PERMOHONAN PENGESAHAN PENGURUS PAC IPNU
+  Uploader: PAC IPNU IPPNU SUKOMORO (Periode: 2024-2026)
+- Nomor Surat: 47/PC/SP/7455/XVI/VI/2024
+  Perihal: Surat Pengesahan
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 25 May 2026
+  Pengirim/Penerima: PC IPPNU MAGETAN
+  Deskripsi: Surat Pengesahan Pengurus IPPNU PAC Sukomoro 2024-2026
+  Uploader: PAC IPNU IPPNU SUKOMORO (Periode: 2024-2026)
+- Nomor Surat: 161/PAC-XII-31-06/SR-02/I/2026
+  Perihal: UNDANGAN KONFERANCAB ANSOR KAWEDANAN
+  Jenis: MASUK (IPNU)
+  Tanggal Surat: 26 January 2026
+  Pengirim/Penerima: PAC GP ANSOR KAWEDANAN
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 013/Pan.pel-Lakmud/A/IV/7354-7455/IV/2026
+  Perihal: PERMOHONAN BANTUAN SCREENING LAKMUD
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 17 May 2026
+  Pengirim/Penerima: PC IPNU IPPNU MAGETAN
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 006/Pan.pel-Lakmud/A/IV/7354-7455/IV/2026
+  Perihal: UNDANGAN PEMBUKAAN LAKMUD
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 17 May 2026
+  Pengirim/Penerima: PC IPNU IPPNU MAGETAN
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 004/Pan.pel-Lakmud/A/IV/7354-7455/IV/2026
+  Perihal: SURAT PERMOHONAN PENGUKUHAN LAKMUD
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 17 April 2026
+  Pengirim/Penerima: PC IPNU IPPNU MAGETAN
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 003/Pan.pel-Lakmud/A/IV/7354-7455/IV/2026
+  Perihal: SURAT PERMOHONAN PEMATERI LAKMUD
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 17 April 2026
+  Pengirim/Penerima: PC IPNU IPPNU MAGETAN
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 001/Pan.pel-Lakmud/A/IV/7354-7455/IV/2026
+  Perihal: SURAT PEMBERITAHUAN LAKMUD
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 03 April 2026
+  Pengirim/Penerima: PC IPNU IPPNU MAGETAN
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 044/PC/A/7354-7455/XIX-XVIII/V/2026
+  Perihal: UNDANGAN RAPIMCAB
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 04 May 2026
+  Pengirim/Penerima: PC IPNU IPPNU MAGETAN
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 100/28/403.405.12/2026
+  Perihal: UNDANGAN PENGAJIAN
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 27 April 2026
+  Pengirim/Penerima: KEPALA DESA TULUNG
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 100/28/403.405.12/2026
+  Perihal: Undangan Pengajian
+  Jenis: MASUK (IPNU)
+  Tanggal Surat: 27 April 2026
+  Pengirim/Penerima: Kepala Desa Tulung
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 005/Pan.pel-Lakmud/A/IV/7354-7455/IV/2026
+  Perihal: SURAT PERMOHONAN BANTUAN DKC
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 17 April 2026
+  Pengirim/Penerima: DKC CBP KPP
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 015/PAC/A/SR/IV/7354/IV/26
+  Perihal: SR. PESERTA LAKMUD ILHAM
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 20 April 2026
+  Pengirim/Penerima: PANITIA LAKMUD PAC KAWEDANAN
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 014/PAC/A/SR/IV/7354/IV/26
+  Perihal: SR. PESERTA LAKMUD PIAN
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 20 April 2026
+  Pengirim/Penerima: PANITIA LAKMUD PAC KAWEDANAN
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat:  013/PAC/A/SR/IV/7354/IV/26
+  Perihal: SR. PESERTA LAKMUD WAHYU
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 20 April 2026
+  Pengirim/Penerima: PANITIA LAKMUD PAC KAWEDANAN
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 012/PAC/A/SR/IV/7354/IV/26
+  Perihal: SR. PESERTA LAKMUD ROSYID
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 20 April 2026
+  Pengirim/Penerima: PANITIA LAKMUD PAC KAWEDANAN
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 11/PAC/A/SKt/IV/7354/IV/26
+  Perihal: SURAT KETERANGAN MAKESTA ILHAM
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 20 April 2026
+  Pengirim/Penerima: PANITIA LAKMUD PAC KAWEDANAN
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 10/PAC/A/SKt/IV/7354/IV/26
+  Perihal: SURAT KETERANGAN MAKESTA PIAN
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 20 April 2026
+  Pengirim/Penerima: PANITIA LAKMUD PAC KAWEDANAN
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 09/PAC/A/SKt/IV/7354/IV/26
+  Perihal: Surat Keterangan Makesta Wahyu
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 20 April 2026
+  Pengirim/Penerima: PANITIA LAKMUD PAC KAWEDANAN
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 08/PAC/A/SKt/IV/7354/IV/26
+  Perihal: Surat Keterangan Makesta Rosyid
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 20 April 2026
+  Pengirim/Penerima: PANITIA LAKMUD PAC KAWEDANAN
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 07/PAC/A/IV/7354/X/25
+  Perihal: SURAT REKOMENDASI PENGURUS PC IPNU
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 01 November 2025
+  Pengirim/Penerima: Pc Ipnu Magetan
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 06/PAC/A/SM/IV/7354/X/25
+  Perihal: SURAT MANDAT KONFERCAB PR KARANGREJO
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 02 October 2025
+  Pengirim/Penerima: Pc Ipnu Magetan
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 05/PAC/A/SM/IV/7354/X/25
+  Perihal: SURAT MANDAT PESERTA KONFERCAB
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 02 October 2025
+  Pengirim/Penerima: Pc Ipnu Magetan
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 04/PAC/A/ST/IV/7354/X/25
+  Perihal: SURAT TUGAS KONFERCAB
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 02 May 2025
+  Pengirim/Penerima: PC IPNU MAGETAN
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 002/PAC/B/IV/7354/IV/26
+  Perihal: Surat Permohonan Izin Wahyu
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 29 April 2026
+  Pengirim/Penerima: Wali Kelas Ix I Smp 1 Kawedanan
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 01/PAC/C/IV/7354/III/25
+  Perihal: Surat Rekomendasi Pengurus Pac
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 24 March 2025
+  Pengirim/Penerima: Ketua Mwc Nu Kawedanan
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 02/PAC/A/IV/7354/V/25
+  Perihal: Surat Rekomendasi Peserta Latin
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 26 May 2025
+  Pengirim/Penerima: Pc Ipnu Magetan
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat:  01/PAC/A/IV/7354/III/25
+  Perihal: PERMOHONAN PENGESAHAN
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 09 April 2025
+  Pengirim/Penerima: PC IPNU MAGETAN
+  Deskripsi: -
+  Uploader: PAC KAWEDANAN (Periode: 2025-2027)
+- Nomor Surat: 008/Pan.PEL-RAKER/A/III-III/7354-7455/XI/25
+  Perihal: Surat Pemberitahuan Makesta
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 02 November 2025
+  Pengirim/Penerima: PC IPNU IPPNU Kabupaten Magetan
+  Deskripsi: -
+  Uploader: PAC BENDO (Periode: 2025-2027)
+- Nomor Surat: 093/PAC/VIII-VIII/7354-7455/V/26
+  Perihal: Surat Pemberitahuan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 05 May 2026
+  Pengirim/Penerima: PAC IPNU IPPNU Karangrejo
+  Deskripsi: -
+  Uploader: PAC Karangrejo (Periode: 2025-2027)
+- Nomor Surat: 001
+  Perihal: ....
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 23 May 2026
+  Pengirim/Penerima: PAC Poncol
+  Deskripsi: ....
+  Uploader: PAC PONCOL (Periode: Periode IPNU-8/IPPNU-7)
+- Nomor Surat: 036/ PAC/A/X-X/7455/X/25 
+  Perihal: Surat Tugas
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 03 October 2025
+  Pengirim/Penerima: PAC IPNU IPPNU Parang
+  Deskripsi: -
+  Uploader: PAC Parang (Periode: 2025-2027)
+- Nomor Surat: 171/PAC/C/IX/7354-7455/III/25
+  Perihal: Surat Pemberitahuan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 23 May 2026
+  Pengirim/Penerima: MWC NU KARAS
+  Deskripsi: Kegiatan Berbagi Takjil
+  Uploader: PK Sumursongo (Periode: 2025-2026)
+- Nomor Surat: 06/PAC/A/XVII/7354/IV/2026
+  Perihal: surat delegasi 
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 23 May 2026
+  Pengirim/Penerima: ketua ippu ngariboyo 
+  Deskripsi: -
+  Uploader: PAC Ngariboyo  (Periode: 2025-2027)
+- Nomor Surat: 015/SR/PAC/A/II/7455/IV/26
+  Perihal: Surat Rekomendasi
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 23 May 2026
+  Pengirim/Penerima: PAC KAWEDANAN
+  Deskripsi: Rekomendasi Lakmud
+  Uploader: PAC IPNU IPPNU SUKOMORO (Periode: 2024-2026)
+- Nomor Surat: 141/PAC/B/IX/7354-7455/III/26
+  Perihal: Surat Pemberitahuan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 04 March 2026
+  Pengirim/Penerima: Kapolsek Karas
+  Deskripsi: -
+  Uploader: PAC Karas (Periode: 2025-2027)
+- Nomor Surat: 002/Pan.Pel-Makesta/A/IV/7354-7455/V/2026
+  Perihal: Pemberitahuan Makesta
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 21 May 2026
+  Pengirim/Penerima: PAC Kawedanan 
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 008/PP/S.Ins.PP/7455/XIX/V/2026
+  Perihal: Instruksi 
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 19 May 2026
+  Pengirim/Penerima: PP IPPNU 
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 001/PAN-PEL/VIII-VIII/7354-7455/V/26
+  Perihal: Pemberitahuan Rutinan Sholawatan 
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 17 May 2026
+  Pengirim/Penerima: PAC Panekan 
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 057/PC/SP/7455/XVIII/V/2026
+  Perihal: SP Reshuffe
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 07 May 2026
+  Pengirim/Penerima: PAC Karas
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 150/PAC/A/7455/V/26
+  Perihal: Permohonan Reshuffle
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 07 May 2026
+  Pengirim/Penerima: PAC Karas
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 171/C/PCM-NU/V/2026
+  Perihal: Undangan
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 11 May 2026
+  Pengirim/Penerima: PC Muslimat NU
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 171/A/PCM-NU/V/2026
+  Perihal: Undangan
+  Jenis: MASUK (IPNU)
+  Tanggal Surat: 11 May 2026
+  Pengirim/Penerima: PC Muslimat NU
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat:   005/Pan.Pel.Makesta/7354-7455/V/V/26 
+  Perihal: Undangan Makesta
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 11 May 2026
+  Pengirim/Penerima: PAC Sidorejo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat:   004/Pan.Pel.Makesta/7354-7455/V/V/26 
+  Perihal: Undangan Makesta
+  Jenis: MASUK (IPNU)
+  Tanggal Surat: 11 May 2026
+  Pengirim/Penerima: PAC Sidorejo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat:   003/Pan.Pel.Makesta/7354-7455/V/V/26 
+  Perihal: Permohonan Pemateri
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 11 May 2026
+  Pengirim/Penerima: PAC Sidorejo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat:   002/Pan.Pel.Makesta/7354-7455/V/V/26 
+  Perihal: Permohonan Baiat
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 11 May 2026
+  Pengirim/Penerima: PAC Sidorejo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat:   001/Pan.Pel.Makesta/7354-7455/V/V/26 
+  Perihal: Pemberitahuan Makesta
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 07 May 2026
+  Pengirim/Penerima: PAC Sidorejo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 25/PC/A/XIX/7354/V/26
+  Perihal: Surat Rekom Lakut Asrofi
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 10 May 2026
+  Pengirim/Penerima: PC IPNU Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 24/PC/A/XIX/7354/V/26
+  Perihal: Surat Rekom Lakut Asif
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 10 May 2026
+  Pengirim/Penerima: PC IPNU Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 093/PAC/VIII-VIII/7354-7455/V/26
+  Perihal: Pemberitahuan Selapan Ahad Pahing
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 08 May 2026
+  Pengirim/Penerima: PAC Karangrejo 
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 150/PAC/A/7455/V/26
+  Perihal: Reshuffle Kepengurusan
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 07 May 2026
+  Pengirim/Penerima: PAC IPPNU Karas
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 001/Pan.Pel.Makesta/7354-7455/V/V/26
+  Perihal: Pemberitahuan Makesta
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 07 May 2026
+  Pengirim/Penerima: PAC Sidorejo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 149/PAC/A/7354-7455/V/26
+  Perihal: Pemberitahuan RTL
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 06 May 2026
+  Pengirim/Penerima: PAC Karas
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 023/PC/SP/7354/XIX/V/26
+  Perihal: Surat Pengesahan
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 05 May 2026
+  Pengirim/Penerima: PAC IPNU Sidorejo
+  Deskripsi: SP Resuffle
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 044/PC/A/7354-7455/XIX-XVIII/V/2026
+  Perihal: Undangan Rapimcab
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 04 May 2026
+  Pengirim/Penerima: Pac Se-kabupaten Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 056/ST/PC/A/7455/XVIII/IV/2026
+  Perihal: Surat Tugas Pemateri 
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 29 April 2026
+  Pengirim/Penerima: Pc Ippnu Magetan 
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 055/ST/PC/A/7455/XVIII/IV/2026
+  Perihal: Surat Tugas Pelatih
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 29 April 2026
+  Pengirim/Penerima: Pc Ippnu Magetan 
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 022/PC/ST/XIX/7354/IV/26
+  Perihal: Surat Tugas Lakmud
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 30 April 2026
+  Pengirim/Penerima: PC IPNU Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 021/PC/ST/XIX/7354/IV/26
+  Perihal: Surat Tugas
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 27 April 2026
+  Pengirim/Penerima: PW IPNU Jatim
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 001/PAN.RTL/VIII-VIII/7354- 7455/IX/25
+  Perihal: Pemberitahuan Kegiatan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 17 October 2025
+  Pengirim/Penerima: PAC Panekan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 001/PAC/VIII-VIII/7354-7455/XI/25
+  Perihal: Pemberitahuan Kegiatan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 13 November 2025
+  Pengirim/Penerima: PAC Panekan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 011/Pan.PEL-RAKER/A/III-III/7354-7455/XI/25
+  Perihal: Permohonan Pelantikan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 14 November 2025
+  Pengirim/Penerima: PAC bendo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 008/Pan.PEL-RAKER/A/III-III/7354-7455/XI/25
+  Perihal: Pemberitahuan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 15 November 2025
+  Pengirim/Penerima: PAC Bendo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 008/Pan.Pelantikan/A/7354.7455/XII/XI/2025
+  Perihal: Undangan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 20 November 2025
+  Pengirim/Penerima: PC IPNU IPPNU Pacitan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 058/PC/Pan.Pelantikan/XXI/7354-7455/X/25
+  Perihal: Undangan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 20 November 2025
+  Pengirim/Penerima: PC IPNU IPPNU Kabupaten Madiun
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 94/PK/A/IX/7354-7455/XI/25
+  Perihal: Undangan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 20 December 2025
+  Pengirim/Penerima: PK PONPES TARBIYATUL ‘ULUM
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 90/PK/A/XVIII-XVII/7355-7456/XI /25
+  Perihal: Permohonan Baiat
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 20 November 2025
+  Pengirim/Penerima: PK PONPES TARBIYATUL ‘ULUM
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 93/PK/A/XVII-XVI/7354-7455/XI/25
+  Perihal: Pemberitahuan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 20 November 2025
+  Pengirim/Penerima: PK PONPES TARBIYATUL ‘ULUM
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 91/PK/A/XVIII-XVII/7355-7456/XI/25
+  Perihal: Permohonan Pemateri
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 20 November 2025
+  Pengirim/Penerima: PK PONPES TARBIYATUL ‘ULUM
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 001/PC/A/XIX/7354/XI/25
+  Perihal: Permohonan Rekomendasi Pengesahan
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 22 November 2025
+  Pengirim/Penerima: PC NU
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 001/PAN.KEG.MAKESTA/C/XVII-XVI/7354-7455/XII/25
+  Perihal: Surat Pemberitahuan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 23 November 2025
+  Pengirim/Penerima: PAC Ngariboyo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 008/PP/S.Ins.PP/7455/XIX/XI/2025
+  Perihal: INSTRUKSI
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 24 November 2025
+  Pengirim/Penerima: PP IPPNU
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 161/PW/A/7455/XXII/XI/2025
+  Perihal: UNDANGAN
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 22 December 2025
+  Pengirim/Penerima: PW IPPNU
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 001/Pan.Pel/A/II-II/7354-7455/XI/25
+  Perihal: Pemberitahuan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 25 December 2025
+  Pengirim/Penerima: PAC Sukomoro
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 004/SM/PC/7455/XVIII/XI/2025
+  Perihal: Surat Mandat
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 28 November 2025
+  Pengirim/Penerima: PW IPPNU Jawa Timur
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 044/A/PAC/VIII/VIII/7354-7455/VII/25
+  Perihal: Pemberitahuan Raker
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 28 November 2025
+  Pengirim/Penerima: PAC Karangrejo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 002/PC/A/XIX/7354/XI/25
+  Perihal: Permohonan rekom sp
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 30 November 2025
+  Pengirim/Penerima: PW IPNU JATIM
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 001/PC/C/7455/XVIII/XI/2025
+  Perihal: Surat Permohonan Rekomendasi
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 22 December 2025
+  Pengirim/Penerima: PC NU Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 002/PC/A/7455/XVIII/XII/2025 & 005/PC/A/7455/XVIII/XII/2025
+  Perihal: Surat Permohonan Rekomendasi
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 01 December 2025
+  Pengirim/Penerima: PW IPPNU JATIM
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 003/PC/A/7455/XVIII/XII/2025 & 006/PC/A/7455/XVIII/XII/2025
+  Perihal: Surat Permohonan Pengesahan
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 02 December 2025
+  Pengirim/Penerima: PP IPPNU
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 007/SR/PC/A/7455/XVIII/XII/2025
+  Perihal: Surat Rekomendasi Lakmud
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 02 December 2025
+  Pengirim/Penerima: PAC Kecamatan Madiun
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 009/PW/A/7455/XXII/XII/2025
+  Perihal: Surat Teguran-1
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 01 December 2025
+  Pengirim/Penerima: PW IPPNU JATIM
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 001/Pan.Makesta/XI-XI/7354-7455/XII/2025
+  Perihal: Surat Pemberitahuan Makesta
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 02 December 2025
+  Pengirim/Penerima: PAC Lembeyan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 003/PC/A/XIX/7354/XII/25
+  Perihal: Permohonan Pengesahan
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 02 December 2025
+  Pengirim/Penerima: PP IPNU
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 008/SKt./PC/A/7455/XVIII/XII/2025
+  Perihal: Surat Keterangan Lakmud
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 11 December 2025
+  Pengirim/Penerima: pc ippnu
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 002/PAN.MAKESTA/VIII-VIII/7354-7455/VII/25
+  Perihal: Pemberitahuan Makesta
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 17 December 2025
+  Pengirim/Penerima: PAC Karangrejo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 009/PAN.MAKESTA/VIII-VIII/7354-7455/VII/25
+  Perihal: Permohonan Pemateri
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 17 December 2025
+  Pengirim/Penerima: PAC Karangrejo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 010/PAN.MAKESTA/VIII-VIII/7354-7455/VII/25
+  Perihal: Permohonan Pembaiatan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 17 December 2025
+  Pengirim/Penerima: PAC Karangrejo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 012/PAN.MAKESTA/VIII-VIII/7354-7455/VII/25
+  Perihal: Undangan Makesta
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 17 December 2025
+  Pengirim/Penerima: PAC Karangrejo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 004/PAC/B/XVII-XVI/7354-7455/XII/25
+  Perihal: Permohonan Pemateri
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 17 December 2025
+  Pengirim/Penerima: PAC Ngariboyo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 003/Pan.Pel/A/II-II/7354-7455/XII/25
+  Perihal: Permohonan Pemateri
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 16 December 2025
+  Pengirim/Penerima: PAC Sukomoro
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 005/Pan.Pel/A/II-II/7354-7455/XII/2025
+  Perihal: Undangan Makesta
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 17 December 2025
+  Pengirim/Penerima: PAC Sukomoro
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 028/PC/KONFERCABXXXI/IPNU-IPPNU/XI/2025
+  Perihal: UNDANGAN
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 18 December 2025
+  Pengirim/Penerima: PC IPNU IPPNU PONOROGO
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 028/PC/KONFERCABXXXI/IPNU-IPPNU/XI/2025
+  Perihal: Undangan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 18 December 2025
+  Pengirim/Penerima: PC IPNU IPPNU PONOROGO
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 009/SKt./PC/A/7455/XVIII/XII/2025
+  Perihal: Surat Keterangan Lakmud
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 19 December 2025
+  Pengirim/Penerima: PW IPPNU Jatim
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 010/SR/PC/A/7455/XVIII/XII/2025
+  Perihal: Surat Rekomendasi Duta Pelajar
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 19 December 2025
+  Pengirim/Penerima: PW IPPNU Jatim
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 011/SR/PC/A/7455/XVIII/XII/2025
+  Perihal: Surat Rekomendasi SKPP
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 19 December 2025
+  Pengirim/Penerima: PW IPPNU Jatim
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 012/SR/PC/A/7455/XVIII/XII/2025
+  Perihal: Surat Rekomendasi SKPP
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 19 December 2025
+  Pengirim/Penerima: PW IPPNU Jatim
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 013/SR/PC/A/7455/XVIII/XII/2025
+  Perihal: Surat Rekomendasi Duta Pelajar
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 19 December 2025
+  Pengirim/Penerima: PW IPPNU Jatim
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 014/SKt./PC/A/7455/XVIII/XII/2025
+  Perihal: Surat Keterangan
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 20 December 2025
+  Pengirim/Penerima: PW IPPNU Jatim
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 033/PAN.PEL/XVII-XVI/7354-7455/XII/25
+  Perihal: Permohonan Baiat
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 20 December 2025
+  Pengirim/Penerima: PAC Ngariboyo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 006/PAN.PEL/XVII-XVI/7354-7455/XII/25
+  Perihal: Surat Undangan IPNU
+  Jenis: MASUK (IPNU)
+  Tanggal Surat: 20 December 2025
+  Pengirim/Penerima: PAC Ngariboyo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 007/PAN.PEL/XVII-XVI/7354-7455/XII/25
+  Perihal: Surat Undangan IPPNU
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 20 December 2025
+  Pengirim/Penerima: PAC Ngariboyo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 001/PAN.KONFERANCAB/V-V/7354-7455/XII/25
+  Perihal: Surat Pemberitahuan Konferancab
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 21 December 2025
+  Pengirim/Penerima: Pac Plaosan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 015/SKt./PC/A/7455/XVIII/XII/2025
+  Perihal: Surat Keterangan
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 21 December 2025
+  Pengirim/Penerima: PC Bondowoso
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 004/PC/A/XIX/7354/XII/25
+  Perihal: Surat Tugas
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 25 December 2025
+  Pengirim/Penerima: PC IPNU Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 005/PC/A/XIX/7354/XII/25
+  Perihal: Surat Tugas
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 25 December 2025
+  Pengirim/Penerima: PC IPNU Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 006/PC/A/XIX/7354/XII/25
+  Perihal: Surat Tugas
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 25 December 2025
+  Pengirim/Penerima: PC IPNU Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 007/PC/A/XIX/7354/XII/25
+  Perihal: Surat Tugas
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 25 December 2025
+  Pengirim/Penerima: PC IPNU Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 007/Pan.Makesta/XI-XI/7354-7455/XII/2025
+  Perihal: Permohonan Pemateri
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 25 December 2025
+  Pengirim/Penerima: PAC IPNU IPPNU Lembeyan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 025/Pan.Makesta/XI-XI/7354-7455/XII/2025
+  Perihal: Permohonan Baiat
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 25 December 2025
+  Pengirim/Penerima: PAC IPNU IPPNU Lembeyan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 008/Pan.Makesta/XI-XI/7354-7455/XII/2025
+  Perihal: Permohonan Pemateri
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 25 December 2025
+  Pengirim/Penerima: PAC IPNU IPPNU Lembeyan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 023/Pan.Makesta/XI-XI/7354-7455/XII/2025
+  Perihal: Undangan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 25 December 2025
+  Pengirim/Penerima: PAC IPNU IPPNU Lembeyan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 016/ST/PC/A/7455/XVIII/XII/2025
+  Perihal: Surat Tugas
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 24 December 2025
+  Pengirim/Penerima: PAC Ngariboyo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 017/ST/PC/A/7455/XVIII/XII/2025
+  Perihal: Surat Tugas
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 24 December 2025
+  Pengirim/Penerima: PAC Ngariboyo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 018/ST/PC/A/7455/XVIII/XII/2025
+  Perihal: Surat Tugas
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 24 December 2025
+  Pengirim/Penerima: Pac Sukomoro
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 019/ST/PC/A/7455/XVIII/XII/2025
+  Perihal: Surat Tugas
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 24 December 2025
+  Pengirim/Penerima: Pac Sukomoro
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 020/ST/PC/A/7455/XVIII/XII/2025
+  Perihal: Surat Tugas
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 24 December 2025
+  Pengirim/Penerima: Pac Lembeyan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 021/ST/PC/A/7455/XVIII/XII/2025
+  Perihal: Surat Tugas
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 24 December 2025
+  Pengirim/Penerima: Pac Lembeyan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 022/ST/PC/A/7455/XVIII/XII/2025
+  Perihal: Surat Tugas
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 24 December 2025
+  Pengirim/Penerima: Pac Karangrejo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 023/ST/PC/A/7455/XVIII/XII/2025
+  Perihal: Surat Tugas
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 24 December 2025
+  Pengirim/Penerima: Pac Karangrejo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 024/PC/A/7455/XVIII/XII/2025
+  Perihal: Permohonan Akreditasi
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 25 December 2025
+  Pengirim/Penerima: PW IPPNU Jatim
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 049/PAC/A/7354-7455/XII/25
+  Perihal: Pemberitahuan Makesta
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 28 December 2025
+  Pengirim/Penerima: PAC IPNU IPPNU Karas
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 002/DKC/CBP.KPP/Pan.JAKOMBARA/XII/2025
+  Perihal: Undangan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 27 December 2025
+  Pengirim/Penerima: CBP KPP PC IPNU IPPNU MAGETAN
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 001/DKC/CBP.KPP/Pan.JAKOMBARA/XII/2025
+  Perihal: Pemberitahuan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 27 December 2025
+  Pengirim/Penerima: CBP KPP PC IPNU IPPNU MAGETAN
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 065/Pan.Makesta/A/III-III/7354-7455/XII/25
+  Perihal: Pemberitahuan Makesta
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 31 December 2025
+  Pengirim/Penerima: PAC Bendo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 068/Pan.Makesta/A/III-III/7354-7455/XII/25
+  Perihal: Permohonan Baiat
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 31 December 2025
+  Pengirim/Penerima: PAC Bendo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 069/Pan.Makesta/A/III-III/7354-7455/XII/25
+  Perihal: Permohonan Pemateri
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 31 December 2025
+  Pengirim/Penerima: PAC Bendo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 028/SKt./PC/A/7455/XVIII/I/2026
+  Perihal: Surat Keterangan
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 01 January 2026
+  Pengirim/Penerima: PC Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 001/ PAN.KONFERANCAB/V-V/7354-7455/XII/25
+  Perihal: Pemberitahuan Konferancab
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 01 January 2026
+  Pengirim/Penerima: PAC Plaosan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 066/Pan.Makesta/A/III-III/7354-7455/XII/25
+  Perihal: Surat Undangan Ipnu
+  Jenis: MASUK (IPNU)
+  Tanggal Surat: 01 January 2026
+  Pengirim/Penerima: PAC Bendo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 067/Pan.Makesta/A/III-III/7354-7455/XII/25
+  Perihal: Surat Undangan Ippnu
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 01 January 2026
+  Pengirim/Penerima: PAC Bendo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 034/PAN.KEG.MAKESTA/C/XVII-XVI/7354-7455/XII/25
+  Perihal: Pemberitahuan RTL 1&2
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 02 January 2026
+  Pengirim/Penerima: PAC Ngariboyo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 035/PAN.KEG.MAKESTA/C/XVII-XVI/7354-7455/XII/25
+  Perihal: Permohonan materi
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 02 January 2026
+  Pengirim/Penerima: PAC Ngariboyo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 033/Pan.Pel/A/II-II/7354-7455/I/26
+  Perihal: Permohonan Penerbitan Sertifikat
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 03 January 2026
+  Pengirim/Penerima: PAC Sukomoro
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 001/B/S.Izin.PC/XIX-XVII/7354-7455/I/2026
+  Perihal: Izin Pelaksanaan Kegiatan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 06 January 2026
+  Pengirim/Penerima: kepala sekolah SMP Ma'arif Darussholihin/Surat Bersama
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 037/PAC/C/II/7354-7355/I/26
+  Perihal: Pemberitahuan Ngaji Media
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 06 January 2026
+  Pengirim/Penerima: PAC Nguntoronadi
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 038/PAC/C/II/7354-7355/I/26
+  Perihal: Permohonan Pemateri
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 06 January 2026
+  Pengirim/Penerima: PAC Nguntoronadi
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 020/PAC/A/V-V/7354-7455/I/26
+  Perihal: Permohonan materi persidangan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 07 January 2026
+  Pengirim/Penerima: PAC Plaosan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 053/Pan.Makesta/XI-XI/7354-7455/I/2026
+  Perihal: Pemberitahuan RTL Makesta
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 11 January 2026
+  Pengirim/Penerima: PAC Lembeyan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 054/Pan.Makesta/XI-XI/7354-7455/I/2026
+  Perihal: Permohonan pemateri
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 11 January 2026
+  Pengirim/Penerima: PAC Lembeyan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 002/PK/A/VI-VI/7354-7455/I/26
+  Perihal: Pemberitahuan Upacara Peresmian Pemakain Batik IPNU IPPNU Nasional
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 11 January 2026
+  Pengirim/Penerima: PK Roda Lembeyan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 004/PK/A/VI-VI/7354-7455/I/26
+  Perihal: Undangan Upacara Peresmian Pemakain Batik IPNU IPPNU Nasional
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 11 January 2026
+  Pengirim/Penerima: PK Roda Lembeyan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 002/A/PC/XIX-XVIII/7354-7455/I/2026
+  Perihal: Pemberitahuan Pelantikan
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 11 January 2026
+  Pengirim/Penerima: PW IPNU Jatim
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 003/A/PC/XIX-XVIII/7354-7455/I/2026
+  Perihal: Pemberitahuan Pelantikan
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 11 January 2026
+  Pengirim/Penerima: PW IPPNU Jatim
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 028/ PAC/A/V-V/7354-7455/I/26
+  Perihal: Undangan Konferancab
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 12 January 2026
+  Pengirim/Penerima: PAC IPNU IPPNU Plaosan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 027/ PAC/A/V-V/7354-7455/I/26
+  Perihal: Permohonan pimpinan sidang
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 12 January 2026
+  Pengirim/Penerima: PAC IPNU IPPNU Plaosan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 029/PC/A/7455/XVIII/I/2026
+  Perihal: Surat Keterangan Lulus Makesta
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 13 January 2026
+  Pengirim/Penerima: PC IPPNU Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 030/PC/C/7455/XVIII/I/2025
+  Perihal: Permohonan Izin Tempat dan Fasilitas
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 14 January 2026
+  Pengirim/Penerima: SD Islamiyah Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 031/ST/PC/A/7455/XVIII/I/2026
+  Perihal: Surat Tugas Pelatih
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 15 January 2026
+  Pengirim/Penerima: Pac Bendo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 032/ST/PC/A/7455/XVIII/I/2026
+  Perihal: Surat Tugas Pemateri
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 15 January 2026
+  Pengirim/Penerima: PAC Bendo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 009/PC/A/XIX/7354/I/25
+  Perihal: Surat Tugas Pimpinan Sidang
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 16 January 2026
+  Pengirim/Penerima: PAC Plaosan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 033/ST/PC/A/7455/XVIII/I/2026
+  Perihal: Surat Tugas Pimpinan Sidang
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 16 January 2026
+  Pengirim/Penerima: PAC Plaosan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 034/PC/SK/7455/XVIII/I/2026
+  Perihal: SK Pelatih PC Magetan
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 16 January 2026
+  Pengirim/Penerima: PC IPPNU Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 004/A/PC/XIX-XVIII/7354-7455/I/26
+  Perihal: Permohonan Audiensi
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 21 January 2026
+  Pengirim/Penerima: KAPOLRES MAGETAN
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 005/A/PC/XIX-XVIII/7354-7455/I/26
+  Perihal: Permohonan Audiensi
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 21 January 2026
+  Pengirim/Penerima: DANDIM MAGETAN
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 006/A/PC/XIX-XVIII/7354-7455/I/26
+  Perihal: Permohonan Audiensi
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 21 January 2026
+  Pengirim/Penerima: KETUA DPRD MAGETAN
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 007/A/PC/XIX-XVIII/7354-7455/I/26
+  Perihal: Permohonan Audiensi
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 21 January 2026
+  Pengirim/Penerima: BUPATI MAGETAN
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 008/A/PC/XIX-XVIII/7354-7455/I/26
+  Perihal: Permohonan Audiensi
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 21 January 2026
+  Pengirim/Penerima: KEPALA BAGIAN UMUM PEMKAB MAGETAN
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 009/A/PC/XIX-XVIII/7354-7455/I/26
+  Perihal: Permohonan Audiensi
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 21 January 2026
+  Pengirim/Penerima: KEPALA BAKESBANGPOL PEMKAB MAGETAN
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 060/PAN.MAKESTA/VIII-VIII/7354-7455/I/26
+  Perihal: Pemberitahuan RTL
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 21 January 2026
+  Pengirim/Penerima: Pac Karangrejo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 035/PC/A/7455/XVIII/I/2026
+  Perihal: Permohonan Penerbitan Sertifikat Pelatih
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 22 January 2026
+  Pengirim/Penerima: PW IPPNU Jatim
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 010/PC/SK/7354-7455/XIX-XVIII/I/2026
+  Perihal: SK Panitia Lakmud PAC Kawedanan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 23 January 2026
+  Pengirim/Penerima: PC Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 011/PC/A/7354-7455/XIX-XVIII/I/2026
+  Perihal: Jaminan Kepesertaan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 23 January 2026
+  Pengirim/Penerima: PC Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 036/ST/PC/A/7455/XVIII/I/2026
+  Perihal: Surat Tugas Pelatih
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 23 January 2026
+  Pengirim/Penerima: PAC Karas
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 037/ST/PC/A/7455/XVIII/I/2026
+  Perihal: Surat Tugas Pemateri
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 23 January 2026
+  Pengirim/Penerima: PAC Karas
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 005/Pan.Konferwil/XXII/7455/I/2026
+  Perihal: Sosialisasi Konferwil
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 20 January 2026
+  Pengirim/Penerima: PW Ippnu Jatim
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 013/PAN KONFERANCAB/IV-IV/7354-7455/I/2026
+  Perihal: Permohonan pemateri persidangan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 25 January 2026
+  Pengirim/Penerima: Pac Maospati
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 014/PAN KONFERANCAB/IV-IV/7354-7455/I/2026
+  Perihal: Pemberitahuan Konferancab
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 25 January 2026
+  Pengirim/Penerima: Pac Maospati
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 012/PC/B/7354-7455/XIX-XVIII/I/2026
+  Perihal: Permohonan Bantuan Dana
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 25 January 2026
+  Pengirim/Penerima: Eksternal
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 038/PC/A/7455/XVIII/I/2026
+  Perihal: Permohonan Pencetakan KTA
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 25 January 2026
+  Pengirim/Penerima: PW IPPNU Jatim
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 010/ST/PC/A/XIX/7354/I/2026
+  Perihal: Surat Tugas
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 24 January 2026
+  Pengirim/Penerima: PAC Karas
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 013/PC/B/7354-7455/XIX-XVIII/I/2026
+  Perihal: Permohonan Dana Kegiatan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 26 January 2026
+  Pengirim/Penerima: Ketua DPRD Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 014/PC/B/7354-7455/XIX-XVIII/I/2026
+  Perihal: Permohonan Dana Kegiatan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 26 January 2026
+  Pengirim/Penerima: Ketua Fraksi PKB Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 015/PC/B/7354-7455/XIX-XVIII/I/2026
+  Perihal: Permohonan Dana Kegiatan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 26 January 2026
+  Pengirim/Penerima: Kepala KEMENAG Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 016/PC/C/7354-7455/XIX-XVIII/I/2026
+  Perihal: Permohonan Bantuan Dana
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 26 January 2026
+  Pengirim/Penerima: Internal Banom
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 085/PAC/A/7354-7455/I/26
+  Perihal: Undangan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 16 January 2026
+  Pengirim/Penerima: Pac Karas
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 091/PAC/A/7354-7455/I/26
+  Perihal: Permohonan Pemateri
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 16 January 2026
+  Pengirim/Penerima: Pac Karas
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 088/PAC/A/7354-7455/I/26
+  Perihal: Permohonan Pemateri
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 16 January 2026
+  Pengirim/Penerima: Pac Karas
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 086/PAC/A/7354-7455/I/26
+  Perihal: Permohonan Pemateri
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 16 January 2026
+  Pengirim/Penerima: Pac Karas
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 080/PAC/A/7354-7455/I/26
+  Perihal: Permohonan Baiat
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 16 January 2026
+  Pengirim/Penerima: Pac Karas
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 018/PAN KONFERANCAB/IV-IV/7354-7455/I/2026
+  Perihal: Permohonan pimpinan sidang
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 26 January 2026
+  Pengirim/Penerima: PAC Maospati
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 005/PK/A/7354-7455/I/I/2026
+  Perihal: Pemberitahuan Makesta
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 28 January 2026
+  Pengirim/Penerima: PK Al-Muttaqin Temboro
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 017/PC/B/7354-7455/XIX-XVIII/I/2026
+  Perihal: Permohonan Peminjaman Tempat
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 27 January 2026
+  Pengirim/Penerima: BUPATI MAGETAN
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 0270/PW/A/XXV/7354/I/26
+  Perihal: Instruksi Partisipasi Aktif Mensuksskan Harlah NU
+  Jenis: MASUK (IPNU)
+  Tanggal Surat: 29 January 2026
+  Pengirim/Penerima: PW IPNU
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 003/PAN KONFERANCAB/IV-IV/7354-7455/I/2026
+  Perihal: Undangan Konferancab
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 29 January 2026
+  Pengirim/Penerima: Pac Maospati
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 040/PC/A/7455/XVIII/I/2026
+  Perihal: Surat Pengantar Berkas
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 28 January 2026
+  Pengirim/Penerima: Bakesbangpol
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 041/SM/PC/7455/XVIII/I/2026
+  Perihal: Surat Mandat KONFERWIL
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 29 January 2026
+  Pengirim/Penerima: PW IPPNU Jatim
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 018/PC/B/7354-7455/XIX-XVIII/I/2026
+  Perihal: Permohonan Dana Kegiatan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 30 January 2026
+  Pengirim/Penerima: Hj. Siti Mukiarti DPRD Jawa Timur F-PKB
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 019/PC/B/7354-7455/XIX-XVIII/I/2026
+  Perihal: Permohonan Dana Kegiatan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 30 January 2026
+  Pengirim/Penerima: Ketua Fraksi Demokrat
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 020/PC/B/7354-7455/XIX-XVIII/I/2026
+  Perihal: Permohonan Dana Kegiatan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 30 January 2026
+  Pengirim/Penerima: Ketua Fraksi PDI Perjuangan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 021/PC/B/7354-7455/XIX-XVIII/I/2026
+  Perihal: Permohoanan Dana Kegiatan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 30 January 2026
+  Pengirim/Penerima: Ketua Fraksi Golkar
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 022/PC/B/7354-7455/XIX-XVIII/I/2026
+  Perihal: Permohonan Dana Kegiatan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 30 January 2026
+  Pengirim/Penerima: Ketua Fraksi Nasdem
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 023/PC/B/7354-7455/XIX-XVIII/I/2026
+  Perihal: Permohonan Dana Kegiatan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 30 January 2026
+  Pengirim/Penerima: Ketua Fraksi PKS
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 024/PC/B/7354-7455/XIX-XVIII/I/2026
+  Perihal: Permohonan Dana Kegiatan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 30 January 2026
+  Pengirim/Penerima: Dr. Lia Istifhama, S.H.I., S.Sos., S.Sos.I., M.E.I. (DPD RI)
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 025/PC/B/7354-7455/XIX-XVIII/I/2026
+  Perihal: Undangan Pelantikan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 30 January 2026
+  Pengirim/Penerima: Dr. Lia Istifhama, S.H.I., S.Sos., S.Sos.I., M.E.I. (DPD RI)
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 008/PK/A/7354-7455/I/I/2026
+  Perihal: Undangan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 30 January 2026
+  Pengirim/Penerima: PK MA MA’ARIF AL-MUTAQIN TEMBORO
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 007/PK/A/7354-7455/I/I/2026
+  Perihal: Permohonan Pemateri
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 30 January 2026
+  Pengirim/Penerima: PK MA MA’ARIF AL-MUTAQIN TEMBORO
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 006/PK/A/7354-7455/I/I/2026
+  Perihal: Permohonan Baiat
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 30 January 2026
+  Pengirim/Penerima: PK MA MA’ARIF AL-MUTAQIN TEMBORO
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 039/ST/PC/7455/XVIII/I/2026
+  Perihal: Surat Tugas Pemateri Persidangan
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 30 January 2026
+  Pengirim/Penerima: PAC Maospati
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 042/ST/PC/7455/XVIII/I/2026
+  Perihal: Surat Tugas Pimpinan Sidang
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 30 January 2026
+  Pengirim/Penerima: PAC Maospati
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 026/PC/SK/XIX-XVIII/7354-7455/I/2026
+  Perihal: Surat Keputusan Juknis Administrasi
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 30 January 2026
+  Pengirim/Penerima: PC Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 027/PC/B/7354-7455/XIX-XVIII/II/2026
+  Perihal: Permohonan dana Kegiatan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 01 February 2026
+  Pengirim/Penerima: BAKESBANGPOL
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 086/PAN.MAKESTA/VIII-VIII/7354-7455/II/26
+  Perihal: Pemberitahuan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 03 February 2026
+  Pengirim/Penerima: Pac Karangrejo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 002/PK/A/XVII-XVI/7354-7455/I/26
+  Perihal: Pemberitahuan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 03 February 2026
+  Pengirim/Penerima: PK TARBIYATUL ‘ULUM
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 003/PK/A/XVII-XVI/7354-7455/I/26
+  Perihal: Permohonan Pemateri
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 03 February 2026
+  Pengirim/Penerima: PK TARBIYATUL ‘ULUM
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 013/ST/PC/A/XIX/7354/II/2026
+  Perihal: Surat Tugas
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 07 February 2026
+  Pengirim/Penerima: PK IPNU MA Ma’arif Al-Mutaqin Temboro
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 043/ST/PC/A/7455/XVIII/II/2026
+  Perihal: Surat Tugas
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 07 February 2026
+  Pengirim/Penerima: PK IPNU MA Ma’arif Al-Mutaqin Temboro
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 014/PC/A/7354/XIX/II/26
+  Perihal: Undangan Pelantikan
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 09 February 2026
+  Pengirim/Penerima: PW IPNU JATIM
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 028/PC/B/7354-7455/XIX-XVIII/II/26
+  Perihal: Permohonan Fasilitas Pelantikan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 09 February 2026
+  Pengirim/Penerima: Bupati Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 011/PC/A/XIX/7354/2026
+  Perihal: Surat Permohonan Pendaftaran Organisasi Masyarakat
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 09 February 2026
+  Pengirim/Penerima: Badan Kesatuan Bangsa dan Politik Kab. Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 044/PC/A/7455/XVIII/II/2026
+  Perihal: Surat Undangan Pelantikan
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 10 February 2026
+  Pengirim/Penerima: PW IPPNU Jatim
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 029/PC/A/7354-7455/XIX-XVIII/II/26
+  Perihal: Undangan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 10 February 2026
+  Pengirim/Penerima: Pc Ipnu Ippnu Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 030/PC/A/7354-7455/XIX-XVIII/II/26
+  Perihal: Undangan Pelantikan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 12 February 2026
+  Pengirim/Penerima: Pac Ipnu Se Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 031/PC/A/7354-7455/XIX-XVIII/II/26
+  Perihal: Undangan Pelantikan
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 12 February 2026
+  Pengirim/Penerima: Pac IPPNU Se Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 032/PC/B/7354-7455/XIX-XVIII/II/26
+  Perihal: Permohonan Ucapan Karangan Bunga
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 12 February 2026
+  Pengirim/Penerima: Bupati Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 033/PC/B/7354-7455/XIX-XVIII/II/26
+  Perihal: Permohonan Ucapan Karangan Bunga
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 12 February 2026
+  Pengirim/Penerima: Kapolres Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 034/PC/B/7354-7455/XIX-XVIII/II/26
+  Perihal: Permohonan Ucapan Karangan Bunga
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 12 February 2026
+  Pengirim/Penerima: Dandim Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 035/PC/B/7354-7455/XIX-XVIII/II/26
+  Perihal: Permohonan Ucapan Karangan Bunga
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 12 February 2026
+  Pengirim/Penerima: DPRD Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 036/PC/B/7354-7455/XIX-XVIII/II/26
+  Perihal: Permohonan Ucapan Karangan Bunga
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 12 February 2026
+  Pengirim/Penerima: Fraksi PKB
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 037/PC/B/7354-7455/XIX-XVIII/II/26
+  Perihal: Permohonan Ucapan Karangan Bunga
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 12 February 2026
+  Pengirim/Penerima: Bapak Fuad
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 001/PK/A/7354/III/II/2026
+  Perihal: Permohonan Pengesahan
+  Jenis: MASUK (IPNU)
+  Tanggal Surat: 23 February 2026
+  Pengirim/Penerima: PK TARBIYATUL ‘ULUM
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 001/PK/A/7455/III/I/2026
+  Perihal: Permohonan Pengesahan
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 23 February 2026
+  Pengirim/Penerima: PKPP Tarbiyatul 'Ulum
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 85/PC.03/A.I.01.01/1628/10/2025
+  Perihal: Apel HSN 2025
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 22 October 2025
+  Pengirim/Penerima: PCNU
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 153/A/PCM-NU/I/2026
+  Perihal: Pengajian Akbar
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 08 February 2026
+  Pengirim/Penerima: PC Muslimat
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 016/PC/A/XIX/7354/II/2026
+  Perihal: Permohonan Penerbitan Sertifikat Latin
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 25 February 2026
+  Pengirim/Penerima: PW IPNU JATIM
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 15/PC/SP/7354/XIX/II/26
+  Perihal: SURAT PENGESAHAN
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 25 February 2026
+  Pengirim/Penerima: PK TARBIYATUL ‘ULUM
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 045/B/PCFNU/II/2026
+  Perihal: Buka Bersama
+  Jenis: MASUK (IPNU)
+  Tanggal Surat: 25 February 2026
+  Pengirim/Penerima: PC Fatayat
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 045/B/PCFNU/II/2026
+  Perihal: Buka Bersama
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 25 February 2026
+  Pengirim/Penerima: PC Fatayat
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 006/MI.NU.Brt/II/2026
+  Perihal: Permohonan Pemateri
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 26 February 2026
+  Pengirim/Penerima: MI NU Barat
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 500.13/113/403.102/2026
+  Perihal: Undangan Duta
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 01 March 2026
+  Pengirim/Penerima: Dinas Kebudayaan dan Pariwisata
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 038/PC/B/7354-7455/XIX-XVIII/II/2026
+  Perihal: Pengantar proposal bantuan dana
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 18 February 2026
+  Pengirim/Penerima: Bupati
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 007/PP/S.Ins.PP/7455/XIX/III/2026
+  Perihal: Instruksi Harlah Ippnu
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 01 March 2026
+  Pengirim/Penerima: PP IPPNU
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 039/PC/B/7354-7455/XIX-XVIII/II/26
+  Perihal: Permohonan Fasilitas Server Website
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 01 March 2026
+  Pengirim/Penerima: Bupati Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 040/PC/B/7354-7455/XIX-XVIII/II/26
+  Perihal: Permohonan Audiensi
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 01 March 2026
+  Pengirim/Penerima: Kepala Dinas Komunikasi dan Informatika Kabupaten Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 018/PC/SP/7354/XIX/II/26
+  Perihal: Surat Pengesahan
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 01 March 2026
+  Pengirim/Penerima: PAC IPNU Maospati
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 017/PC/SP/7354/XIX/II/26
+  Perihal: Surat Pengesahan
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 01 March 2026
+  Pengirim/Penerima: PAC IPNU Plaosan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 016/PC/A/XIX/7354/II/2026
+  Perihal: Permohonan Penerbitan Sertifikat
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 01 March 2026
+  Pengirim/Penerima: PW IPNU Jatim
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 097/PAC/A/III-III/7354-7455/II/26
+  Perihal: Pemberitahuan Safari Ramadhan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 01 March 2026
+  Pengirim/Penerima: PAC Bendo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 004/PAC/SRP/IV/7455/II/2026
+  Perihal: Permohonan Pengesahan
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 03 February 2026
+  Pengirim/Penerima: PAC Ippnu Maospati
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 045/PC/SP/7455/XVIII/II/2026
+  Perihal: Surat Pengesahan
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 25 February 2026
+  Pengirim/Penerima: Pac Ippnu Maospati
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 019/PC/SPy/7354/XIX/III/26
+  Perihal: Surat Pernyataan
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 03 March 2026
+  Pengirim/Penerima: PC IPNU Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 034/Pan.Pel/A/II-II/7354-7455/III/26
+  Perihal: Pemberitahuan RTL
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 04 March 2026
+  Pengirim/Penerima: PAC Sukomoro
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 001/PAN.PEL/VIII-VIII/7354-7455/II/26
+  Perihal: Pemberitahuan Safari Ramadhan dan Bakti Sosial
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 03 March 2026
+  Pengirim/Penerima: PAC Panekan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 001/PAC/C/III/7354-7455/III/26
+  Perihal: Pemberitahuan bagi takjil dan bukber
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 05 March 2026
+  Pengirim/Penerima: PAC Ngariboyo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 042/PC/B/7354-7455/XIX-XVIII/III/26
+  Perihal: Permohonan Audiensi
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 06 March 2026
+  Pengirim/Penerima: Ketua DPRD Kabupaten Magetan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 472/PP/A/7455/XIX/III/2026
+  Perihal: Pemberitahuan Pemutakhiran Pendataan
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 07 March 2026
+  Pengirim/Penerima: PP IPPNU
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 001/PW/A/7455/XXIII/III/2026
+  Perihal: Rekomendasi Kader
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 07 March 2026
+  Pengirim/Penerima: PW IPPNU JATIM
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 002/PAC/A/VIII /7354-7455/III/2026
+  Perihal: Pemberitahuan Bina Kebersamaan dan Bukber
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 10 March 2026
+  Pengirim/Penerima: PAC Barat
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 048/SR/PC/A/7455/XVIII/III/2026
+  Perihal: Surat Rekomendasi
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 10 March 2026
+  Pengirim/Penerima: PW IPPNU Jatim
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 049/SR/PC/A/7455/XVIII/III/2026
+  Perihal: Surat Rekomendasi
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 10 March 2026
+  Pengirim/Penerima: PW IPPNU Jatim
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 050/SR/PC/A/7455/XVIII/III/2026
+  Perihal: Surat Rekomendasi
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 10 March 2026
+  Pengirim/Penerima: PW IPPNU Jatim
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 002/PW/A/7455/XXIII/III/2026
+  Perihal: Undangan Meet Penjaringan Kader
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 10 March 2026
+  Pengirim/Penerima: PW IPPNU JATIM
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 203/PC-XII-31/SR-01/III/2026
+  Perihal: Undangan Bukber
+  Jenis: MASUK (IPNU)
+  Tanggal Surat: 11 March 2026
+  Pengirim/Penerima: PC Ansor
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 203/PC-XII-31/SR-01/III/2026
+  Perihal: Undangan Bukber
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 11 March 2026
+  Pengirim/Penerima: PC Ansor
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 051/ST/PC/A/7455/XVIII/III/2026
+  Perihal: Surat Tugas Pemateri
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 12 March 2026
+  Pengirim/Penerima: MI NU Barat
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 020/PC/ST/XIX/7354/III/26
+  Perihal: Surat Tugas Pondok Romadhon
+  Jenis: KELUAR (IPNU)
+  Tanggal Surat: 13 March 2026
+  Pengirim/Penerima: Mi Nu Barat
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 012/MI.NU.Brt/III/2026
+  Perihal: Undangan Bukber
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 13 March 2026
+  Pengirim/Penerima: MI NU Barat
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 043/PC/B/7354-7455/XIX-XVIII/III/26
+  Perihal: Permohonan Dispensasi
+  Jenis: KELUAR (BERSAMA)
+  Tanggal Surat: 31 March 2026
+  Pengirim/Penerima: Admin Prodi Politeknik Negeri Madiun
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 001/Pan.pel-Lakmud/A/IV/7354-7455/IV/2026
+  Perihal: Pemberitahuan Lakmud
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 04 April 2026
+  Pengirim/Penerima: PAC Kawedanan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 004/PAN.PEL-RAKER/V-V/7354-7455/IV/2026
+  Perihal: Pemberitahuan Pelantikan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 12 April 2026
+  Pengirim/Penerima: PAC Plaosan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 005/PAN.PEL-RAKER/V-V/7354-7455/IV/2026
+  Perihal: Undangan Pelantikan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 12 April 2026
+  Pengirim/Penerima: PAC Plaosan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: Istimewa
+  Perihal: Undangan Menghadiri Pelantikan & Halal Bihalal
+  Jenis: MASUK (IPNU)
+  Tanggal Surat: 14 April 2026
+  Pengirim/Penerima: PMII Komisariat Unesa
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 003/Pan.pel-Lakmud/A/IV/7354-7455/IV/2026
+  Perihal: Permohonan Pemateri
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 19 April 2026
+  Pengirim/Penerima: PAC Kawedanan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 004/Pan.pel-Lakmud/A/IV/7354-7455/IV/2026
+  Perihal: Permohonan Pembaiatan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 19 April 2026
+  Pengirim/Penerima: PAC Kawedanan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 005/Pan.pel-Lakmud/A/IV/7354-7455/IV/2026
+  Perihal: Permohonan Bantuan CBP KPP
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 19 April 2026
+  Pengirim/Penerima: PAC Kawedanan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 006/Pan.pel-Lakmud/A/IV/7354-7455/IV/2026
+  Perihal: Undangan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 19 April 2026
+  Pengirim/Penerima: PAC Kawedanan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: -
+  Perihal: Undangan Pelantikan
+  Jenis: MASUK (IPNU)
+  Tanggal Surat: 22 April 2026
+  Pengirim/Penerima: PC IPNU Ponorogo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: -
+  Perihal: Undangan Pelantikan
+  Jenis: MASUK (IPPNU)
+  Tanggal Surat: 22 April 2026
+  Pengirim/Penerima: PC IPPNU PONOROGO
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 053/PC/S.Ket/7455/XVIII/IV/2026
+  Perihal: Surat Keterangan Aktif
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 22 April 2026
+  Pengirim/Penerima: UIN Ponorogo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 054/PC/S.Ket/7455/XVIII/IV/2026
+  Perihal: Surat Keterangan Aktif
+  Jenis: KELUAR (IPPNU)
+  Tanggal Surat: 22 April 2026
+  Pengirim/Penerima: UIN Ponorogo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 001/Pan.RAPIM-RAKOR/XXI/7354/IV/26
+  Perihal: RAPIMWIL & RAKORWIL
+  Jenis: MASUK (IPNU)
+  Tanggal Surat: 23 April 2026
+  Pengirim/Penerima: PW IPNU Jatim
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 002/PAC/A/VIII-VIII/7354-7455/IV/2026
+  Perihal: Pemberitahuan Rakerancab 2
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 23 April 2026
+  Pengirim/Penerima: PAC Panekan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 013/Pan.pel-Lakmud/A/IV/7354-7455/IV/2026
+  Perihal: Permohonan Bantuan Screening
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 23 April 2026
+  Pengirim/Penerima: PAC Kawedanan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nomor Surat: 001/PAN.PEL/VIII-VIII/7354-7455/II/26
+  Perihal: Pemberitahuan Kegiatan
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 25 February 2026
+  Pengirim/Penerima: PAC Panekan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+
+--- DAFTAR ANGGOTA IPNU-IPPNU MAGETAN ---
+- Nama: 601404f69f1f423183f78d54d84a9207:6b4e183b9d73e609ec8657bb40035557 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
+- Nama: dbe094efd8a246ae1e315e87ba36780e:5f14a9eb2375bc325fc4cd8fac85581c1f4fa77f0fa3bf49a03920113e2d6539f39b681d088dc3eb724243e14c4a2e1c (Alamat: Jl.Bromo rt 13/ rw 03 Maospati , No.HP: 08213392181, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
+- Nama: e869830971c5b26f73af9fb26c024e87:f8ece192baf728a9a884308efba25be2 (Alamat: Jl.Kesehatan rt 12/ rw 03, Ds.sempol Maospati , No.HP: 081231604736, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
+- Nama: 409f6ef8d9780d9bde41edcefc87a8df:9be24aaeaee68879755decfaf8e4fea15245645cb7223fbca6fc4d6a1164882f (Alamat: Jl.Diponegoro rt 05/ rw 02, Malang Maospati , No.HP: 0859183882463, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
+- Nama: 1eb1fd617346e9262d084679383a5ad5:c49883fd3481084a4ca531ec3fbc3b06c7797aa3bec170ae31e51ee8808136d3 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
+- Nama: 07548bfe60565eccec3cb55fa7356d1c:a6f0aec58f97d5c66d50e452e108c7ee13fa9ec9fee075f8a06e6f73f55cb82b (Alamat: Jl.Arjuno rt 08/ rw 02, Klagen Gambiran Maospati , No.HP: 083874506603, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
+- Nama: 353ff2b3122fd0b30f1e474921660170:0b662999669b664a9d4fc88b2b2417a488c13f39d50b929f4b9b11250689ec57 (Alamat: Ngujung Maospati , No.HP: 087786701910, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
+- Nama: d013ec9a7ad7377a128bba286d30441b:84e4f8a8355b749def0301b49ce705d00691e96a052651418c16dcc654f62cd2 (Alamat: Ds.sugihwaras rt 22/ rw 06, Maospati , No.HP: 0881036713332, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
+- Nama: f2231385b78ba58e74a6c5e8d97a50ca:b11f46287565fbbeb933d72d475ace60476807779c1947558ceca5e53337b10c (Alamat: -, No.HP: 083174050607, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
+- Nama: 62647f1bfc849814c7e9a8d58cee4f2e:b70b9ef78b05be6386a6e88569f3631b20cf416b13c4ff947994a42cc4a7cc2d (Alamat: Klagen Gambiran Maospati , No.HP: 083830959635, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
+- Nama: 214546ec07d3e472f6b84fbb2e5c599d:69112f856be4eb9619a54cd7ce59f92758552cb56c5668677a745ce8f1fe78f3 (Alamat: Jl.A.Yani rt 11/ rw 04, Malang Maospati , No.HP: 082375107918, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
+- Nama: 9ce45bb81938993ba26039431e77530a:ecd670b3308ea419c675a2753325968df11a447dd8508f9e3e8bf1106f8b6b42 (Alamat: Jl.A.Yani rt 11/ rw 04, Malang Maospati , No.HP: 081232272261, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
+- Nama: 07b3d5c8f6f1e46578123663b1aa9d98:803bbe46e2fecedea5b38c745a0e8786ba1fc420c3c27eb433a134853346064d (Alamat: Jl.pramuka rt 01/ rw 03 Kelurahan Kraton Maospati , No.HP: 085236362038, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
+- Nama: ae3f2f8b2a609ae5161e996d0d1eb1e2:aa3db7683ff59b089a1578deed6da7d8085f4a471afa726c4da311b42f8ebb60 (Alamat: Jl.raya barat no.265-A Utomo rt 05/ RW 01, No.HP: 081234933900, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
+- Nama: 546d859ccf29a32a1e07107c4b163999:3744cf2a6b0ddb0510a7297219e608950d0823be39ac37dca43913c63513070c (Alamat: Jl.agung rt 09/rw 02, Klagen Gambiran Maospati , No.HP: 089524098106, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
+- Nama: 8cf3c0aa315081d649d02b7188a2cd01:92744e4c6c15a604fa9f925fb0fa19b769f0ab69fdfeb5342720cf853b4d7a6c (Alamat: -, No.HP: 085792670609, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
+- Nama: 06c3b795a2ddb0f765da2b271190860a:4773422bc4df647a049fdb16c28bf4f021b4d425dc618cf95fc9ef25351e50dc (Alamat: Ds. Sobontoro, Kec. Karas, Kab. Magetan, No.HP: 085156732462, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: f3a47358f5370511f669ce4fee0e654f:7f14514c55323d3efb52bbcdb13ddd7931066d1078388c96ad7ba7e2ade2b09e (Alamat: Desa Tamanarum, Kec. Parang, Kab. Magetan, No.HP: -, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: 65cd99b631f5e431ad2ed6d0e26ae6d0:19bed0b9a497e1249656bf6593743b4c (Alamat: Desa Sendang, Kec. Purwantoro, Kab. Wonogiri, No.HP: -, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: 29113dd993dccf1a737b219fe92e1ba3:e97953ad7f9c6c58c887ffeb57242a3b967848410df1c1970eeac60ea095a7b3 (Alamat: Desa Parang, Kec. Parang, Kab. Magetan, No.HP: -, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: b930b87380d6b4a0c393eb76d07ffca6:06245c49a99c1bdef6b9219a13b527328f73b12516f8ebb608f32855d2e9fa78 (Alamat: Desa Mategal, Kec. Parang, Kab. Magetan, No.HP: 085706624536, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: 4e3e7e0c1eb3b522b1f48e2332ffd120:b06cdfaf999710027df7eaf30f8ba8f57b3fa58d4dfff34368a475d64de22ae6 (Alamat: Rt 02 Rw 07 Seturi Tapen, No.HP: 085336175326, Pendidikan: -, Uploader: pacipnuippnu lembeyan, Periode: 2024-2026)
+- Nama: cef9680c6e9d9e02a1bcaa86821f1c76:0f764886b3a414dcffc3fc9b9a1ff69bd1459582da76b972fc02aaf81521fa5e (Alamat: Jl. raya lembeyan - gorang gareng rt/rw 04/01, No.HP: 081216634389, Pendidikan: -, Uploader: pacipnuippnu lembeyan, Periode: 2024-2026)
+- Nama: 4c566f414803d34dfc29b2bd487d9224:33f126b262c3b322af3a860bf50353bf (Alamat: Ds. Tunggur Kec. Lembeyan Kab. Magetan, No.HP: 082122958435, Pendidikan: -, Uploader: pacipnuippnu lembeyan, Periode: 2024-2026)
+- Nama: 5bb647d380baf1bf1b22266a3e19f1a3:a1aca517a72d677ccc35dcc09833bf06ec1941e8ac3b94e56351ea4d455f2d00 (Alamat: Dsn. Jambangan RT 05 RW 03, Ds. Lembeyan Wetan, Kec. Lembeyan, Kab. Magetan, No.HP: -, Pendidikan: -, Uploader: pacipnuippnu lembeyan, Periode: 2024-2026)
+- Nama: 7e072cf65a79460080ad210ec64c3a81:ec0efb2fb0ade4ed590d04370b596c35ec1facf8e24a55c86922fabd13dc71e0 (Alamat: Ds. Lembeyan Wetan, Kec. Lembeyan, Kab. Magetan, No.HP: 085649867422, Pendidikan: -, Uploader: pacipnuippnu lembeyan, Periode: 2024-2026)
+- Nama: 820af2980f64cdc0ed380f708f7905ab:1eea3d7182fbaa9473eedfcdfe77b5fb3083ece0eaa69c9d0075df0d213da2de (Alamat: -, No.HP: -, Pendidikan: -, Uploader: pacipnuippnu lembeyan, Periode: 2024-2026)
+- Nama: d6a235b8a4a3da9f17d14b6ce82b80b1:f9c3e7072d5eeec638d498c3da7eb61f29436121ec7376176952b97f04dc29b0 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: pacipnuippnu lembeyan, Periode: 2024-2026)
+- Nama: eb6c6a1de6895584d94c70ac9135f673:768d53c721c749e56689da6f32689a615c19f33d7ff423af0ff7d66da8b538ee (Alamat: -, No.HP: -, Pendidikan: -, Uploader: pacipnuippnu lembeyan, Periode: 2024-2026)
+- Nama: 777fd99a2707269e8a260b59ddf6c1be:3e7ac19820648089f16a4ef5bb5ca609 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: pacipnuippnu lembeyan, Periode: 2024-2026)
+- Nama: 051edbf2312b3f1f7ab306d368e3fe5a:4476cd1cec016b384e3bcb7e3bff3545 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: pacipnuippnu lembeyan, Periode: 2024-2026)
+- Nama: 24c53a8cabfc26f0238bd254763cf45d:357295d076ad1fe4aa06fd0ee6cd4ae053fc768f9bace6ab766c0a1a44b4e7da (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 255c721cd787971e29d357c069287cad:bb09dccb0d58f501d1492d0f2bf090462874c3c48bc657d73b2b9eaa02d702cb (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 026fada16f938ee552d4dab2165c8897:1f9feab514bedc2741155ede0822934c5f9e525047c8cc8dec0918dbc4c1fc00 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: cdb25a3b8a6d9c62074b63a175c18e59:9aa07c52d26e51b5cd7a1bf76387d46f4b5ef9bef296ac6ebb981256c5b40b81 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 2ff8fd7dbb84faae1a8f20cf90dab31c:2c19e33604e62072bd69dd49a9f7b3574eff78453473dc656ea0910011911327 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 8e4e186aa3c3e23ecdfecce52fed73d6:40ca1539cb624ad1ba85320e92bf9e2bb38654ff33b4b82dfe324dc886cf188d (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: f25b028ea59fb47be8d529c74ea81a14:ad0418274dcf9e95a9e78e727a846d621d655b3da0416769bcb082a78c31abf7 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 8eaf0b10bf554e0666d25c776f8fbb57:6747d4d64bf1bc07f2a2a91f2e13a547c380d2cdf9701545cfd05ba7a54712d7 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 620c8aadb718d47303a0afe6ef2ccb08:b7fb1b1818cd173c712f8bef9484cb95073c83f7499de82e66a9c7674f4cd058 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: e7874270105fd1fd5cf4154f6db76f5d:0d1dd490eccca2aaea4792ac310874556c67531b2ad2c0f36602fb7b9f7431fc (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 5574379f755853092cfafe51a30f118c:2f627542ac3abee34e626f58b0a0fc0dcae4179c730c15fa8fc06b0cb4293881 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: acd957bf0e1e3bae5ee784c3026e13ce:396aaa6b6aee96ab15bfd451df15df10e07665b4fb2c8f89fa34ecda57c5aff8 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 91ae0a0def3033e9f3c9ef7e2894a3d0:eacb5f6e41f5bf23afd7b26ab328f8997c11bb2c52bb2e5b253c842599c0ce75 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 726c8bbfdda16f3f52ac2c0dc9cabfb4:1061a25dbb69857d59ac26af16ab4ab35fddc92333ccd866e366a99ff2534e22 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: b8029598814002a5137e12b4f00a545d:f565f528741840fdabfb175aa89869edd7e97f706e511031c89524db0ffa9467 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: a03046c1543defc94d25cce0b8f474e1:87f050641c40be4b8148699f64790b27 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: b90fcedc9fe5f1ef6ac4e9f1e547d06a:65c043265197b6361b80839ebaa2d7acb3cfca0cdb774fcf423d1986b0d40afb (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: b641cfc18d659f9d59754d1643d7949f:dffce84b691c37ec295fb382ad6ae2c9f3ec5f65a8ce57fe410bc7f914cc8248 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 161b5d6d438cf73eaeca648da7b046f9:e6cc683fd1a179bb3cfb2edb5f67397ec1eff1d3ff4e656b185ca7c00a1381d3 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 944d1c9d219020d941034091ebb1bfbd:046c720e6bff1726b19e207367c375ccf6ca143a6c3ab1d0af6ea68be75ac64a (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 4c3e40018f38075cea389724c7eecdef:7d5ba97d3c51a5e06962a4fc5bf2bff2838f3ad702d6aec25f1aaaafbebf78d9 (Alamat: -, No.HP: 0857817474059, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 15adecf74ba955f74e5cd1c78a1e5c15:4bc612019209e07e9ce6efb8ac4e01b98f7a910ec96f21e1d287721affb7f2a1 (Alamat: Ds. Ngunut rt08 rw02 kec. Kawedanan kab.magetan, No.HP: 085648899362, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: cd0fc1c50bbd29f3b37fcc6cfbf8ae42:6016197046c3820256adf1638e13819eb5196630761d870cbb8e78799f3c9451 (Alamat: Ds. Karangrejo Rt.14/Rw.05 Kec. Kawedanan Kab. Magetan, No.HP: 081456024618, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: cf76a1987281c8f7d1175224ce6018f0:23b0ffaca51cfd7cd724b759db3b06b5a5f02a833ce6f2bc81ac0f646d90d12c (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 15d7c8acd7c2134326d13d6730a54f2c:690e72380eb4baf28ce3f68b8ae90f5b7cd4303d891b2031091d62027a680f17 (Alamat: Sugihrejo, 18/05, Kawedanan, Magetan , No.HP: 085792890154, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 8114ac344a74029aefd1bed11e899aab:96cb89dbf3349c80755417f043e02dcd163e5a8332c67675082acf3282eeb424 (Alamat: Ds.Giripurno,Kec.Kawedanan,Kab.Magetan, No.HP: 0812 3163 5355, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 9f803ae11b313c9ef2da0a48fa61d17f:6ebb43be27646174db0c7f60a42ec247033011f0253508b17b0597077cfa721f (Alamat: Ds.Karangrejo Kec.Kawedanan RT.22 RW.09, No.HP: +62 858 5256 3975, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 9438d4477f0bbebe7c333300a75d5a88:3833967c67020edaa12ba70cd344e689f3f68ef15c19b8731d08db299700b3b89408cd397ba88ee8e1a7a6e65e64ec23 (Alamat: Desa Giripurno RT. 17 RW. 06 , No.HP: 082114820814, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 153b9455543a86aab8da75639b089fd8:35038513c5be9364f0b1e7d40d9af8a7ca0562fa9351e861a75a0c22034109af (Alamat: Desa Tulung, Rt 6 Rw 4, Kec. Kawedanan, Kab. Magetan, No.HP: 085607827159, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: bb1d8ad395f3aa0924abe640ea0c747e:ed44236b8b0d942733f4133e0ea458c0 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: bd3324e50dfc9565431be6eb2dfe22a1:7b60d0461468a70de0fb67d43625c1c30259d239addfcf486eab83fd9fd422e8 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: de4c8fce7c48b20c62293833c80a110a:2be956e4ff7680865e41a1efd4885a4c4c0ba8bbfc8a0ef716eb243750032254 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 8ee9513f2a1918d647e8f9e7eeb12c99:fded8a5164dd6e459129780c46cac125c7f83b1b2fd380644a8dee401477f268 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 2e75fa0aa87d8dc69ed1b9cad85dde0a:23b307dc1de055cbb2390b62b7fe363a344af74d21ddfd4c5fde10a5fb1f43d7 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: d1fc028070ccda8b4f3ec8af5ed53d6a:27ce0829c3f6c62894c02bd0ea5028a03e52d6b742ea2807dea84e2fbc60a1cb (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: aa67873057252f9b5c7bdb7bd3093d8c:a910dcb07921c796da46f595d499f7cd7bb91a44f19de7aafacbcbc73c969519 (Alamat: kelurahan Sampung RT 03 RW 02, Kec Kawedanan, Kab. Magetan, No.HP: 085648857047, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 03903e2d8f79e7e201b0aa10cd5f3db4:518fd7bdccab12b62e9ce993e11796162894df6fe620f1f2687a1f57ed0c8507 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 0331891ac6290761aaaf46744dccb3bc:34bfd866f63897b2e5f1bab0b714359b (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: f03461592070eafac3a654e67d86c3d4:51a8ce53c73b22c21db837639d0f9eda2979a04bc232ff682fb45b689134746b (Alamat: 	Rt 17 Rw 05 dk. Setren ds. Mangunrejo kec. Kawedanan kab. Magetan, No.HP: 08574500804, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: ee09ada1ea7389a531c8da7c66165af8:abf6ebb2e468dc98f78c3291a647c386 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 581a720ee76ffde6a64c8a64a3d4a119:1e1c070f53e7765e072784292407bc32 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 4a03b7954b6df66bdb0f9c1a41e63d1f:8f7a68fcf182dbfda9d1556373137c4a (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 2bd09a4a2cbc8d8e2d1b0a8b6b7f0ba5:e8c5a0cad9b2ddc8b0a928755bbefa9b (Alamat: mangunrejo, kawedanan, magetan, No.HP: 082269234082, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 1a37d76251ff079807bd162b0a8d2063:d90ca19f0af3f6f20a60faba546b5a24a66578df80e60d2f3faf300b4f343cdb (Alamat: Ds Karangrejo RT 19 RW 08 kec Kawedanan kab Magetan	, No.HP: 089510111319, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 9d36165bd9a76fe3dcb3bff85bf3fefb:6b793987fbdde3fa47f7e7e44034a4cfd22666dda1f4f0f67feeaee57c40ee60 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: d0876ddef6b5a0fb07cb2c50d4714194:911d4be56e8f43bd9e636c1e71b65033913d3324a377cc6d20051a67396004c6 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 5798c0922c21ec47880ff1a8f115b987:4c300556889380030770058f43a80200 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 4f7a38ef305c639ca256077c2b6a289e:499a01f748fea2be1b7985a08f16aed1840156445717390b0b19c1e85d508ecc (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: f8a6dbf3da5da797d7a970850d42ca2e:b9837e6634e26ac10cb40154d9063980 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: 3099667f82ede4c995e49db9c81d525c:3d8af704c29c0286419d6d212e72c5265b1247c569923a17ee62dfe88a51620d (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: ab199461a6176960e0aadc00fcd99b22:14b1ffb912733d587ec1cc13af560d578b6db5657fad9fd7519ccb0cd6c4955f (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: ca13fb1a3c098a718f2857ed459b81e5:4ad1b5980aeed5192311050877bdb526b927777eb6a1a997ab55c16b06fcc1c4 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: 65dd578f3b383651a94ef484159effdd:27ddf202c2da6f266e6818ddc3f1ce41 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: e6f257b27f438c3dbd9183e2fab0af86:02a3699e5e58e037dd0531cf86ad947f (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: 8f6b34eeb978c6bed383fb1a215b47d4:5e3bf328e6450212555b9ee54412b07d595eb2487c8f47cb9146eecad7b37c14 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: 4c95c0d98e96d3167d527786064d20aa:aaf0a128ae56601215c64d550c5fa2015c55420db613c49e27995d4f872f2dbd (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: ca15a563300a8a0051e072375caf6bfd:69071b08337730b01148b501118b24ce54d43ad4fc6d8fcac5f971b8db6ff1c8 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: eb309ee91081f62b699fb42bf60cfa36:3ed80e6283b31d7a700de39da4f7d43f (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: fbf7ddcfa297baa0a2878b0c6016e21b:6f7495e87e1cc7aeb6c0cff1781ddb8b1eb8660b9133908856666d6b2f2351f0 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: 1891f5e7069e2c1bd5aadb1836fb8536:48299d72392333110bd43cf12bcac47f (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: c1f53eed5b7701b5c07411b20d3435a5:76897baaa7746dca7e954036129299e64901e5c8e34b3c959c0ac83c747ea51c (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: 14ec96db3149f92ffc518040769d9615:f86b3f15c8db7fd9c7c44c2af0036083 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: 1474d4d5c109e6ed028c9ea6cc7745e9:46f443ce6b64351ffabbd4b5b1ac0517e0f004308c63899230c79d80eb720713 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: ecd630fb1a81b08a44d349316cd0c220:0741fdb5f66154c03ba2451ab476a792e91a45054d7853970c97d21e0bf56ae8 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: 361a206bbcd7978f872fe58d38b4bc0f:f964927df75a9f685f6e50cca59c41e994752b6a42214e44634aa362215d1998 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: 71aeff5b4de1761e63852c635baf7249:6fc59cd1763466ee6b4ef0481abe7e71782fb9f51c9b178251adc655d3635b84 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: 7d7761044341dddd0b9676dbfea667b4:644036ea733680d86ba6b0bbb2b07f3b0861eddcbc89673ce945ac8f40b298f4 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: 81984fc890441d593109626e30918601:c1f662c74ccd8d673b4cf53d409fa198 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: d09d304e81569d299a77f817ce9a9d61:3d7fd696c7eb455a44f8e517a6530e042b8e99f066207f67c545eff92818b624 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: a442960b6a172f5bea74c6133f3c0bd3:7aba4d928ac83b43231bdcb02f55a007 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: fcb223136261df8dca1821ba5d048af8:917b9e1d1bc1554b358ca158b1b3eeac (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: f608035c489c83ff18d7357b0113a7ff:00965d2a4bf4a2f439b2aae10b4a2de8 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: d80959d33c33609c6c7757b2a7bc7e56:1daa80c05b1966c679cf5af863a04d19 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: a603b4a303fbda374dbbc8d62aa4aa8e:a20ca24701e803147a355439efaf9881 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: 62473e793aefecd26d40d88c02f84d2a:9dcb2fa44f35051ef8b915586e9e5d686f1e6e937e01a3e2b7216118cbd8a26e (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Karas, Periode: 2025-2027)
+- Nama: f16cf594cf62d47b75a4bac6d474e39b:cc1191bc9e89e66fb71f0aefcea006934f299c6fd068e61cd7090249e4f04c62 (Alamat: Dkh ledok, Rt 16 Rw 03 ds. Kediren, kec.Lembeyan, Kab.Magetan, No.HP: 081217479834, Pendidikan: -, Uploader: pacipnuippnu lembeyan, Periode: 2024-2026)
+- Nama: 85a05f143eb644c70e6d9d4da81ff07c:078f804ec48a730c9ef3faafb0c862301ad6ae9c0f169a2c434f166b13db0243 (Alamat: Dkh. Kandangan RT 01 RW 01, Tapen, Lembeyan, Magetan, No.HP: 085733203483, Pendidikan: -, Uploader: pacipnuippnu lembeyan, Periode: 2024-2026)
+- Nama: f9457c1bf868aa9d13dd2e78a1c6b5ec:4c15ca296d9d592af84ba1d7892ae5bc (Alamat: Dkh.Kajar RT 01 RW P1 Ds.Krowe, Lembeyan, magetan, No.HP: 085815426791, Pendidikan: -, Uploader: pacipnuippnu lembeyan, Periode: 2024-2026)
+- Nama: 98d54f0310c50d48f22578afd59b242e:d559720aac8ec116d0e4fbade3c5180a (Alamat: Dk.Kandangan RT 02/ RW 01, Ds.Tapen, Kec.Lembeyan, Kab.Magetan, No.HP: 088989449737, Pendidikan: -, Uploader: pacipnuippnu lembeyan, Periode: 2024-2026)
+- Nama: a1c40493cf1f2526489687422879ca9f:fd42a7ef8ef1e22fd7e7983553921998fe427e9ff03e57a98b1b816af3e2c553 (Alamat: Rw 07, Ringin Putih, ds.Tapen,Lembeyan,Magetan, No.HP: +62 858-9577-0904, Pendidikan: -, Uploader: pacipnuippnu lembeyan, Periode: 2024-2026)
+- Nama: 53d344da619635b5b0375acbc3901278:f96171d47ee6fbc5f83c4c07a95395610a55dbb940e6f983047d53d53739cd48 (Alamat: Rt 02 Rw 03 Ds.Nguri, kec.Lembeyan, Kab.Magetan, No.HP: 089684288560, Pendidikan: -, Uploader: pacipnuippnu lembeyan, Periode: 2024-2026)
+- Nama: b5f1b5b7dfd4ce16db1ac8330d97fc8c:eac5fa6b91fd98ed81c006016d88142a3943b36bc5d08680fde208ac94c6a8ec (Alamat: Lembeyan kulon RT 03 RW 01 Lembeyan Magetan, No.HP: 085233006868, Pendidikan: -, Uploader: pacipnuippnu lembeyan, Periode: 2024-2026)
+- Nama: 74b8f81c7b66aaf94fb6a4c7be01544e:95ddd0851bcdc851d5596b968dbb24e933c9f51f409ea8e7f442134b27581d5b (Alamat: -, No.HP: 0857-4546-3988, Pendidikan: -, Uploader: pacipnuippnu lembeyan, Periode: 2024-2026)
+- Nama: 22b7bf49ab87bae3a7e5044b6aa89225:2c29df9f3a923b83eae5b84212560778adcd1dcebb07581eecf71d2a7d6778e8 (Alamat: RT 01/RW 11, Grumbul Malang, Pupus, Lembeyan, Magetan, No.HP: 085806567372, Pendidikan: -, Uploader: pacipnuippnu lembeyan, Periode: 2024-2026)
+- Nama: ac4f33f3495656a5021005a329d99a29:11d767867bf4d4d55556049e5107ec1d9e3dd63f2614bc36e6b740b47d3c6ada (Alamat: Rt 03 Rw 09 ds.pupus, lembeyan magetan, No.HP: 08816084351, Pendidikan: -, Uploader: pacipnuippnu lembeyan, Periode: 2024-2026)
+- Nama: 0929fedcac74e47dd7a93052b9c84887:1bee5da56587f8a5edd94db374fb4be61a4d0910bfc8875ae87f74c99780e6a0 (Alamat: Desa Mategal, Kec Parang, Kab Magetan, No.HP: 081331282295, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: 2c1da6853c6574db6c798c0b6d78d60d:17c2484c240f9e48512510bc73f05e27a0bceec1ee5116c6a574789c7513c84d (Alamat: Dusun Tempel Desa Banjarejo Kecamatan Panekan Kabupaten magetan, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: e3081f97a68c4d231deab103ad067d22:b25ab55b1541c8c689feffd341bf520f9a1b231a6a5addb29e2ea9bcf7a7dcf7 (Alamat: Kelurahan Panekan , No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: ed01a6cc94e028549db5c629678cf559:165bfa60d649a71f8b6c82b3e01370e51334b2bddd4e7e7578c2ae7f2005a40a (Alamat: Desa Tamanarum, Kec Parang, Kab Magetan, No.HP: 085607828763, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: e610d1ba98be4a930bb9a235c8a35726:2683166999e9f500d157071c93a632e243beef05d67641be94fbc0e03a25ef67 (Alamat: Komplek Perumahan Terung Desa Terung Kecamatan Panekan Kabupaten Magetan, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: d6351eadcb12996cd62e63f66ff54530:e0ddb4440f5f477ae6b3f733ac9979e7 (Alamat: Desa Mategal, Kec parang, Kab Magetan, No.HP: 083830955803, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: 9bf984c993e5cae2b587a5b8528ebbfc:1d8a1998c6bb4982a7301f34a160312305e93c0e977d85aebde239b1f8ff59db (Alamat: Dusu Ngelemi Desa Turi Kecamatan Panekan Kabupaten Magetan, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: c014654f4759ae7c13049358ae2c3289:be195eee14ff9f8b357316a34733176c23a2783af1b69067878d85b4eef071a4 (Alamat: Desa Parang, Kec parang, Kab Magetan, No.HP: 085731793763, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: e448a27febc6abdbd1f3c6aa5e631841:931a0b38786e4e90cbab733b478486a301cbf5dcd317f3f00dee749bd6025801 (Alamat: Dusun Wide Desa Sidowayah Kecamatan Panekan Kabupaten magetan, No.HP: 085852320310, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: 7175c89cff58ae02a3d4d1ab91657e3f:0b5108e6010adf6452bb01fc375019011ad334d1b1ecae8879464061d31b9062 (Alamat: Desa Tamanarum, Kec parang, Kab magetan, No.HP: 085748627609, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: 069485800e0607ca7ecd138b7acab064:cba874aa7db9cc50dc5309de6043c068255f7bf7eba1e6d3a22932c6b2366e2d (Alamat: Dusun Pakis Kelurahan Panekan Kecamatan Panekan Kabupaten Magetan, No.HP: 085643597717, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: a3cbc2a2c56e661a827a6c0a103aaa31:4eabd6bf654d5701115165d49d95bee109ff319936d97df3f0a0bd6f067272c5 (Alamat: Desa Tamanarum, Kec Parang, Kab Magetan, No.HP: 085126349618, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: ee4730b4c54e48b1fa5c3bc9011c4162:2d0ed76a3f61b9d7cb6acbd9e8cb5569 (Alamat: Desa Tamanarum, Kec parang, Kab Magetan, No.HP: 085790655095, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: 55508bcc15912e7694dea1ac0f142442:edc3c7d0aa0f229595acb138d4c23f92 (Alamat: Desa Jabung Kecamatan Panekan Kabupaten Magetan, No.HP: 085745006729, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: f235a4c3b16736705d6bc4984dfde79a:db21638ce60fc9e378e07920aabbc680b67741b49954f7c0f606e8b4f1170aa0 (Alamat: Desa Mategal, Kec Parang, Kab Magetan, No.HP: 085807260889, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: 09688ee244216d3ebb45908e6f1c6e28:1c5dac965ca2b8936fb30a3151cd44df375026a30c5874697f0708db5be216d5 (Alamat: Desa Ngaglik, Kec Parang, Kab Magetan, No.HP: 081456049405, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: b776f660f31c4a6992a64f18860ced9f:a209392f400c06cb062f75297fc166d87d8d8f036d12bb59a70d6b0c15a986b5 (Alamat: Desa Joketro, Kec Parang, Kab Magetan, No.HP: 085604617252, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: 23c3e5b27828d957411260282f381020:bca6760b955d926104884a30029571b39bce8db124cc254ec01f0d296bee1a43 (Alamat: Desa Nglopang, Kec Parang, Kab Magetan, No.HP: 085607308795, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: e32db2a61e2660b9ef5dca00d924e4e7:8afa51604f98374a82d1b38d12a47851 (Alamat: Desa Tamanarum, Kec Parang, Kab Magetan, No.HP: 085604688761, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: 55a1f42c3363b7c29e67feaf44e97486:4d22eff9c972b3584ec31e86b8b33ddbf697ef551e746afe2a65a94822ea4e14 (Alamat: Desa Joketro, Kec parang, Kab Magetan, No.HP: 085808809195, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: c7e0691d7ee67f85e9bf5a5948a7e274:8429b74a19aeb822338475f6c4637abdea5b67be6bebd932165cc44f0211d439 (Alamat: Desa Sokoboyo, Kec Slogohimo, Kab Wonogiri, No.HP: 085753390196, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: 6ac9f66fb4eabdd848683d9e3e156ebd:2519f002d38e6f1edb8883927676002c2c648e90405ed801cf2e5ba88c095cf4 (Alamat: Dusun Gondang Desa Turi Kecamatan Panekan Kabupaten magetan, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: 0e54304049d272fd4a396d46ae6f745f:e28840e1733f3b9fe473874f02aca327c30c7a0408f789e50c4626207f6030b6 (Alamat: Kel Parang, Kec Parang, Kab Magetan, No.HP: 085730292260, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: 4afcc56d47188a5cc786342b86729fbb:a84732ebbb8867e9f657919edceb951925ffe234d618f5f02b841a53ab7f901e (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: 85352c7ea61afece9732a3a6d5d1acf0:199aaab287cd890f120ca8e396a6127d (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: a725ab25508ec29821e60014f5be4845:2d01c0547b7932b29d1af4835e5017568e1582de393465446f1aa6086d6f128f (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: 434e216ce3c87639058f871c074edb24:aa9263c2aae35c282fc61b7e1a05f0ae (Alamat: Desa Tamanarum, Kec Parang, Kab Magetan, No.HP: 085737421697, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: 4b3ad9a7766bf8cf797b4a9a466b0b1d:3cf968c2a575347c638a23436f422034d4c28f6237d4b2cebadeaf7d613e334c (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: 69b5613547c243492d1a70ea65b6e62b:3f7ab8fb2b690360a22a24b314fc24edbe975bb99be5035122eee89244a535f4 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: f5b18f5ebc0e59bab80aa8829603e2d1:09741b43669eaee25db105a95b42cc0b (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: 09a2fab6a2617efa1e9027df0ad8d26d:b93d303236cdee63c59bbd252924a35e (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: 78ed175f99f00f3827a01afb832d0542:435d02b4b95ff34a448dd2930b0c9e46fa26bcdb6beb24463e00a5f7cde52c62 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: 3932a608e20d796d339ae252a1217a8f:d6ea6cd5588f7362d6aca5de157f8470 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: 772472bf93182ffd5922c7e520b34ff4:c291e6ed850c5d1b0c624b681efbb0a1f26f6fe9cb261234c3e81b59df99e795 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: c5e2aba475d0ef3915e82b179be2aec3:e615e5c9185628a61cc3162ee5b15db6 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: 7047b71f42c231744e363d357a0ad464:9e8419528260217d7b97d1377601c6e645debb85664448beada25063e946e214 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: 6b8b72788e0852552513f850e75fc7ec:97467f40f0bc7fe2ce755f0ae6f92c50838ccbf33ffb9d33cd439e6a56c5bb3f (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: c3e0bb045e515098d98c4d93ac886feb:e5d94559867dd84304fbff3f4d01b7dcc1d3af5457e592d634cb9a722a9f7c40 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: e360c570e6dc903d12376701fdf8d557:eb82e2bfd445d93873c3af16db4b6f51c1797288cbf1ed7d52e108eb16f96bcb (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: f058e1960312181a99f38e35428937b1:3699590c2f7fba5945684180e80a735d82f65551bb4378531a6ebbdd726e9c05 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: a90615968f366c5d45d4897c956788c2:30931a4780fd358c37215c607495e1d6c558ac93a68cbb43cc8b8fcc0797db20 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: c834c8180e9e8f25c58a1b72e18d32f5:48bdd9842628193e32650b9306b1c94e0254cfc72880a43d2a85381601ac7ea8 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: b8fc86c4f443627fe123e3d71ae3d2c2:2a4912172eb07498b9d605172aebbc0f85ad582585f9a2bdddc6996826f772a5 (Alamat: Dusun Joso Desa Turi Kematan Panekan Kabupaten Magetan, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: 599f750f78475f8321cc53af2390e676:8351c6b2669fc2dd5cf1414a734b5479af177eb33fcc23a497b8c833d8044c7f (Alamat: Desa Rejomulyo kecamatan Panekan Kabupaten Magetan, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: 53453bf9ff941f466e012380fbd52ce0:af4e20e471c125c098fa75c860be4b8d (Alamat: Desa Ngiliran Kecamatan Panekan Kabupaten Magetan, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: 6184e2c9967e1d6b08c684625df1c9e8:6d81553ccd42372a9760613bbcfc5df9 (Alamat: Desa Ngiliran Kecamatan Panekan Kabupaten Magetan, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: 25843b2c27a348d2837d7bbeb3f3fb82:e806ced1f61b2681688ce911da7a61db (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: 895bca94529b11c7bf6a09562678fe75:bb7cb70601382bca2da5f8d401d25c37 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: acbc481fc5e5611bc716d5edda6545b5:36b4983ea1cbb9d9094eb3c8a9734535257d07e98de05052192b9400839f5165 (Alamat: Desa sidowayah Kecamatan Panekan Kabupaten Magetan, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: f9532d1a0cf23d16d2e9dbdc65594e6c:3eba5eef12a3219673c44dd11765b52e (Alamat: Desa Banjarejo Kecamatan Panekan Kabupaten Magetan, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: 381f7b8281ea283a54ed9e287f9c939f:432ec2dddb7e24e98ff624672feb65b9df26b9761c603c2782d49dbd8051c895 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: ef9ba981f80f372c4e7f4d9c2d82fd0e:8f4164ef78a5887caa10412f04b8b90c645f97fc73ed179a58474623049e0768 (Alamat: Desa Bedagung Kecamatan Paneka Kabupaten Magetan, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: c5c54c3f6ff1f9fe17de6ca790bd0ad2:dc1d5409f2a0215ab8b353dc152f1b9e9f674eb3030872a5dc57fca2d1e59040 (Alamat: Desa Bedagung Kecamatan Panekan Kabupaten Magetan, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: 03739186825fecd286d7fececfcca312:677a6868468a355bfa02201a4b8432475a13d7e0f7e293adaeabc4461cd464e449566e088601234e7d3ffbbc11c73e10 (Alamat: Dusun Dosi RT 04 RW 01 Desa Rejomulyo Kecamatan Panekan Kabupaten Magetan, No.HP: 083846292173, Pendidikan: -, Uploader: PAC IPNU IPPNU PANEKAN, Periode: 2025-2027)
+- Nama: 843442662b293a40998e3f126fa1a69a:b8c39fba24d2c16ec605fbde2a97be35 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: 9455a9939e6c8ae02ad07cd3b67e68e6:1c18266b44013513fd2f5799440ac402 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: df8a0e42b1e9a8897831c09356842dc8:7bdb8b03c1c5ae8272c77f2acbb334fd (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: c58e472a220dae14338720a584b6639e:56268a0e94024b365b70d15565e88cbcae8828c8a841f5ef78b43af0947fda5f (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: 7ce5b3da7c09fb298e5d99bb6718a028:084cade353063f9725f177c483e90de8 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: 4a8b75ed65bf1728d81a4f656b794adf:ca53e3003542e22b2d30141c16e2eafcf32a349692f1223b793cdbaccc9396b5 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: 130e0ecb7b3f6af2b63719d33589a1ac:f8349954bea631f01a21a453076def2e (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: 8ef37472528d38018123b8d2ae24ed1c:4491c0880a3da6af1ebc6f5b14d845c3 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: fb2726467b34c47b45775f24c1e6c6df:318c3a5eb05fb4a72867c11d201a39d3 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: cc7f86e232edf5006243c2dfdd8ef512:72d6224a5a1f0d77d9d3b8f080bccea1 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: 5f936de3d5fd3af2352e6819515287a7:97ed92028487cacc676a5b8370a9da0f560e001bffd98f46904e1460f0db37ac (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: 338ab7d30542d5d09e3394cf809a95f6:39a2c45579801255d7a1185011a0cfe4 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: 2d9cb6946b65a08c3afd82572238ea67:41a8b33624f396d7c0d2621b20643aa8 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: 7f6f125dde2993ae81c22bd218be2e61:ce5ad3a77df1511d805a059332ef106d8efbb400e3d165e14fc544942a1ae16b (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: ccbdb668ff44c9a97cb216eb35a91a43:1fcaef4033063d68dc761f5cce627df14078ccc3c05a9dd6f54adf6a1299fc79 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: cd68477898c32d91631595f2a25eee31:5766a7f5b74cb03f7aff148748b75f8e67c4121cf01feeffa00f9e8b6baf8e05 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: b0793fa184ef91339cfdb61e507fab5d:4b3d06ed3d0772b0c37807c5ed2bf0da7596ebe30fb61de7c956a6de8441eb8a (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: 9afca8c1dcebce695786ba0ad73f238e:b8d3fd5aee608b66d90f00711b8aa00b (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: aa82b2962368c2ae46d276aa8b3c2f61:da7b376c1b4ff9b0ff05c3495cbc48ca (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: e6cc74f8df5f9899307818abf377bf40:852d2a970ceb915798545ff3e9195710c7cba9e1850b1b2092dcc63766ed37ea (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: 16bd384f0a42cb4f3d5598445e77a33e:94637e039cdd66fb7ff4521d3207c4a0 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: 2b37c20ebd454adbdbf2a3cb5b447157:8c1befdbf2270bbca6a1fa81e884527cac99f071bd8c27b8d297d8ac7d9964c3 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: d630d68dffcc81037ea8fa81517c45dd:860a6b34d297e348c12d2b910ed3a7464bcb5d08293977353f2ebf4007dbf5d6 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: 0f5628e6d2b5c0bd935b0429611a5289:82ec55929c67fd54192bc525999c7e2e (Alamat: Ds. Bulugledeg RT 09 RW 03, Kec. Bendo, Kab. Magetan, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: da68e45519181c255fb4a1baf6e78550:358ad481705a4d314d95060a1dedc7ba (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: 4434056650dfc25fda861341c48301f5:d3e5a5037e27c460d7927fb9565178f663b42d5d93f86e3400d1d1a357312f87 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: 79954904cb32789d78ba7cf00b465cdb:980cdf71912f625b3db58dd5e51914b860a15b6f8d5a0bff19547c7c0d78f2c3 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: 7eca6dc35e20765822822f4cee07d548:989700cd509878a0eae6d0e0a952eb6a6e3aabedfe84025ab0f1898a52e5ed8e (Alamat: Ds. Bulugledeg RT 08 RW 02, Kec. bendo, Kab. Magetan, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: 13edefa142769521a5845c76323879cc:d9ac10d1e31f7eb77f6514da3f5066beb1a9df58351e3ff7d50e8a473c90a0ab (Alamat: Ds. Bulugledeg RT 08 RW 03, Kec. Bendo, kab. Magetan, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: 1a86d675a72e71298851e4f27efa9a52:cfa9eb7810cff8997c57141d6cbd28264cfbf67a66c6d5815fc75c42092c14f4 (Alamat: Dsn. Jajar, Ds. Belotan RT 05 RW 02, Kec. Bendo Kab. Magetan, No.HP: 085800809962, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: 2624c83b9654f75e9a1fb973040fad42:80b3c0e9ecb2c6e59f5c76d63e288e06 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: cde323a943421da79181779b8ee5b3b8:c4a6f88d7cbcc1b49073c0694fa4c141b5abafc1cea18c9481e66ffc03546687 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: bf7720e97d1338c1e01161a2138949cb:2eaeb1f0285b91ddb2137bd4ecd5e3f2740605931f4a9ca824c12348e5fe67b8 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: 277238b9f37344e9138911f914901a25:ff468812cb39bb719953cee0729371030e7e8bf5580e198d97478cd9d86bc931 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: ddfc62612bfbb8c1ca31a53ac84599c8:03037c52a8fc437a9e9f15ab2a505599a36bb014495eadd8e9f0d56470bc00b206ed272fb0306f4154d8fe2931fca71c (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 94ae58ceb1587bea2a45169bb4a4b576:21ca4f591296239d6e7c27d410f2fd81c4dd0c3ae9f94e370f76652119093ba5 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: ff5de0ffa39012177100c12b657a589a:d74eb4f942245ec3347c11d556d7d1a54bf7005b91bfd79d57f94a9dbd8ffb33 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: ccdb1aaf39b7bc277ca9051d3d970f32:fca8e3bd9bb3e5d126df967b0abca54ec1a7d1b28db1542e5aac88f389bf0d7d (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 4ccfd145e491ba6f98a4be48f16ccbf0:a10239c2dedc3b96417139ca4d7935f0b793d8832ab34a89e2d8a55b8c54204f (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 671ed3bfdd73dccbfd9e75471d640817:d4de6fe507eb7d4918fd8a1181626e8fe630de17cb655125b7c4484dd9f86404 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: efd0f438f3c68cb47a70cb239bec4218:24bec64ee0271760d3c25c1d29fc2bcb0f40ee174da70700915fed8e280f57e4 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: a687dbc202b9b84f1b457de4712bd4ff:48a6c791f24aa9107a7c173708893a683c6a323c74b3405f9628e56aabfe397f (Alamat: Jl.Agung 09/02 Ds.klagen Gambiran 
+Kec.Maospati, No.HP: 08976444080, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
+- Nama: 060fd14de852fa6e17a06c205e0268ab:3298619408d4828d5ebd0efa94f749f6c2b61037e8a83cd41afc9a7e33c8cca4 (Alamat: Jl.bromo 08/02 Ds.Klagen Gambiran 
+Kec.Maospati, No.HP: 085784030284, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
+- Nama: 9ff66f25ca36ef2ffb7a46efa60a7ddd:aa82cb67a12679ec036fc9dba06ba558b5b5d79076f6e3c0ea33f8b22db99d4d (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 5f8ca806e90b71dd85fafc362e2a8a6f:805e3c67dd8598d23893b724572af94f75903a8ac72a3d42243044d925fabe5e (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 123722b4194215aeff207ed65f0fdcf0:0cc521853fb8b1032ab463c6367929b212ddec0a855840ad702348fb04e9b45f (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: cd17b7f6d1a4492d8cffd92d3d8380b5:cab86dbbf15b477294cfde199c360e6e7ea425a323934e061260f130f23861e1 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 1e66f726b39d12d6717a2c76ab673fa7:f98bece0b88a4a2d444e19f121b04ec0dbe56c5b3c03dae4183f6737be144e37 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 8d51dc53ead5e56fab5ce3801c699807:3079796bd558250748dff09557577d420067cd0792d3c57f0ad986556aff4bd549fcc2aa9ac8905a7bd0baed56364e7b (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: c03e195dba001d82bad42d5d34f7de58:b5d5c433b6db133368f6db6586965d70aa2c40912b81ab37f0a009d70e9f366e (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 00b1428fde32c0b6abc990ec5fd0db01:3a4691c9963b9c2c9c9f90319aebc1374838225498c4dc07585e4c2c29072d04 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 5be9786b93079a96ab00a58abd8cb497:57459e53816e4d86c38ec68066a23808 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: abab60ebccb4b92426fc9e40451e2e1e:f67e685c6684612e9cc2fc8e893e93d67a0e153802aa010c5adb39092e8f0b87 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 9ac2ec93e7a33968be0d105605562d21:f4b27270bc7feac2716ecbb52aac1a0d (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 3a8ecc1170869e0c26a22e049b0851f8:82cd86dfd04396dd4867ff935825123e25ed4061b9244e51e77bd2248a632036 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 6c2fa82654cc08294ae9d74ef3c4de1b:f4f80184597cb3be0a5ee8e6145a6690d29be7bd5d54ab04e162c436be682827 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: f8ea8aadf605de370e3ad36c05422859:2f6e33e879d07eef5057e00aff760d8b616a69d901b34dd1819fc445173ca27f (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: ac4dc8afa879ed98686f7d8717803d83:2bb25b5b6e41f49b1ba29b3bdad0d966feeb6db3ee297ff5a04a27996fa8b36d (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 87f3e6dfb122183a21101a2e4da9554c:079da8c8e3b3982174accd0a4d34490ce55c903e3b4a2a1be06f190800aed871 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 4899c0b3563fc3b5dd92566ad3a34916:b757126c57916a248cf47ba9e0d64e1f (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: e96ff0d332dcde1d041ccac767ab82ef:03c9a391061e715d0699d6e0584f1a1a (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 10f43364f72462da0516033217b75890:b662ec6769c26f4eb16be8997ebca948 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: e01aabf10f6dbae1d1dc6f8e707694f0:46b7b4cec059a9ef2315853b35dbe4c3388b8df8863b3d88584addca3bc4fa02 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 1c723579f902486b619099aeacb72c86:cf23c720199728f2264689cbae4c6dbf52b35283b89ad9c032e40fd2ff7af3a2 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: a32506c058f4928b5f8376583270ee8a:f1c56c10afdf0fb34aaf19e7b8ff1dec (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 49d6118c3cb1969b11921d17314a1880:f8652b2348d35b99285e5315a45287da (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: dbb2182e1d5606210b0a56fcfe3ac630:632d8baf6c141e6b0d62f59cbfa9985b049e7483f2ca790a1ecdcbbc64e9673f (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 0727d7760ad07990d2aef1b8c3b44089:2db48b5f6765e15535418141125bfef0 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 081f8a0984cdbc578830b37e04a17703:d8c6ad7a0dad2a82ba8ec33866fd5245 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: c60c839d370cf926f2d880cf40da3b16:32b00a3ce26f625b2b6f7e2788d253a4a9d5721dcc3dfe2933d0d2ea991cb686 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 5bb5330f5dc17db53dffdb91d2ea4be8:a59af5c16df0f59624a6d548bccddf77 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: a7fcbea49f6de597ab9492b59affa28b:3c01f86d5506d318a70926b57e49169614f64a42a2339dab28075cb3805ebd3f (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 219bfaf4316db9d6be864a75a4a2db60:77c34c9c339da7132c93937917849b7a62fc2e884b0f0665566b5f48657d0bd4 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 2467d1f743b9cbc3736ea79db33e62c1:6ea13d02588a2b50ad503c8a58fb30ae (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 7ee1ed71426becff113dff95c25303e9:31d351d5707e80ac87260d454b7d5573 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 0be7bc31c73b31f4f067b704e6aaa720:c18e2ee06e9c0c32fd2d5b8ff07842021417da9ef69f1a5091c91ee71f9e17a4 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 68725912f74f821df2fae8305c3d4ed5:100d36a0b77e71074675f32fd25cc5ec (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 5a44e48354bea0aa3e1229fdd6ae7445:803f8854d93860c135306f39aa55b1d5235c8ae7546b65543505acb583e794fe (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: d382b695995a3c56300179a55ccaf23c:fa0d5d8c578a322c13296eb77bb300e24d3e51b8bed14200317ab56eb154764e (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 204596f2ac8317de6eee516bb632da52:46c189a24b2bd007e24c2c9aba7867d2 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 88f44dfdda469351bdc6d79b82c2b734:f7ab8e1f2ba92fb5a44f42a64050782613ccfbcf9a4383c2e95f8cf819b0555f (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 8a588eda7656c119d860fd896b8023c8:a0d63e6bbc13481e5200416faf4c1693 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: 7b4b471de291e4b96d15884cba894676:4c569b5abb29805c2b086e97b63ff274eeade4b14d4ce085d2be8a5b516db751 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: a65139958eeab4fc398d5fbdc89da812:0a0f5608553749fa62a9747c54b977568df20330219d76733d62af4c5b8d02fa (Alamat: Jl Yudistiro Rt 02 Rw 01 Kelurahan Sukowinangun kecamatan Magetan, No.HP: 085850512135, Pendidikan: -, Uploader: Sekretaris Cabang, Periode: 2025-2027)
+- Nama: f6edd45364267e2c735624f7d4b49056:8f2af802cbb0bfd3dd4233e5388a3b1e (Alamat: RT.13 RW.02 Dsn.Tawing Desa Plumpung Kec.Plaosan Kab.Magetan, No.HP: 081459034635, Pendidikan: -, Uploader: PAC PLAOSAN, Periode: 2026-2028)
+- Nama: ecea58efef6de995449f8a56d7957ea0:2d4662ccb13b6bc0e181f818526d4a805ae30899ccf2dc749df5d5ca4f12ba10 (Alamat: Ds.Ngadirejo Kec.Kawedanan Kab.Magetan, No.HP: 0895388214646, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 8e03a7eb709f5926d237e304c793bd42:b1bb2018291e7919dc13d6097ccc527e16a6986a2bcf35b62772c7561f7052e2 (Alamat: Ds. Ngadirejo, Kec. Kawedanan, Kab. Magetan, No.HP: 082331794493, Pendidikan: -, Uploader: PAC KAWEDANAN, Periode: 2025-2027)
+- Nama: 563b6a15b607aec41b5304b78d36cd79:4b9f58e0212f3a1f20320fd49c42f71a10c313391ccb113b61072c871978e1bb (Alamat: Desa Tamanarum, Kec Parang, Kab Magetan, No.HP: 081232996812, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: ea57d7e91c3d37798f4d92d82fa57442:40280ffd69e6bdf70ad1edf2fef516bc (Alamat: Desa Krajan, Kec Parang, Kab Magetan, No.HP: 085854959445, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: d1d5e1a0819e5abdefd19adf1606209e:1cdac3ba4a87c48dcf3274eaf49879bd7a3dcacbc233978cb301a313b95a8c14 (Alamat: Desa Mategal, Kec Parang, Kab Magetan, No.HP: 082169756772, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: 6513b6c185ac2fc2ebe214076ba1fc3b:5ae1ec27b7aff67131488e9523ff356a0436a8d4ade440735986be16ec7e0d71 (Alamat: Desa Tamanarum, Kec Parang, Kab Magetan, No.HP: 085847540932, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: 90f2440680370d63104cbe9a2c5b7161:389a45600c59f2a5bf94afaac9af70e74e9b0cfe9718480fd12e346b4e769aa6 (Alamat: Desa Tamanarum, Kec. Parang, Kab. Magetan, No.HP: 08563478660, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: d4d44bcdb3e19b02f3164a29f6740906:f6732c7c2a516c49d9a4c5b593af1633b0097de9eff6a175f0a3b8bea3f11b38 (Alamat: Desa Joketro, Kec. Parang, Kab. Magetan, No.HP: 085732797646, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: 07f25945f50753a9df44f45009d2de09:b8d1f967aef8104866c3193c091210350c4c60b6c5d304d4e31adb3109cc7e50 (Alamat: Desa Nglopang, Kec. Parang, Kab. Magetan, No.HP: 083125668575, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: b32012c6e8c16e5d8f93b16de484b6a2:a174b0acad2860f07547c6000111fc7ca22cac3c3f0ac3cab054ef9a9907c8bc (Alamat: Desa Joketro, Kec. Parang, Kab. Magetan, No.HP: 087850648119, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: d0b755924a2684b1556391f62ff744c5:4285ca2afd187fda3c163e79cf95f5b4 (Alamat: Desa Joketro, Kec. Parang, Kab. Magetan, No.HP: 085606072006, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: b222a09ffe75f91d28df85f63e99ff3a:1880143cc0cf5cf9a51346e7eda6224c4028a3ed0e25857fb2bc4f9afe9af771 (Alamat: Dusun Sumuran, Desa Tamanarum, Kec. Parang, Kab. Magetan, No.HP: 085814504017, Pendidikan: -, Uploader: PAC Parang, Periode: 2025-2027)
+- Nama: 5e7f92deca75aeb2e235e69d24ea0580:7b74684c08787ede949f5f1d5cad8c0d (Alamat: Jl.Utomo RT 5/RW 1 Ds.Mranggen Kec.Maospati, No.HP: 085850323466, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
+- Nama: 73aa6a148a28d3d783dbed0c6213d1f9:cfd3083322d2b82797b8d1a46ce3a542f003448d0389326f6a92d8f3dd3d2510 (Alamat: Jl.Tirtayasa RT 11/RW 03, Kelurahan Kraton, Kec.Maospati Kab.Magetan, No.HP: 089507141815, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
+- Nama: 5ca3a32cb0f45ae600b0180d0582bed9:cb27deb76378a96325572c5857df8c41ec9bf3ddede1e838083b377fa2fd872b (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 59941571794d20a3f40c5464360e5dc8:850cc44104445661699cd37f9bd281a8 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: e44c9572cca1266503b29e4028218bbc:2f1c90e911e937416e0a038a1fa7ec398d2eb6015ea0a37d67e8659f4fc61d23 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 00eb8424506b2342dfa1149e568e0c3d:d15eaa78c379b371516b2763f2318630 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 2569f0e44d506a552d4a65e672ade640:efae58866ccc0e826fb681e41e4f80c9e9a60de52cbefe565a59690eba351d07 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 577afb953dd582032c90e0af19b4c645:b41fb35ab2cb2f241ff587b49e96562a967bd85fc50b27769bb1901b02dfb2b1 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 04c262775ccc491094472db1b96b8126:3dc7ca015362525e58c640dfe0ad95f5d8efdbd138e820a0274db30a76c6ed4c (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 94fc9380b6bd6f0d56f40b6c3d140ea8:c1ee3ee141aaaaf461e74b52535811ac436caf3ba0498d135e8682d06864d904 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 43e609b1a1118b724cc089a15500c318:4d85a45789e5bd7a112ae407323b53544c4ba4ca7644202bed602aa2306d4df8 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 2cdade5f6a23196fe6e483fc8dcfb45b:06f6bf5b5206231e26bbfeabfa5c0d73a4eeae38640083c1507a9a1a4d3ad09f (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: b6c2dabe40b00646bb1b7900c550f29a:97b4620c394cbb4ba3f8403080f30a2d7e20bf20af9f934c82901cba5da2c2bf (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: d77d7ac47329c89b636eb426c8ed4361:6b2e20fcd7ae5fcabec3d0535fe982dbf63ce818f42a8b98c3c5cc7b43cd7ef3 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 297d6ec127423403f50b6a3d214a3b78:99943e26cc14b84f5dec4a5bd8aff608 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 9f25055d7fbfe33dbcc70ad4eb7539e9:a6930917a1114374c2413ce493bb8557 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: f2a4c1eb905a4d7079bb0f25ee0f1daf:0c599794bbb0359f8367d299c63a16bf (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: bfb748af2b404f5f91eec1785d7cfc68:9f8744fa7519bb262468da2146a1d1f3 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 7e4199ba2878fb18b383924c98211a23:65986936ee82dc1880637b8545a15e5d89314da20b086089413b32494c4b082f (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 693749a64fd9f8f4341bc61b34626b42:0c7da7959a0d345dd212bcd86beaa30e483333bd51d0e56c44778deb2bd382ff (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 2fcf38660c4f804fc01c9fdbd8271669:06e4dfa9f83b1912524ade6ce20eb3aa (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 6d71a6fd4187d7237ec6bd2a06150cbd:b4905dcc5297d8f7b5b4b49fb4d101a7c8b7a43ea6327e5bb98b0076530ef5ce (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: c48270eacc614e5138a58073cb2c41a5:ec8100c01892ffedf00dde7649e20bfebc44787a331e0f81ffb975256de0a6d3 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 342600dc4636c0a0511710bbcf89f0d1:a7dd7ee5bb33db526b82f5e2ce1f0d1af3e79dc494618ad745935ae547e01cc7 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 6b2d93af5ab7b252df77a4818d4e8945:ae7623fc64645aa644b2387ece9cb4694b2c55a0f5b123fa460222b903189f02 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 96ec5572f3a6977dadeb224cb0716b0d:6afb2918a8e6006899c93b84395cb324c9e72c362a38127e9a09c7254ad55d2d (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: b336f77d50ac008e113243075d0184f4:1ed65b9fb02270a0afc603117dcdb2cb (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 63116981b91da3fdc2f6d0eebe0f97ef:440a825342dc69f09082f9e1e2c69430 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 4f73a3328478f6cda8502f0e77ea6bb5:ff2ec5d9ac718b4bab363d223c6ce041 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: fe02078246a8f448a55af1f01778316c:d9f847ee377cb8336d27c4a4781c54f995b17489935e9ebffd3de9ba9537fd25 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 3d81e2d638d51a30584f8943a4f2f448:3588e99f4238f6c1ddb17a45c29917f4 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 10318cb2f8d344d7b969607e23a0d7e0:f55a86e4174ac00a1730f21bdbc5d2a9 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 2453c5025ce804cbdade162d4542801c:c96274a9ff06b001beebac175c7c7d3d3c735f2866bea3c2ef074c96070676a1 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 2be60f30566593bde56b4beeebf54ca9:3e89922f93edadc0c96c0c6386d84717 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: f513af63b9f8e11e6423ce7354997c42:69be3548a83e36efcacfec8bdb3449703e898b4bffb126035b2a6cad2c89402c (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 758922cfb6ad4f7cb07c3946bbde83f7:b2157a985f247e6285ef1c81db5d8c217894c27269f8cfcda9cd2bc2e394d656 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 53c0ee12652e970a4d2dfa75a013e96a:ce3787edb31a33bc20d464ec78799d91 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 94e1f88da74e1ff0594954f3540408e3:6eff77986b66ad95b2d932030236c1c8 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: a12611e9fbd761f8e6ee35aa453bc7a3:5bc030fcf15523cca4647b697d266d7bb772f801c15be75025a3711793bc7d36 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: bf3f9d2a67a712b65b7220af44eee782:5a42645dc66ebbbe3c632d1cebee5abc7b0375835b015fa0897bfc55bcdcdada (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 52945d91faec834d6daebebd4ee81115:62613abc42be2fc4374760e295afc7ee (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC IPNU IPPNU SUKOMORO, Periode: 2024-2026)
+- Nama: 9a32a4231500d5d3f1a1caf9849960c2:92e93bcdb687b437a50ae36c73f0663c601f8d44d4f3f1074f7540e1f734f687 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: a555caa02af955c9763c08f1cadd0188:ab50832931fca42fb4972a1716d885ba (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: b8a9510bab816e682d5c428783f5c781:9606ad7803442d52b2a85c979593a36b6f997966a0932d1edef4e745f920facf (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: c00ce88babe3b9a791bf6c17561c54ec:8044c6a2e9a5e853d9cedb555ea5537c (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 792f4fc090b1e21a97b68a8e7ec45f04:4efdeb2295d2e5fafe6f3c8cf43e1933 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 0b7067db2d57ca31480a67cb5463bbaa:510c7eff3399b0bb0e71608cac7e8479c88bf1772591ecf71dfec9b1955d71ac (Alamat: Desa selotinatah RT. 16 RW.03, Kec. Ngariboyo, Kab. Magetan , No.HP: 082228705106, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 76fef555967791985e9691e0b4d252d2:e9fc127b002027965cc80d954b77ff63ab98ce8ccbcfa29590f69228a27cb0fa (Alamat: pulutan, RT/RW 008/002 Kec. Ngariboyo Kab. Magetan
+, No.HP: 085704417952, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 23264d15d015f9a6f2dd721e0c54afb3:9dd4990babcef85311eff5b0c0dc2fb8 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 24dba29348efa618059532b67053bb59:236e577bdd16d8022080340b260a4927108a793ebf64af15ac1771e7c0cadccf (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 830ec29fc03911ce36e8bea36dd19a6e:42f60c1c01fbe4ec3ccd328f7024d1d544432ee6a2d126c71c5db8379ae3bccf (Alamat: DS. BANJAREJO RT11/RW02, NGARIBOYO, KAB. MAGETAN, No.HP: 082229738534, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 8d855ae7f53c1e1d2bd111a0fb088838:b7dd0fc2f51f7ae3d0bc22b9e6684172 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 8985f06f01423d82cc0559e83ee7a79f:60d1a8ae8d7e9974d6b9bbfff1221d9f06ff6c241e640bfc559c68d7eefd6c91 (Alamat:  Jetis RT 01/ RW 01 Ds. Ngariboyo kec. Ngariboyo 
+, No.HP: 085855106685, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: a138c6d48f4c6301f3cf246e54c620f5:876b49aff07b814e02a7929517bc511a (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: fc93a13a334b60f59aa0176cdc8b26f4:e255e9edc913e585b6778cb54856bad5130b1ea44d015073bd41b431ed67b452 (Alamat: ALAMAT : Desa baleasri RT. 02 RW. 03, Kec. Ngariboyo, Kab. magetan, No.HP: 085713368661, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 872cb94dc08f066a292f325afcd0bbdd:a7ca128518091778d1c53fc9312257db22d60ce22d934d67c2639ffbe5e74c12 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 71de838928034cf5ffdefc571885ad93:c4eb5e0ce7f84e3d51e58a2c6705ff8c (Alamat: Desa Banjarejo, RT/RW  019/04, Kec. Ngariboyo, Kab.Magetan, No.HP:  081245203543, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: e55604172b2dfd74b6e246ba4da75c69:1c13871adbff6957b10afc3fee68428e74ac904c1707bf6ef4ba54c3e076f61e (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: d683feea3d95ed2fd0ee77be8575c3bf:aa1d919247526f0879cff4678dcb34275cfa9ac41a12a6e6a621d7ed5ac4580e (Alamat: desa mojopurno RT. 05 RW.04, Kec. Ngariboyo, Kab. Magetan , No.HP: 085735768481, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 0eed6ea6fb1e6448775f7e185a19e639:b250f0cc2125c66fc9c45a182918ab19 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 81febba5e06d38d238a5888f7dc08198:8c3b912445affe3b9bc058db8dd86c84 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: aeab1eeac0c720170b713d7c6d764e50:a69fb4db6e2b8350991588c04c2c41a5b8eed59ae6c583c43c227bf3c4a7db9d (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: d3202694d5880fc1a27bc9608f066ea1:8b39bcb3048613847ca309e2892aa5a677ed7dd5c75dd39fdd6ae658b7a940de (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 0b7ed2a0c9540221c6f065762a9dacaf:703f0fa7dab78eccc7d75a68840b2a6ac7c09b68b0e4d883c6ce2021a9cef186 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 5f344d892d6b9e5759e37e72e0436d81:0a3b1f2d081c35ea5671336f6dd6db0c (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: e03e6b5d3d89426804400cf265d791e4:f533033470b85a3dbbb49c13a812df6bbde4e2a7f5a8f5240a2937f148d4e553 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: e92f2ae081e5a401d396ec99fff230a9:bb8cf3045f6d41ce2fcc719323f4b083396c9440254020e9f7ccaa8a2add0738 (Alamat: -, No.HP: 081231625631, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: cff836d944d675901fd1861afe695096:41c65b8926c5fd6779f53636e38bdbb08724af8692efa3ad7e90f47636b373e7 (Alamat: Desa Selotinatah RT 26 RW 05, Kecamatan Ngariboyo, Kabupaten Magetan , No.HP: 082332900961, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: d0c3c3634f2da8809cec81db4e4f8b16:2ce393114252af27044c51ba786a162e (Alamat: Desa Banjarejo RT 19/ RW 04 Kecamatan Ngariboyo Kabupaten Magetan , No.HP: 089525450243, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: c29a66ef9acdaae12ddb9e366eb3b564:5acf7b4432dfe9744b12c2e7e7120ecf74bc619a2e85b8c5e3aef1579ec69af8 (Alamat:  Desa pendem RT08/RW 03/ Kec. Ngariboyo Kab. Magetan, No.HP: 081231625631, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: b604cfe2a1672866493591e8d56e0559:314587eb28d37f180bfcfd1e62b6d8827e3636e7d6c234491849dbb70d481ba7 (Alamat: Alas tuwo balegondo RT. 01 RW.03, Kec. Ngariboyo, Kab. Magetan 
+, No.HP: 085706334532, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 1b3f6468370d69795045c2e91025c05a:20bf535323a1c7b99bbe5a3bafb6f4df (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: f2ec6868c10f2f7ed7c505822c078fdb:fd3e8539b78b91ea788b4029aab25efa (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 203a69b74bf7ab6086b921ef7f8a50b1:a895ff80f2f3d571ce288e191e0c0fc1d7c5c8a0e4d2ed11f21854f14866a08d (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: fdf53ad5fdfa513104bf5a67441f2318:f4cea97e3c20fa38c9cef0d1f7f76738 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 80d5e008d8cd44ecf28c733d7c993b68:3530c312ff4c771f6652cc2298bbc3bedd6462e7e5af8952f1ee9803cd82359a (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 1c9e299a4ad6cafb3ee7ad67c28acf1a:0a2623e314379bdead5d0627431e01c56b596e5da482f9c3875c9648ffc2f540 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: fc00b1fd7e8f017014e7ec0d3f75d1f1:b90d92bb58c6bbfa165d9549bf83095b (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: ca5f9f914bd501b98d134279f2ae0b4d:11fe37fff0ea5c55d7b06d3d8527174075f2d09ed0b4f88dc89d60b3ec0d9bc1 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: e53d6f94ea5ec2ea41a828070d8327e9:96b5eb98b29d9a5555beba138d03eff1 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 4ca4089e95193548eef2d2d9ab4eebcb:467491de51998afdad5d37e7d69679e57f022fad1c839d9c36c5bb9f64ea88f1 (Alamat: Desa mojopurno RT 07 RW 04, Kecamatan Ngariboyo, Kabupaten Magetan 
+, No.HP: 085791221860, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 6ffd6a709a4149eefae9fd486b4122e8:6ff4335a5a5f58a7d5f42818a886747b (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 30f3a686eebe0e66bd869e28c1a1e243:15c61b3dd33aee50374012ea5f179eed3d68d0007c863a6d745befd4ed0c52df (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: afcae351ebcc607e8f23cf9d7d6068bc:df3640260aa6a3f11aa9b40b6a6a534dd1056f04404b07b726f84a3059e45743 (Alamat: Desa Banyudono RT.2 RW.2, kecamatan ngariboyo, kan. Magetan 
+hobi: hiking, touring , No.HP: +62 895-2467-5292, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 740fd00310b30bd192d9af3a877d758a:aeb6f3d967fe9602f5af24a00087e9dc7856eb43900153f9db54b49bc7b628b3 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: d8bef0270c5a29772a47b97234470e50:6ccce49bb3ced704aeacf64764a7d3ba (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 44d4e7ee7f4900f4d2e91acc2f58cd21:01fbde1798754128f25bfbfd9f63856508e373e08c862192dbb9b4f05c3ae905 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 06958caa6be5b60d07c69fb7a450d698:2174023dbe098d904c79573da6af8cb2 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 2cf41bfaf1aac9d75aab0fd4f7f10485:3f9d158d77cf1fc916bae9308fdde18ed4e592d5107db010e51814759dfd0a19 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: c11f9b28f96c6705766e02b49919ff86:a003c0b82fbc840b01f19baf95c0c3f8 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 86b8bebe6b414b6d44cd2924d25e33ea:c073037176f91b4e41e461624d1b1834ce61071906a0b7f1b1f79c2c3610ade0 (Alamat: banjarejo rt015 rw003 Magetan Ngariboyo Banjarejo DUKUH KUMPULAN SESSSSS, No.HP: 085850448851, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 4f5605219460b2e21e45a308f0351408:f08a33ecf586048aa987cbd05edbac52 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 988cbab0c54c5f4e112411d0b475bbcc:d6b5c256f7098ce42f077a867b4c6dc8bdc55863ec0edf0777502189f1f24026 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 960d9e55dbad11b1389041ea97acb237:1c7ae9ce45da367558512fb80636e5cebb0986fa3a61a7a4d570ff58f9cff5d5 (Alamat: Desa Baleasri RT. 01 RW.03, Kec. Ngariboyo, Kab. Magetan , No.HP: 0895801428040, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 31a612091fb335bd896180aa594871dc:df0a72ee91210c8768ce2c4ac1a5734e65467dcb46c8a0f6c8cffbf1bbad2b3a (Alamat: Dkh mandiro. RT.05 RW.04 Des. Mojopurno Kec. Ngariboyo Kab. Magetan , No.HP: +62 857-4862-5447, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 395f2af97875c83aa9d9b24f3a67c08f:b4229a7d04cf9bc0c221797f5e0be936d388a17f129f044249d789d28b8204bf (Alamat: Desa Banyudono RT 05/ RW 02 Kecamatan Ngariboyo Kabupaten Magetan , No.HP: 085812557982/085935221333, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 3c967ed4b9757908c52e2733dd52bb83:95d1f80f76bd6f7c502e160427181e39 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 6b02ea260008bdc1f07826934f07b491:27085f594089618478ed1bb808ad812e (Alamat: Ds. Mojopurno RT 03 RW 02 Kec. Ngariboyo Kab. Magetan
+, No.HP:  085735889103, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 1d5d13184e558dfbff1c39a8bd66d705:e74b7e1e1cf9db73deeaa1a839e6df122bfbb9eaaf30771b9adedbbb24d32f84 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: d5d6bcf4e20a9ee94fe7ed95cf430745:782504634d1a7c2c8cf27206ac43f3ac (Alamat:  DS. BANJAREJO RT 20 RW 04 KEC NGARIBOYO KAB MAGETAN 
+ 
+, No.HP: 082199477198, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 12c2a9d2b775ce68df615f6a49d5c6e8:9964362c6f109c42cd5e1cf7a03b7b7dce88c68dea719b4c4a5467c49cd88359 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: be707c83f574473a209e2e694bc69bcd:ed9632a7775ed202d0802fff4d8e2805bbf2e62aa36e67bffd846b7ab0d66499 (Alamat: Desa Baleasri RT. 02 RW.03, Kec. Ngariboyo, Kab. Magetan , No.HP: 082229798971, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: f2297e2ee533106ff43680ef056b5cc4:58b2c6bae727d063c000864ab61612f3089803b86a32154061001c7127de1c8b (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 3f01c5441b354d550135f810c2cc705c:f0dd8064eeda649833f52008c601155c6c8fd46496dd456f26e3bf179c577e6a (Alamat: Desa Mojopurno RT 06/ RW 04, Kecamatan Ngariboyo, Kabupaten Magetan, No.HP: 082337554437, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 20684c50a232b6871a63fa3c521fa058:25f7a52eba6f17b821208671e24371c5d4927fb35ad85b92ff3892db0990fb99 (Alamat: Desa Banyudono RT 05/ RW 02 Kecamatan Ngariboyo Kabupaten Magetan , No.HP: 085259265050, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: ba2da9a5eaf22cd32824a7c4219659a5:04b672c12413e025f0d39c3a573ed986745af724ba6cfb64482c6f2958f8e4ad (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 1044aac6c62fa3635059cef10550b48f:371c9b354e98a233441d6cf851fc950de36119701234e232543597d9000c3d13 (Alamat: Sumberdukun 01/04 Ngariboyo, No.HP:  085730288971, Pendidikan: -, Uploader: PAC Ngariboyo , Periode: 2025-2027)
+- Nama: 29ad841772f5775b3e19bab3e861441d:27e740e2eea06e3d3457e328db14ec400cb1c073b4be36a9a4fff17106605ecd (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+- Nama: d18d86b3d0c5fe8a5b40aae1180f4627:be4b4c308b89572e5070b01e968771fb (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
+
+--- DAFTAR PENGAJUAN REKOMENDASI SK / LEGALITAS PAC ---
+- Pengaju: PAC PONCOL (Keperluan: surat pemberitahuan makesta, Status: DITERIMA, No.Surat: 001/PAC/A/IPNU-IPPNU/XVII/XVII/2026, Catatan Admin: -, Periode PAC: Periode IPNU-8/IPPNU-7)
+- Pengaju: Pacipnuippnumagetan (Keperluan: Pemberitahuan Makesta, Status: DITERIMA, No.Surat: 002/PAC/A/IV/7354-7455/VI/26, Catatan Admin: -, Periode PAC: 2025-2027)
+- Pengaju: PAC Karas (Keperluan: Pemberitahuan Pelantikan , Status: DITERIMA, No.Surat: 154/PAC/A/7354-7455/VI/26, Catatan Admin: -, Periode PAC: 2025-2027)
+- Pengaju: PAC Karas (Keperluan: Undangan, Status: DITERIMA, No.Surat: 155/PAC/A/7354-7455/VI/26, Catatan Admin: -, Periode PAC: 2025-2027)
+- Pengaju: PAC Ngariboyo  (Keperluan: Pemberitahuan Kegiatan Rapat Kerja II dan outbound, Status: DITERIMA, No.Surat:  004/PAC/A/III/7354-7455/VI/2026 , Catatan Admin: -, Periode PAC: 2025-2027)
+- Pengaju: PAC KAWEDANAN (Keperluan: Pemberitahuan kegiatan, Status: DITERIMA, No.Surat: 040/A/IV/7354-7455/V/2026, Catatan Admin: -, Periode PAC: 2025-2027)
+- Pengaju: PAC IPNU IPPNU PANEKAN (Keperluan: Pemberitahuan Kegiatan, Status: DITERIMA, No.Surat: 006/PAC/A/VIII-VIII/7354-7455/V/2026, Catatan Admin: -, Periode PAC: 2025-2027)
+
+--- DAFTAR ARSIP BERKAS PIMPINAN ---
+- Nama Berkas: SP IPPNU
+  Tanggal: 03 June 2026
+  Catatan: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nama Berkas: SP IPNU
+  Tanggal: 03 June 2026
+  Catatan: -
+  Uploader: Sekretaris Cabang (Periode: 2025-2027)
+- Nama Berkas: SP (Surat Pengesahan)
+  Tanggal: 07 May 2026
+  Catatan: -
+  Uploader: PAC Karas (Periode: 2025-2027)
+
+--- DAFTAR BERKAS SURAT KEPUTUSAN (SP) CABANG ---
+- Nama SK/SP: PAC IPNU Poncol (Berlaku: 2025-08-14T17:00:00.000Z s.d. 2027-08-14T17:00:00.000Z, Catatan: -, Uploader: Sekretaris Cabang, Periode: 2025-2027)
+- Nama SK/SP: PAC IPNU Sukomoro (Berlaku: 2024-06-29T17:00:00.000Z s.d. 2026-06-29T17:00:00.000Z, Catatan: -, Uploader: Sekretaris Cabang, Periode: 2025-2027)
+- Nama SK/SP: PAC IPNU Parang (Berlaku: 2025-05-24T17:00:00.000Z s.d. 2027-05-24T17:00:00.000Z, Catatan: -, Uploader: Sekretaris Cabang, Periode: 2025-2027)
+- Nama SK/SP: PK SMK ROUDLOTUL HUDA (Berlaku: 2025-09-27T17:00:00.000Z s.d. 2026-09-27T17:00:00.000Z, Catatan: -, Uploader: Sekretaris Cabang, Periode: 2025-2027)
+- Nama SK/SP: PAC IPNU Lembeyan (Berlaku: 2025-12-21T17:00:00.000Z s.d. 2027-05-21T17:00:00.000Z, Catatan: -, Uploader: Sekretaris Cabang, Periode: 2025-2027)
+- Nama SK/SP: PAC IPNU Bendo (Berlaku: 2025-08-23T17:00:00.000Z s.d. 2027-08-23T17:00:00.000Z, Catatan: -, Uploader: Sekretaris Cabang, Periode: 2025-2027)
+- Nama SK/SP: PAC IPNU Ngariboyo (Berlaku: 2025-05-11T17:00:00.000Z s.d. 2027-05-11T17:00:00.000Z, Catatan: -, Uploader: Sekretaris Cabang, Periode: 2025-2027)
+- Nama SK/SP: PAC IPNU Magetan (Berlaku: 2025-06-28T17:00:00.000Z s.d. 2027-06-28T17:00:00.000Z, Catatan: -, Uploader: Sekretaris Cabang, Periode: 2025-2027)
+- Nama SK/SP: PK IPNU TARBIYATUL ‘ULUM (Berlaku: 2026-11-22T17:00:00.000Z s.d. 2026-11-22T17:00:00.000Z, Catatan: -, Uploader: Sekretaris Cabang, Periode: 2025-2027)
+- Nama SK/SP: PAC IPNU Sidorejo (Berlaku: 2026-02-22T17:00:00.000Z s.d. 2027-02-22T17:00:00.000Z, Catatan: -, Uploader: Sekretaris Cabang, Periode: 2025-2027)
+- Nama SK/SP: PAC IPNU Maospati (Berlaku: 2026-01-31T17:00:00.000Z s.d. 2028-01-31T17:00:00.000Z, Catatan: -, Uploader: Sekretaris Cabang, Periode: 2025-2027)
+- Nama SK/SP: Pac Ipnu Plaosan (Berlaku: 2026-01-16T17:00:00.000Z s.d. 2028-01-16T17:00:00.000Z, Catatan: -, Uploader: Sekretaris Cabang, Periode: 2025-2027)
+- Nama SK/SP: PAC IPPNU Karas (Berlaku: 2026-05-07T17:00:00.000Z s.d. 2027-08-22T17:00:00.000Z, Catatan: -, Uploader: Sekretaris Cabang, Periode: 2025-2027)
+- Nama SK/SP: PAC IPPNU Plaosan (Berlaku: 2026-04-05T17:00:00.000Z s.d. 2028-01-23T17:00:00.000Z, Catatan: -, Uploader: Sekretaris Cabang, Periode: 2025-2027)
+- Nama SK/SP: PAC IPPNU Maospati (Berlaku: 2026-02-24T17:00:00.000Z s.d. 2028-01-07T17:00:00.000Z, Catatan: -, Uploader: Sekretaris Cabang, Periode: 2025-2027)

@@ -17,6 +17,9 @@ import (
 
 // Run menjalankan scheduler loop secara blocking (jalankan di goroutine)
 func Run(ctx context.Context) {
+	// Mulai sinkronisasi berkala data Laci Pelajar NU
+	go StartLaciSync(ctx)
+
 	intervalSec, err := strconv.Atoi(os.Getenv("SCHEDULER_INTERVAL_SECONDS"))
 	if err != nil || intervalSec <= 0 {
 		intervalSec = 30

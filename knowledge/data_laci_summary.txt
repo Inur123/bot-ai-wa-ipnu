@@ -1,0 +1,53 @@
+=== STATISTIK & RINGKASAN DATA LACI PELAJAR NU KABUPATEN MAGETAN ===
+Terakhir Sinkronisasi: 2026-06-10 09:45:08 (WIB)
+
+--- STATISTIK GLOBAL ---
+- Total Seluruh Arsip Surat di DB (Semua Periode): 319 surat (Masuk: 163, Keluar: 156)
+- Total Seluruh Anggota Terdaftar: 376 orang
+- Total Pengajuan Berkas PAC: 7 pengajuan
+- Total Berkas Pimpinan: 3 berkas
+- Total Berkas SK/SP Cabang: 15 berkas SK
+- Total Agenda/Kegiatan Terdaftar: 31 kegiatan
+- Total Periode Kepengurusan: 21 periode
+- Total Akun Pengurus/PAC: 20 akun
+
+--- DETAIL TOTAL ARSIP SURAT BERDASARKAN UPLOADER/PENGURUS ---
+(Gunakan data ini untuk menjawab statistik surat milik uploader tertentu)
+- PAC IPNU IPPNU PANEKAN: 32 surat (Surat Masuk: 28, Surat Keluar: 4)
+- PAC KAWEDANAN: 27 surat (Surat Masuk: 5, Surat Keluar: 22)
+- PAC Karas: 4 surat (Surat Masuk: 0, Surat Keluar: 4)
+- PAC IPNU IPPNU SUKOMORO: 4 surat (Surat Masuk: 1, Surat Keluar: 3)
+- PAC Karangrejo: 1 surat (Surat Masuk: 0, Surat Keluar: 1)
+- PAC Ngariboyo : 1 surat (Surat Masuk: 0, Surat Keluar: 1)
+- Sekretaris Cabang: 246 surat (Surat Masuk: 128, Surat Keluar: 118)
+- PAC BENDO: 1 surat (Surat Masuk: 0, Surat Keluar: 1)
+- PAC PONCOL: 1 surat (Surat Masuk: 1, Surat Keluar: 0)
+- PAC Parang: 1 surat (Surat Masuk: 0, Surat Keluar: 1)
+- PK Sumursongo: 1 surat (Surat Masuk: 0, Surat Keluar: 1)
+
+--- TOTAL DATA ANGGOTA BERDASARKAN PAC/PENGURUS ---
+- PAC KAWEDANAN: 49 anggota
+- PAC PLAOSAN: 41 anggota
+- PAC Ngariboyo : 66 anggota
+- PAC Karas: 29 anggota
+- PAC IPNU IPPNU PANEKAN: 38 anggota
+- PAC BENDO: 35 anggota
+- PAC IPNU IPPNU SUKOMORO: 47 anggota
+- Sekretaris Cabang: 1 anggota
+- PAC MAOSPATI: 20 anggota
+- PAC Parang: 30 anggota
+- pacipnuippnu lembeyan: 20 anggota
+
+--- 5 AGENDA KEGIATAN TERBARU/TERDEKAT ---
+- Diklatama (Tanggal: 26 Jun 2026, Lokasi: Ngariboyo)
+- ⁠ ⁠LAKUT IPPNU Korda Madiun  (Tanggal: 13 Jun 2026, Lokasi: Ngawi)
+- ⁠makesta Pac Sidorejo  (Tanggal: 06 Jun 2026, Lokasi: Mtsn 10 Magetan )
+- Rapimcab (Tanggal: 24 May 2026, Lokasi:  ⁠Aula Kantor Kemenag Magetan )
+- Rutinan Sholawatan PAC Panekan (Tanggal: 23 May 2026, Lokasi: Panekan)
+
+--- 5 ARSIP SURAT TERBARU ---
+- No: 046/PC/B/7354-7455/XIX-XVIII/VI/2026 | Hal: Permohonan Audiensi (KELUAR, Org: BERSAMA, Tgl: 08 Jun 2026, Oleh: Sekretaris Cabang)
+- No: 034/PC/SP/XVI/7354/IV/2025 | Hal: SURAT PENGESAHAN  (MASUK, Org: IPNU, Tgl: 21 Apr 2025, Oleh: PAC IPNU IPPNU PANEKAN)
+- No: 018/MWC/A.1/L-18.02/04/2025 | Hal: SURAT REKOMENDASI  (MASUK, Org: IPNU, Tgl: 14 Apr 2025, Oleh: PAC IPNU IPPNU PANEKAN)
+- No: 032/PAN.PEL/A/II-II/7354-7354/XII/2025 | Hal: UNDANGAN MAKESTA PAC SUKOMORO (MASUK, Org: BERSAMA, Tgl: 26 Dec 2025, Oleh: PAC IPNU IPPNU PANEKAN)
+- No: 050/PAN.MAKESTA/XI-XI/7354-7455/XII/2025 | Hal: UNDANGAN MAKESTA PAC LEMBEYAN (MASUK, Org: BERSAMA, Tgl: 26 Dec 2025, Oleh: PAC IPNU IPPNU PANEKAN)
