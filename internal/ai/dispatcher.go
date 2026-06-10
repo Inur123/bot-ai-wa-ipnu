@@ -6,7 +6,6 @@ import (
 	"os"
 	"strings"
 
-	"bot-ai-wa-ipnu/internal/knowledge"
 	"bot-ai-wa-ipnu/internal/models"
 )
 
@@ -52,16 +51,8 @@ func ParseFeedbackAuto(ctx context.Context, feedback string, existing *models.En
 
 // ChatReply membalas pesan secara percakapan menggunakan Gemini/OpenAI-Compatible
 func ChatReply(ctx context.Context, message, userID string) (string, error) {
-	if !hasKnowledgeSnippet(message) {
-		return "Maaf Rekan/Rekanita, saya belum menemukan data yang cukup di knowledge saya.", nil
-	}
 	if useOpenAI() {
 		return ChatOpenAI(ctx, message, userID)
 	}
 	return ChatGemini(ctx, message, userID)
-}
-
-func hasKnowledgeSnippet(message string) bool {
-	result := knowledge.SearchWithLimit(message, 2000)
-	return strings.Contains(result, "\n--- FILE:")
 }
