@@ -2825,7 +2825,7 @@ hobi: hiking, touring , No.HP: +62 895-2467-5292, Pendidikan: -, Uploader: PAC N
 - Nama: 29ad841772f5775b3e19bab3e861441d:27e740e2eea06e3d3457e328db14ec400cb1c073b4be36a9a4fff17106605ecd (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
 - Nama: d18d86b3d0c5fe8a5b40aae1180f4627:be4b4c308b89572e5070b01e968771fb (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
 
---- DAFTAR PENGAJUAN REKOMENDASI SK / LEGALITAS PAC ---
+--- DAFTAR PENGAJUAN BERKAS DARI PAC KE CABANG (REKOMENDASI SK / LEGALITAS PAC) ---
 - Pengaju: PAC PONCOL (Keperluan: surat pemberitahuan makesta, Status: DITERIMA, No.Surat: 001/PAC/A/IPNU-IPPNU/XVII/XVII/2026, Catatan Admin: -, Periode PAC: Periode IPNU-8/IPPNU-7)
 - Pengaju: Pacipnuippnumagetan (Keperluan: Pemberitahuan Makesta, Status: DITERIMA, No.Surat: 002/PAC/A/IV/7354-7455/VI/26, Catatan Admin: -, Periode PAC: 2025-2027)
 - Pengaju: PAC Karas (Keperluan: Pemberitahuan Pelantikan , Status: DITERIMA, No.Surat: 154/PAC/A/7354-7455/VI/26, Catatan Admin: -, Periode PAC: 2025-2027)

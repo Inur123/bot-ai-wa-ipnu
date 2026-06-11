@@ -2,57 +2,32 @@ package ai
 
 import (
 	"context"
-	"log"
-	"os"
-	"strings"
 
 	"bot-ai-wa-ipnu/internal/models"
 )
 
-func useOpenAI() bool {
-	provider := strings.ToLower(strings.TrimSpace(os.Getenv("AI_PROVIDER")))
-	return provider == "openai-compatible" || provider == "9router"
-}
-
-// Init menginisialisasi AI client (Gemini atau OpenAI-Compatible)
+// Init menginisialisasi AI client (9Router / OpenAI-Compatible)
 func Init(ctx context.Context) error {
-	if useOpenAI() {
-		return InitOpenAI(ctx)
-	}
-	return InitGemini(ctx)
+	return InitOpenAI(ctx)
 }
 
 // Close menutup AI client
 func Close() {
-	if useOpenAI() {
-		CloseOpenAI()
-	} else {
-		CloseGemini()
-	}
+	CloseOpenAI()
 }
 
-// Parse mem-parsing pesan natural language menggunakan Gemini/OpenAI-Compatible
+// Parse mem-parsing pesan natural language menggunakan OpenAI-Compatible / 9Router
 func Parse(ctx context.Context, rawMessage, userID string) (*models.ParsedEntry, error) {
-	if useOpenAI() {
-		log.Printf("[PITI-AI] OpenAI-Compatible memproses pesan dari %s", userID)
-		return ParseMessageOpenAI(ctx, rawMessage, userID)
-	}
-	log.Printf("[PITI-AI] Gemini memproses pesan dari %s", userID)
-	return ParseMessageGemini(ctx, rawMessage, userID)
+	return ParseMessageOpenAI(ctx, rawMessage, userID)
 }
 
-// ParseFeedbackAuto mem-parsing feedback/koreksi menggunakan Gemini/OpenAI-Compatible
+// ParseFeedbackAuto mem-parsing feedback/koreksi menggunakan OpenAI-Compatible / 9Router
 func ParseFeedbackAuto(ctx context.Context, feedback string, existing *models.Entry) (*models.ParsedEntry, error) {
-	if useOpenAI() {
-		return ParseFeedbackOpenAI(ctx, feedback, existing)
-	}
-	return ParseFeedbackGemini(ctx, feedback, existing)
+	return ParseFeedbackOpenAI(ctx, feedback, existing)
 }
 
-// ChatReply membalas pesan secara percakapan menggunakan Gemini/OpenAI-Compatible
+// ChatReply membalas pesan secara percakapan menggunakan OpenAI-Compatible / 9Router
 func ChatReply(ctx context.Context, message, userID string) (string, error) {
-	if useOpenAI() {
-		return ChatOpenAI(ctx, message, userID)
-	}
-	return ChatGemini(ctx, message, userID)
+	return ChatOpenAI(ctx, message, userID)
 }
+

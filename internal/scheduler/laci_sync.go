@@ -243,7 +243,7 @@ func formatLaciSummary(data LaciDataResponse) string {
 	sb += "--- STATISTIK GLOBAL ---\n"
 	sb += fmt.Sprintf("- Total Seluruh Arsip Surat di DB (Semua Periode): %d surat (Masuk: %d, Keluar: %d)\n", len(data.ArsipSurat), suratMasuk, suratKeluar)
 	sb += fmt.Sprintf("- Total Seluruh Anggota Terdaftar: %d orang\n", len(data.Anggota))
-	sb += fmt.Sprintf("- Total Pengajuan Berkas PAC: %d pengajuan\n", len(data.PengajuanBerkas))
+	sb += fmt.Sprintf("- Total Pengajuan Berkas dari PAC ke Cabang: %d pengajuan\n", len(data.PengajuanBerkas))
 	sb += fmt.Sprintf("- Total Berkas Pimpinan: %d berkas\n", len(data.BerkasPimpinan))
 	sb += fmt.Sprintf("- Total Berkas SK/SP Cabang: %d berkas SK\n", len(data.BerkasSP))
 	sb += fmt.Sprintf("- Total Agenda/Kegiatan Terdaftar: %d kegiatan\n", len(data.AgendaKegiatan))
@@ -385,7 +385,7 @@ func formatLaciDetails(data LaciDataResponse) string {
 	sb += "\n"
 
 	// 6. Pengajuan Berkas PAC
-	sb += "--- DAFTAR PENGAJUAN REKOMENDASI SK / LEGALITAS PAC ---\n"
+	sb += "--- DAFTAR PENGAJUAN BERKAS DARI PAC KE CABANG (REKOMENDASI SK / LEGALITAS PAC) ---\n"
 	for _, p := range data.PengajuanBerkas {
 		noSurat := "-"
 		if p.NoSurat != nil {
