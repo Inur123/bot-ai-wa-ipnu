@@ -4,6 +4,7 @@ import (
 	"context"
 	"fmt"
 	"log"
+	"math/rand"
 	"os"
 	"strconv"
 	"strings"
@@ -108,6 +109,9 @@ func processEntry(ctx context.Context, entry *models.Entry, now time.Time) {
 			} else {
 				log.Printf("[Scheduler] ✓ Terkirim ke %s (%s)", target.Name, targetJID)
 			}
+
+			// Tambahkan delay acak 3-5 detik antar target agar pengiriman tidak sekaligus (anti-spam)
+			time.Sleep(time.Duration(3+rand.Intn(3)) * time.Second)
 		}
 
 		// Update status trigger

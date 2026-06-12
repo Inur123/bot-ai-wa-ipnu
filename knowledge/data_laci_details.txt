@@ -46,9 +46,34 @@
 - Nama: Sekretaris Cabang (Email: lacipelajarnumagetan@gmail.com, Jabatan/Role: SEKRETARIS_CABANG, Status: Aktif, Verifikasi: Terverifikasi)
 
 --- DAFTAR KEGIATAN & AGENDA TERDAFTAR ---
+- Agenda: Dept. JSP - MPLS MA Al-Ikhlas Karasan
+  Waktu Mulai: 13 July 2026 jam 08:09 WIB
+  Lokasi: MA Al-Ikhlas Karasan
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Pelantikan PAC Karas
+  Waktu Mulai: 05 July 2026 jam 08:09 WIB
+  Lokasi: Kantor Kecamatan Karas
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: ⁠Makesta PAC Poncol 
+  Waktu Mulai: 04 July 2026 jam 08:08 WIB
+  Lokasi: kantor Desa Genilangit
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Makesta Pac Magetan
+  Waktu Mulai: 27 June 2026 jam 08:07 WIB
+  Lokasi: Smk Yosonegoro
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
 - Agenda: Diklatama
   Waktu Mulai: 26 June 2026 jam 01:39 WIB
   Lokasi: Ngariboyo
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Makesta PAC Kawedanan 
+  Waktu Mulai: 20 June 2026 jam 08:08 WIB
+  Lokasi: ⁠SDN Mojorejo 1
   Deskripsi: -
   Uploader: Sekretaris Cabang
 - Agenda: ⁠ ⁠LAKUT IPPNU Korda Madiun 
@@ -81,14 +106,14 @@
   Lokasi: -
   Deskripsi: -
   Uploader: Sekretaris Cabang
-- Agenda: Pelantikan PAC Plaosan
-  Waktu Mulai: 09 May 2026 jam 03:20 WIB
-  Lokasi: Pendopo Lembah Serimpi Jl. Raya Sentul Pandean, Randugede, Plaosan
-  Deskripsi: -
-  Uploader: Sekretaris Cabang
 - Agenda: Rapimwil dan Rakorwil IPNU Jatim
   Waktu Mulai: 09 May 2026 jam 03:20 WIB
   Lokasi: Kota Batu
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Pelantikan PAC Plaosan
+  Waktu Mulai: 09 May 2026 jam 03:20 WIB
+  Lokasi: Pendopo Lembah Serimpi Jl. Raya Sentul Pandean, Randugede, Plaosan
   Deskripsi: -
   Uploader: Sekretaris Cabang
 - Agenda: Lakmud PAC Kawedanan
@@ -101,14 +126,14 @@
   Lokasi: Depot Aruna Magetan
   Deskripsi: -
   Uploader: Sekretaris Cabang
-- Agenda: Turba Zona 3 Karas, Kartoharjo, Karangrejo, Barat
-  Waktu Mulai: 25 April 2026 jam 03:19 WIB
-  Lokasi: Caffe Dewi Sri Barat
-  Deskripsi: -
-  Uploader: Sekretaris Cabang
 - Agenda: Turba Pac Poncol
   Waktu Mulai: 25 April 2026 jam 03:19 WIB
   Lokasi: Indo Caffe Poncol
+  Deskripsi: -
+  Uploader: Sekretaris Cabang
+- Agenda: Turba Zona 3 Karas, Kartoharjo, Karangrejo, Barat
+  Waktu Mulai: 25 April 2026 jam 03:19 WIB
+  Lokasi: Caffe Dewi Sri Barat
   Deskripsi: -
   Uploader: Sekretaris Cabang
 - Agenda: Training of Trainer DKC CBP-KPP Magetan
@@ -203,6 +228,13 @@
   Uploader: Sekretaris Cabang
 
 --- DAFTAR ARSIP SURAT (MASUK & KELUAR) ---
+- Nomor Surat: 16/PAN.PEL-RAKER/V-V/7354-7455/IV/2026
+  Perihal: UNDANGAN PELANTIKAN DAN RAKER 
+  Jenis: MASUK (BERSAMA)
+  Tanggal Surat: 11 April 2026
+  Pengirim/Penerima: PAC IPNU IPPNU PLAOSAN
+  Deskripsi: -
+  Uploader: PAC IPNU IPPNU PANEKAN (Periode: 2025-2027)
 - Nomor Surat: 046/PC/B/7354-7455/XIX-XVIII/VI/2026
   Perihal: Permohonan Audiensi
   Jenis: KELUAR (BERSAMA)
@@ -2438,6 +2470,7 @@
   Uploader: Sekretaris Cabang (Periode: 2025-2027)
 
 --- DAFTAR ANGGOTA IPNU-IPPNU MAGETAN ---
+- Nama: d4d09556ebd4d019545dfa541b4d25d8:db36e554eaca33f76f394bc61c371c7aaf46e9b0c5e34cbfcaf823b55859a46d (Alamat: Dsn Grogolan RT.01/RW.03, Ds. Baluk, Kec. Karangrejo, Kab. Magetan, No.HP: 085608856065, Pendidikan: -, Uploader: PAC Karangrejo, Periode: 2025-2027)
 - Nama: 601404f69f1f423183f78d54d84a9207:6b4e183b9d73e609ec8657bb40035557 (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
 - Nama: dbe094efd8a246ae1e315e87ba36780e:5f14a9eb2375bc325fc4cd8fac85581c1f4fa77f0fa3bf49a03920113e2d6539f39b681d088dc3eb724243e14c4a2e1c (Alamat: Jl.Bromo rt 13/ rw 03 Maospati , No.HP: 08213392181, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
 - Nama: e869830971c5b26f73af9fb26c024e87:f8ece192baf728a9a884308efba25be2 (Alamat: Jl.Kesehatan rt 12/ rw 03, Ds.sempol Maospati , No.HP: 081231604736, Pendidikan: -, Uploader: PAC MAOSPATI, Periode: 2026-2028)
@@ -2826,6 +2859,8 @@ hobi: hiking, touring , No.HP: +62 895-2467-5292, Pendidikan: -, Uploader: PAC N
 - Nama: d18d86b3d0c5fe8a5b40aae1180f4627:be4b4c308b89572e5070b01e968771fb (Alamat: -, No.HP: -, Pendidikan: -, Uploader: PAC BENDO, Periode: 2025-2027)
 
 --- DAFTAR PENGAJUAN BERKAS DARI PAC KE CABANG (REKOMENDASI SK / LEGALITAS PAC) ---
+- Pengaju: PAC KAWEDANAN (Keperluan: Undangan pembukaan makesta, Status: DITERIMA, No.Surat: 029/Pan.Pel-Makesta/A/IV/7354-7455/VI/2026, Catatan Admin: -, Periode PAC: 2025-2027)
+- Pengaju: PAC KAWEDANAN (Keperluan: Permohonan pemateri makesta, Status: DITERIMA, No.Surat: 033/Pan.Pel-Makesta/A/IV/7354-7455/V/2026, Catatan Admin: -, Periode PAC: 2025-2027)
 - Pengaju: PAC PONCOL (Keperluan: surat pemberitahuan makesta, Status: DITERIMA, No.Surat: 001/PAC/A/IPNU-IPPNU/XVII/XVII/2026, Catatan Admin: -, Periode PAC: Periode IPNU-8/IPPNU-7)
 - Pengaju: Pacipnuippnumagetan (Keperluan: Pemberitahuan Makesta, Status: DITERIMA, No.Surat: 002/PAC/A/IV/7354-7455/VI/26, Catatan Admin: -, Periode PAC: 2025-2027)
 - Pengaju: PAC Karas (Keperluan: Pemberitahuan Pelantikan , Status: DITERIMA, No.Surat: 154/PAC/A/7354-7455/VI/26, Catatan Admin: -, Periode PAC: 2025-2027)

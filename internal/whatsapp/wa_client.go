@@ -4,8 +4,10 @@ import (
 	"context"
 	"fmt"
 	"log"
+	"math/rand"
 	"os"
 	"strings"
+	"time"
 
 	_ "github.com/lib/pq"
 	qrterminal "github.com/mdp/qrterminal/v3"
@@ -23,7 +25,7 @@ type WhatsmeowSender struct {
 	client *whatsmeow.Client
 }
 
-// Send mengirim pesan ke target WA ID
+// Send mengirim pesan ke target WA ID dengan simulasi pengetikan (anti-ban)
 func (s *WhatsmeowSender) Send(ctx context.Context, targetID, message string) error {
 	log.Printf("[WA-DEBUG] Send dipanggil untuk target: %s", targetID)
 	jid, err := types.ParseJID(targetID)
@@ -31,6 +33,16 @@ func (s *WhatsmeowSender) Send(ctx context.Context, targetID, message string) er
 		log.Printf("[WA-DEBUG] Gagal parse JID %s: %v", targetID, err)
 		return fmt.Errorf("gagal parse JID '%s': %w", targetID, err)
 	}
+
+	// 1. Kirim status "sedang mengetik..." (typing) ke target
+	_ = s.client.SendChatPresence(ctx, jid, types.ChatPresenceComposing, types.ChatPresenceMediaText)
+
+	// 2. Berikan jeda membaca/mengetik acak selama 2-4 detik agar terlihat manusiawi
+	delaySec := 2 + rand.Intn(3)
+	time.Sleep(time.Duration(delaySec) * time.Second)
+
+	// 3. Matikan status mengetik
+	_ = s.client.SendChatPresence(ctx, jid, types.ChatPresencePaused, types.ChatPresenceMediaText)
 
 	log.Printf("[WA-DEBUG] Memanggil s.client.SendMessage untuk %s...", targetID)
 	_, err = s.client.SendMessage(ctx, jid, &waProto.Message{
